@@ -1,0 +1,3 @@
+>PDB_00394
+GGGCGGCCUUCGGGCUAGACGGUGGGAGAGGCUUCGGCUGGUCCACCCGUGACGCUC
+((((((((....)))...((((..(((..(((....)))..)))..))))..)))))

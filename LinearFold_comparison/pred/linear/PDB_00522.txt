@@ -1,0 +1,3 @@
+>PDB_00522
+GGCGGAACCGUACACCGGAAUCCGAAAGGAUUUGGGCGUGCCCCCGCC
+(((((....((((.((.((((((....)))))).)).))))..)))))

@@ -1,0 +1,2185 @@
+>RFA_00388 RNA SSTRAND database. External source: Rfam database.
+CAAAAGUCUGGGCUAAGCCCACUGAUGAGCCGCUGAAAUGCGGCGAAACUUUUG
+..(......................(...(.........)......)....)..
+(((((((.(((((...)))))....(..((.........)).....))))))))
+(((((((.(((((...)))))....(..((.........)).....))))))))
+-3.9	-3.9	0
+
+>RFA_00389 RNA SSTRAND database. External source: Rfam database.
+GAAAGGUCUGUGCUUAGCACACUGACGAGUUCCUGAAAUGGAACGAAACCUUUU
+......(.........)..(........................)..(....).
+.....((.........)).(........(((((......)))))).((....))
+.....((.........)).(........(((((......)))))).((....))
+5.1	5.1	0
+
+>RFA_00390 RNA SSTRAND database. External source: Rfam database.
+GAUAAGUCUGUGCUAAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUUAUC
+................(.(..............(...........)......))
+................(.(......(((((...(...........).)))))))
+................(.(......(((((...(...........).)))))))
+8.8	8.8	0
+
+>RFA_00391 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUAGGCUUAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUAUG
+(...........................(...)(.....).)............
+(...(((...(((...))).))).....(...)((...)).)............
+(...(((...(((...))).))).....(...)((...)).)............
+10.5	10.5	0
+
+>RFA_00392 RNA SSTRAND database. External source: Rfam database.
+GAUAAGUCUGUGCUUAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUUAUC
+...............(....(..........).)............(...)...
+.....((((....((((...(((....))..)))))....))))..(...)...
+.....((((....((((...(((....))..)))))....))))..(...)...
+4.3	4.3	0
+
+>RFA_00393 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUUAGCCCACUGAUGAGGCGUUGAGAUACGGCGAAACUUAUG
+...........................(....).........(.(....))...
+.....((((((((...)))))..)))((....))........(.(....))...
+.....((((((((...)))))..)))((....))........(.(....))...
+3.8	3.8	0
+
+>RFA_00394 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUUAGCCCACUGAUGAGCCGUUGAGAUACGGCGGAACUUAUG
+..(.........(..........)..........)............(....).
+(.((((.((.(.(..........).).)).).))).)..........(....).
+(.((((.((.(.(..........).).)).).))).)..........(....).
+7.8	7.8	0
+
+>RFA_00395 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUUUG
+.............(..............)..((...........).......).
+..........((.(..............)))((...........).......).
+..........((.(..............)))((...........).......).
+16.3	16.3	0
+
+>RFA_00396 RNA SSTRAND database. External source: Rfam database.
+UAAGAGUCUGUGCUAAGCACACUGAUGAAUCUCUGAAAUGAGACGAAACUCUUG
+..........(........................)...(.(.......)..).
+..........(........................)...(((.......).)).
+..........(........................)...(((.......).)).
+12.7	12.7	0
+
+>RFA_00397 RNA SSTRAND database. External source: Rfam database.
+UAAGAGUCUGUGGUAAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUCUUG
+.........(.......).........(.(.....)...............)..
+....(((.(((.....))).)))...(((((...))..............))).
+....(((.(((.....))).)))...(((((...))..............))).
+2.2	2.2	0
+
+>RFA_00398 RNA SSTRAND database. External source: Rfam database.
+AAAGAGUCUGUGCUAAGCACACUGAUGAGUCUCUGAAUUGAGACGAAACUCUUG
+...(...............)(.............(...)..........)....
+...(.(.((......))).)(.......(((((.(...)))))).....)....
+...(.(.((......))).)(.......(((((.(...)))))).....)....
+6.1	6.1	0
+
+>RFA_00399 RNA SSTRAND database. External source: Rfam database.
+CAAAAGUCUGGGCUAAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUUUG
+..(......................(.....).)..(..............)..
+..(.....(((((...)))))....((...)).).(((............))).
+..(.....(((((...)))))...(((...)))).(((............))).
+4.9	4.9	6
+
+>RFA_00400 RNA SSTRAND database. External source: Rfam database.
+CAAAAGUCUGGGCUAAGCCCACUGACGAGCCGCUGGGAUACGGCGAAACUUUUG
+......(.............(............)...)....(.........).
+.....((..........((((.((......)).))))))...(.........).
+.....((..........((((.((......)).))))))...(.........).
+5.1	5.1	0
+
+>RFA_00401 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCGCUGAAAUGCGGCGAAACUUUUG
+...........(..................)..(........(.........))
+.........(.(....((.((....)).))).)(........(.........))
+.........(.(....((.((....)).))).)(........(.........))
+14.1	14.1	0
+
+>RFA_00402 RNA SSTRAND database. External source: Rfam database.
+GAUGAGUCUGUGCUAAGCACACUGAUGAGUCUAUGAAAUGAGACGAAACUCAUA
+.....(......)...........(....).(...................)..
+....(((....))).........((....))(.......(((......))))..
+....(((....))).........((....))(.......(((......))))..
+8.3	8.3	0
+
+>RFA_00403 RNA SSTRAND database. External source: Rfam database.
+CAAAAGUCUGGGCUAAGCCCACUGAUGAGCCGCUGAAAUGCGGCUAAACUUUUG
+...(.......(.................(............)......))...
+((((.......(...............((((((......))))))....)))))
+((((.......(...............((((((......))))))....)))))
+-2.8	-2.8	0
+
+>RFA_00404 RNA SSTRAND database. External source: Rfam database.
+AAAGAGUCUGUGCUAAGCACACUGACGAGUCUCUGAAAUGAGACGAAACUCUUU
+...........................(..........)(...)(.....)...
+.....((((((((...)))))..))).(..........)(...)((...))...
+.....((((((((...)))))..))).(..........)(...)((...))...
+6.1	6.1	0
+
+>RFA_00405 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCGUUGAGAUACGGUGAAACUUAUG
+..........................(...........(.(...).).).....
+.....((((((((...)))))..)))(...........(.(...).).).....
+.....((((((((...)))))..)))(...........(.(...).).).....
+4.8	4.8	0
+
+>RFA_00406 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUAUG
+.(....)....(..................).............(...).....
+.(....)....(....((.((....)).))).............(...).....
+.(....)....(....((.((....)).))).............(...).....
+11.6	11.6	0
+
+>RFA_00407 RNA SSTRAND database. External source: Rfam database.
+GAAGAGUCUGUGCUAAGCACACUGACGAGUCUCUGAAAUGAGACGAAACUCUUU
+..(...................)......(.....).(...............)
+..((....(((((...)))))))......((...)).(.(((......)))..)
+..((....(((((...)))))))......((...)).(.(((......)))..)
+2.2	2.2	0
+
+>RFA_00408 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGACGAGCCGUUGAGAUACGGCGAAACUUAUG
+..(......)...(..........)..........(................).
+..((....))((((.((....)).)...)))....(................).
+..((....))((((.((....)).)...)))....(................).
+9	9	0
+
+>RFA_00409 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCGUUGAAAUACGGCGAAACUUUUG
+........................(...((....)..............).)..
+........(((((...)))))..((..(((....)..............)))).
+........(((((...)))))..((..(((....)..............)))).
+5.3	5.3	0
+
+>RFA_00410 RNA SSTRAND database. External source: Rfam database.
+AAAGAGUCUGUGCUAAGCACACUGAUGAGUCUCUAAAAUGAGACGAAACUCUUU
+..............(.(........)...)................(.....).
+..............(.(((...)).)...)(((......)))...(((...)))
+..............(.(((...)).)...)(((......)))...(((...)))
+11	11	0
+
+>RFA_00411 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGUUAAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUAUG
+..........(.....(........).................)..(...)...
+..........(.....(........)....(((......))).)..(...)...
+..........(.....(........)...((((......)))))..(...)...
+10.6	10.6	6
+
+>RFA_00412 RNA SSTRAND database. External source: Rfam database.
+GAAGAGUCUGUGCUAAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUCUUA
+......(..((........................)..)..)............
+.((((((.(((.(..((.((........))))..))..)).)......))))).
+.((((((.(((.(..((.((........))))..))..)).)......))))).
+6	6	0
+
+>RFA_00413 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUCUG
+......(..........(........)(....)...).................
+......(..........(........)(....)...).................
+......(..........(........)(....)...).................
+15.5	15.5	0
+
+>RFA_00414 RNA SSTRAND database. External source: Rfam database.
+CAAAAGUCUGGGCUAAGCCCACUGAUGAGCUGCUGAAAUGCGGCAAAACUUUUG
+...........(.....)...................((........)...)..
+.....((((((((...)))))..)))..........(((........)...)).
+.....((((((((...)))))..)))..........(((........)...)).
+-0.7	-0.7	0
+
+>RFA_00415 RNA SSTRAND database. External source: Rfam database.
+CAGAAGUCUGGGCUAAGCCCACUGAUGAGCCGCUGAAAUGCGGCGAAACUUUUG
+..................(....).....(......(..............).)
+(((....)))........(....).....(.....(((.(........).))))
+(((....)))........(....).....(.....(((.(........).))))
+9.6	9.6	0
+
+>RFA_00416 RNA SSTRAND database. External source: Rfam database.
+CAAAAGUUUGGGCUAAAGCCCACUGAUGAGCCGCUGAAAUGCGGCGAAACUUUUG
+(......(.....................)........(...........)...)
+((..(((((((((....))))).......)..)))..((.(........))).))
+((..(((((((((....))))).......)..))).(((.(........))))))
+5.7	5.7	6
+
+>RFA_00417 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUUAGCCCACUGAUGAGCCACUGAAAUGCGGCGAAACUUUUG
+.....(....(......)........(......................).)..
+....((...((......)).......(.(((.(......).))).....).)).
+....((...((......)).......(.(((.(......).))).....).)).
+5.7	5.7	0
+
+>RFA_00418 RNA SSTRAND database. External source: Rfam database.
+GAUGAGUCUGUGCUAAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUCAUG
+.....(.......(...(........)..............)......).....
+.((((((...((.(...((......))..............).))..)))))).
+.((((((...((.(...((......))..............).))..)))))).
+2.4	2.4	0
+
+>RFA_00419 RNA SSTRAND database. External source: Rfam database.
+GAAGAGUCUGUGCUAAGCACACUGAUGAGUUUCUGAAAUGAGACGAAACUCUUG
+.....(................((.......)..)................)..
+....((..(((((...))))).(((.....))..)................)).
+....((..(((((...))))).(((.....))..)....(((......))))).
+6.2	6.2	6
+
+>RFA_00420 RNA SSTRAND database. External source: Rfam database.
+UCCAGUCGAGACCUGAAGUGGGUUUCCUGACGAGGCUGUGGAGAGAGCAAAUUGCUUUACUCCCGCACAAGCCGAAACUGGA
+...........(.......).(............(.(.....).................)................)....
+(((........((....).).(((((((..((.((.(.....)((((((...))))))..)).))....))..))))).)))
+(((........((....).).(((((((..((.((.(.....)((((((...))))))..)).))....))..))))).)))
+3.5	3.5	0
+
+>RFA_00421 RNA SSTRAND database. External source: Rfam database.
+UCCAGUCGAGACCUGAAGUGGGUUUACUGAUGAGGCUGUGGAGAGAGCGAAAGCUUUACUCCCACACAAGCCGAAACUGGA
+..........(............)(.(....)..)....(.....................)...................
+((((((((..((((.....))).)(.(....)..).((((((((((((....))))).)))).))).....)))..)))))
+((((((((..((((.....))).)(.(....)..).((((((((((((....))))).)))).))).....)))..)))))
+-12.7	-12.7	0
+
+>RFA_00422 RNA SSTRAND database. External source: Rfam database.
+UCCAGUCGAGACCUGAAGUGGGUUUCCUGACGAGGCUGUGGAGAGAGCUUUCGCUUUACUCCCGCACAAGCCGAAACUGGA
+..(....).....(.(.(.................)..).......................................)..
+(((....).)).((.((((..(((....)))...))).)(((((((((....))))).)))).((....)).......)).
+(((....).)).((.((((..(((....)))...))).)(((((((((....))))).)))).((....)).......)).
+-4.2	-4.2	0
+
+>RFA_00423 RNA SSTRAND database. External source: Rfam database.
+UCCAGUCGAGACCUGAAGUGGGUUUCCUGACGAGGCUGUGGAGAGAGCUAUUGCUUUACUCCCGCACAAGCCGAAACUGGA
+..............(..........(...........)...............).(..(.............).)......
+((((((........(.(((((.((((((....))...).....))).))))).).((.(....((....)).)))))))))
+((((((........(.(((((.((((((....))...).....))).))))).).((.(....((....)).)))))))))
+2.2	2.2	0
+
+>RFA_00424 RNA SSTRAND database. External source: Rfam database.
+UCCAGUCGAGACCUGAAGUGGGUUUCCUGAUGAGGCUGUGGAGAGAGCGAAAGCUUUACUCCCGCACAAGCCGAAACUGGA
+...................(.(...)).......................((....)..).....................
+((((((..((.(((.(...(.(...))...).)))))..((.....(((.((....)..)..))).....))...))))))
+((((((..((.(((.(...(.(...))...).)))))..((.....(((.((....)..)..))).....))...))))))
+-2.9	-2.9	0
+
+>RFA_00425 RNA SSTRAND database. External source: Rfam database.
+ACAGAGUCUGACAAACCGUCACUGAAGACGUUCAACUUGCGUUGAACAGAAACUCUGC
+...................(...........(......)(........).......).
+...................((..........(......)(........)......)).
+...................((..........(......)(........)......)).
+11.6	11.6	0
+
+>RFA_00426 RNA SSTRAND database. External source: Rfam database.
+ACAGGGUCUGACAAACCGUCACUGAAGACGUUCAACUUGCGUUGAACAGAAACUCUGC
+.....(.(..................)...............(........)..)...
+....((((((((.....))).....)))(((.......))).(........)..))..
+....((((((((.....))).....)))(((.......))).(........)..))..
+6.9	6.9	0
+
+>RFA_00427 RNA SSTRAND database. External source: Rfam database.
+UCACCGUCGGAAAGUGUGCGCUUUCCCUGAUGAGCCCGAAAGGGCGAAACGGUAC
+..............(.........(.(....)..........)..).........
+..(((((.......(((.......(((....).........)))))..)))))..
+..(((((.......(((.......(((....).........)))))..)))))..
+1.8	1.8	0
+
+>RFA_00428 RNA SSTRAND database. External source: Rfam database.
+UCACCGUCGGAAAGUGUGCGCUUUCCCUGAUGAGCCCAAAAGGGCGAAACGGUAC
+................(..(..........(........).........))....
+................(..(.(((((((..(........).))).))))))....
+................(..(.(((((((..(........).))).))))))....
+2.1	2.1	0
+
+>RFA_00429 RNA SSTRAND database. External source: Rfam database.
+GGGUGGUGUGUACCACCCCUGAUGAGUCCGAAAGGACGAA
+.............(.....(......(...))..).....
+.............(.(...(......(...)).)).....
+.............(.(...(......(...)).)).....
+13.3	13.3	0
+
+>RFA_00430 RNA SSTRAND database. External source: Rfam database.
+CCACCGUCGGAAAGUGUGUACUUUCCCUGAUGAGUCCGAAAGGACGAAACGGUAC
+......((...................(....))...........).........
+..(((((((((((((....))))))).(....))(((....))).)...))))..
+..(((((((((((((....))))))).(....))(((....))).)...))))..
+4.1	4.1	0
+
+>RFA_00431 RNA SSTRAND database. External source: Rfam database.
+GGGUGGUGUGUGCCACCCCUGAUGAGUCCGAAAGGACGAA
+.........(....(....(.....)))............
+..((..((.(....(....(.....))))).....))...
+..((..((.(....(....(.....))))).....))...
+12.2	12.2	0
+
+>RFA_00432 RNA SSTRAND database. External source: Rfam database.
+CCACCGUCGGAAAGUGUGCGCUUUCCCUGAUGAGCCCAAAAGGGCGAAACGGUAC
+......(................(................))...(......)..
+...((.(................(...((.......))..)))).(......)..
+...((.(................(...((.......))..)))).(......)..
+15	15	0
+
+>RFA_00433 RNA SSTRAND database. External source: Rfam database.
+GAAGAGUCUGCGCUAAGCGCACUGAUGAGUCUUUGAAAUAAGACGAAACUCUUC
+.(.......................)(......).......(........)...
+.(..(((..((((...)))))))..)((....)).....((((......)))).
+.(..(((..((((...)))))))..)((....)).....((((......)))).
+-0.1	-0.1	0
+
+>RFA_00434 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCUUUGCGAUAAGGCGAAACUUAUG
+...(.........)........(...........(...)......)........
+..((.((....)))).......(.....(((.(((...)))))).)........
+..((.((....)))).......(.....(((((.(...)))))).)........
+6.6	6.6	6
+
+>RFA_00435 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCUUUGCGACAAGGCGAAACUUAUG
+................((.....)........(...)...............).
+................(........................(......)...).
+................((.....)....(((((...)...))))........).
+10	10	6
+
+>RFA_00436 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUUAGCCCACUGAUGAGUCGCUGCGAUGCGACGAAACUUAUG
+........(.........(....).....(.........).....)........
+(((((((.(.(.......(....)....((((...))..))..).).)))))))
+(((((((.(.(.......(....)....((((...))..))..).).)))))))
+1.2	1.2	0
+
+>RFA_00437 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUUAGCCUACUGAUGAGUCGCUGCGAUGCGACGAAACUUAUG
+.............(............((..........)....).......)..
+.............(.((........(((.(((...))))....))...)).)..
+.............(.((........(((.(((...))))....))...)).)..
+11.6	11.6	0
+
+>RFA_00438 RNA SSTRAND database. External source: Rfam database.
+GAAGAGUCUGCGCUUAGCGCACUCAUGAGUCUCUGAGAUGAGACGAAACUCUUC
+(....................(....)...(...).................).
+(.(((((..((((...)))).(....)..((...))...........)))))).
+((.((((..((((...)))).(....)..((...))...........)))))).
+-0.8	-0.8	6
+
+>RFA_00439 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUUAGCCCACUGAUGAGUUGCUGCGAUGCAACGAAACUUAUG
+..(.....(...........................))......(.......).
+(((.....((....((((..(((....))).)))))))))...((.......))
+(((.....((....((((..(((....))).)))))))))...((.......))
+4.7	4.7	0
+
+>RFA_00440 RNA SSTRAND database. External source: Rfam database.
+GAAGAGUCCUGCGCUUAGCGCACUGACGAGUCUCUGAGAUGAGACGAAACUCUUC
+(........)...(.....................).(..............)..
+(........)...(..((...(((....)))))..).(..(((......))))..
+(........)...(..((...(((....)))))..).(..(((......))))..
+9.3	9.3	0
+
+>RFA_00441 RNA SSTRAND database. External source: Rfam database.
+GAAGAGUCUGUGCUAAGCACACUGACGAGUCUCUGAAAUGAGACGAAACUCUUC
+.....(....).....(......(..............)..........)....
+..((.(....).))..(....(((...((...))....).)).......)....
+..((.(....).))..(....(((...((...))....).)).......)....
+15.9	15.9	0
+
+>RFA_00442 RNA SSTRAND database. External source: Rfam database.
+CAAAAGUCUGGGCUAAGCCCACUGAUGAGUUGCUGAAACGCAACGAAACUUUUG
+..............(..........)...........(.........(...)).
+....(((...(((((((....))..).)))))))...(.........(...)).
+....(((...(((((..........).)))))))...(.........(...)).
+13.7	13.7	-6
+
+>RFA_00443 RNA SSTRAND database. External source: Rfam database.
+CAAAAGUCUGGGCUAAGCCCACUGAUGAGUUGCUGAGAUGCGACGAAACUUUUG
+.....(.............)......(..........(.............)).
+.....(....(((...))))......(..........(.............)).
+.....(....(((...))))......(..........(.............)).
+11.8	11.8	0
+
+>RFA_00444 RNA SSTRAND database. External source: Rfam database.
+ACGCUGUCUGUACUUGUAUCAGUACACUGACGAGUCCCUAAAGGACGAAACAGCGC
+........(........)(.........(.....)..............)......
+.(((((..((......))(..((.(.(((.....)......)))))...)))))).
+.(((((..((......))(..((.(.(((.....)......)))))...)))))).
+10.7	10.7	0
+
+>RFA_00445 RNA SSTRAND database. External source: Rfam database.
+ACGCUGUCUGUACUUAUAUCAGUACACUGACGAGUCCCUAAAGGACGAAACAGCGC
+..(...(....).(.........................)...............)
+..((.((....))(....((((....)))).........)..............))
+..((.((....))(....((((....)))).........)..............))
+9.1	9.1	0
+
+>RFA_00446 RNA SSTRAND database. External source: Rfam database.
+CCGGUGUCUCAAGGUGCGUACCUUGACUGAUGAGUCCGAAAGGACGAAACACCAG
+.........(.......).........(.(....)........)...........
+..(((((..(.......).........(((....)).......)....)))))..
+..(((((..(.......).........(((....)).......)....)))))..
+6.7	6.7	0
+
+>RFA_00447 RNA SSTRAND database. External source: Rfam database.
+GAAGAGUCUGUGCUAAGCACACUGACGAGUCUCUGAGAUGAGACGAAACUCUUC
+........(...................(..............).).(....).
+........(((((...))))........(((((......))))).).(....).
+........(((((...))))........(((((......))))).).(....).
+0.9	0.9	0
+
+>RFA_00448 RNA SSTRAND database. External source: Rfam database.
+CAUAAGUCUGGGCUAAGCCCACUGAUGAGUCGCUGAAAUGCGACGAAACUUAUG
+.....(..(...........)....)................(......)....
+.....((((((((...)))))..)))....(((......)))(......)....
+.....((((((((...)))))..)))....(((......)))(......)....
+-4.4	-4.4	0
+
+>RFA_00449 RNA SSTRAND database. External source: Rfam database.
+CCGCUAUAUGGGGAUGUGUGUCCCUACUGACGAGUUCAAAAGAACGAAAUAGUUA
+......(.....).................(..............)...(....)
+.(((..(.....)..)))............(..((((....)))))...(....)
+.(((..(.....)..)))............(..((((....)))))...(....)
+8.4	8.4	0
+
+>RFA_00450 RNA SSTRAND database. External source: Rfam database.
+UCCAGUCGAGACCUGAAGUGGGUUUCCUGAUGAGGCUGUGGAGAGAGCGAAAGCUUUACUCCCACACAAGCCGAAACUGGA
+..........(...(.......).............)...........(...(...........).....)..........
+(((((((.(.(((((.......).........))).).).))....(.(...(...........).....))....)))))
+(((((((.(.(((((.......).........))).).).))....(.(...(...........).....))....)))))
+6.6	6.6	0
+
+>RFA_00582 RNA SSTRAND database. External source: Rfam database.
+GGCUGGUCGAAGGUAGUGAGUUAUCUCAAUUGAUUGUUCACAGUCAGUUACAGAUCGAACUCCUUGUUCUACUCUUUCCCCCCUUCUCACUACUGCACUUGACUAGUCUU
+...(...........................(.................(...................)..(.....................)).........)....
+((.(.(((((......((((....))))..((................((......((((.....)))))).(.....................))).)))))..).)).
+((.(.(((((......((((....))))..((................((......((((.....)))))).(.....................))).)))))..).)).
+10	10	0
+
+>RFA_00583 RNA SSTRAND database. External source: Rfam database.
+GGCUGGUCCGAGUGCAGUGGUGUUUACAACUAAUUGAUCACAACCAGUUACAGAUUUCUUUGUUCCUUCUCCACUCCCACUGCUUCACUUGACUAGCCUU
+......(............(..............................).).................(..........)...(.........)....
+......(............(((......(((..(((....)))..)))))).).................(..........)...(.........)....
+......(............(((......(((..(((....)))..)))))).).................(..........)...(.........)....
+17.7	17.7	0
+
+>RFA_00584 RNA SSTRAND database. External source: Rfam database.
+AGUUGGUCCGAGUGUUGUGGGUUAUUGUUAAGUUGAUUUAACAUUGUCUCCCCCCACAACCGCGCUUGACUAGCUUG
+...........(.(..........(..........)).(......)...................)...........
+((((((((..((.(..........(((......)))).((....))...................))))))))))..
+((((((((..((.(..........(((......)))).((....))...................))))))))))..
+10.2	10.2	0
+
+>RFA_00585 RNA SSTRAND database. External source: Rfam database.
+GGCUGGUCCGAAGGCAGUGGUUGCCACCAUUAAUUGAUUACAGACAGUUACAGACUUCUUUGUUCUUCUCCCCUCCCACUGCUUCCCUUGACUAGCCUU
+...............(..................(.......).............)....(..............).................(...)
+...(((((..((((.(..((((...........((.......))........)))))...((..............)).......)))))))))(...)
+...(((((..((((.(..((((...........((.......))........)))))...((..............)).......)))))))))(...)
+13.3	13.3	0
+
+>RFA_00586 RNA SSTRAND database. External source: Rfam database.
+GGUUGGUCCGAAAGUUGUGGGUUAUCCAAAUCAUUCAGUUAGUAUCACUAACCUUCUAUUUCACCCCACUGCUGACCUUGACUGGCCAA
+...................................(...(..........)...........(......)...).(...).........
+..((((((.....(...(((.....)))...)..((((.((((...))).)...........(......).))))(...)...))))))
+..((((((.....(...(((.....)))...)..((((.((((...))).)..........((......))))))(...)...))))))
+4.4	4.4	6
+
+>RFA_00587 RNA SSTRAND database. External source: Rfam database.
+GGCUGGUCCGAUUGCAGUGGUACUUAUAAUUAAUUGAUCACAGUCAGUUACAGGUUUCUUUGUUCUUUCUCCACUCCCACUGCUUCACUUGACUAGUCU
+........(.......................(....)...((..............................).........)...........)...
+........(......((((.............(....)...(((.((..(((((....))))).....))..)).........).))))......)...
+........(......(((((............(....)...(((.((..(((((....))))).....))..)).........))))))......)...
+13.5	13.5	6
+
+>RFA_00588 RNA SSTRAND database. External source: Rfam database.
+GGCUGGUCCGAAAGUAGUGGGUUAUCACAGAAAUUAUUACAGUUAGUUUCACUAACCUUUCUAAGUUCCACCCCACUGCUAACCUUGACUGGUCUU
+.(...........(.......................................(.......)......)(.........)....)...........
+((..(((......(..((((....)))).(((((((.......)))))))..((.......)).....)(.(.....).).)))))..........
+((..(((......(..((((....)))).(((((((.......)))))))..((.......)).....)(.(.....).).)))))..........
+10.9	10.9	0
+
+>RFA_00589 RNA SSTRAND database. External source: Rfam database.
+GGCUGGUCCGAUGGUAGUGGGUUAUCAGAACUUAUUAACAUUAGUGUCACUAAAGUUGGUAUACAACCCCCCACUGCUAAAUUUGACUGGCUUU
+.................................(......).((.(...............).........)...............)......
+..(((((((.((....)).))..))))).....((....))((((((.((((....)))))))........)...............)).....
+..(((((((.((....)).))..))))).....((....))((((((.((((....)))))))........)...............)).....
+7.9	7.9	0
+
+>RFA_00590 RNA SSTRAND database. External source: Rfam database.
+GCUCGGUCCGAGUUUCAUGGUCUCCAAUGUGUGUGUGUGUGUGUUUUCUUUAGGAACCUCGGUUCCAACCUCAUCUUGACCUUGAAACUACUUUGACCGCUCCU
+..................(...).......(.................)........................(..........).........(........)
+(((((...))))).....(...).......(.................)...(((((....))))).......((........)).........(........)
+(((((...))))).....(...).......(.................)...(((((....))))).......((........)).........(........)
+7.1	7.1	0
+
+>RFA_00591 RNA SSTRAND database. External source: Rfam database.
+GGUUGGUCCGAGAGUAGUGGUGUUUACAACUAAUUGAUCACAACCAGUUACAGAUUUCUUUGUUCCUUCUCCGCUCCCACUGCUUCACUUGACCAGCCUU
+(................(.............)..........(.................)(........))............................
+(..(((((.........((((.......))))...)))))..(..((..........)).)(........)).........(((((....))..)))...
+(..(((((.........((((.......))))...)))))..(..((..........)).)(........)).........(((((....))..)))...
+9.7	9.7	0
+
+>RFA_00592 RNA SSTRAND database. External source: Rfam database.
+GGCUGGUCCGAAGGUAGUGAGUUAUCUCAAUUGAUUGUUCACAGUCAGUUACAGAUUGAACUCCUGUUCUACACUUUCCCCCCUUCUCACUACUGCACUUGACUAGUCUU
+.(.............(................(...........)..........)..........(...)......................)................
+.(.((((..(((((.(.((((....))))...(..((....)).)..........)........(((...)))........)))))..)))).)................
+.(.((((..(((((.(.((((....))))...(..((....)).)..........)........(((...)))........)))))..)))).)................
+6.6	6.6	0
+
+>RFA_00593 RNA SSTRAND database. External source: Rfam database.
+AGUUGGUCCGAAGGUUGUGGGUUAUCGUUAUUGAUUUAACAUUGUCUCCCCCCACACCCCCUCUUGACUAGCUUU
+.(.(................).....(.................(........)...).....)...........
+((.(...(((.......)))).....(...............(((........))).).....))..........
+((.(...(((.......)))).....(...............(((........))).).....))..........
+16.8	16.8	0
+
+>RFA_00594 RNA SSTRAND database. External source: Rfam database.
+AGUUGGUCCGAAGGUUGUGGGUUAUCGUUAUUGAUUUAAUAUUGUCUCCCCCCACACCCCCUCUUGACUAGCUUU
+..............(.......(......).......)................(..(.......)....)....
+....((..(((...(.((.((.((....)))).))..)...)))...)).....(..(.......)....)....
+....((..(((...(.((.((.((....)))).))..)...)))...)).....(..(.......)....)....
+11.3	11.3	0
+
+>RFA_00595 RNA SSTRAND database. External source: Rfam database.
+GGCUGGUCCGAUGGUAGUGGGUUAUCAGAACUUAUUAACAUUAGUGUCACUAAAGUUGGUAUACAACCCCCCACUGCUAAAUUUGACUGGCNU
+..............................(....(.....(............)..).................)(.......)........
+..(((((((.((....)).))..)))))..(.((((((...((((...)))...)))))))..............)(.......)........
+..(((((((.((....)).))..)))))..(.((((((...((((...)))...)))))))..............)(.......)........
+7.3	7.3	0
+
+>RFA_00596 RNA SSTRAND database. External source: Rfam database.
+GGCUGGUUGGAAGGUAGUGAGUUAUCUCAAUUGAUUAUUCACAGUCCGCUACAGAUUGAACUCCUGUUCUAUACUUUUUCCACUUCUCACUUCUGCACAUGACUAAGGAU
+..(.....)..........................................................(....)..................((.......)......)..
+..(.....)((((...((((((.(((......))).))))))........((((.........))))(....).........))))....(((.......)......)).
+..(.....)((((...((((((.(((......))).))))))........((((.........))))(....).........))))....(((.......)......)).
+3.6	3.6	0
+
+>RFA_00597 RNA SSTRAND database. External source: Rfam database.
+UGUCAUUCCGGAGAGGGGCGUUUUCUUCUUUCUCUAACCCUAAUGUAUUGCUUGGGCAGCAGCUCUCUCGGUAUGCUCGCUGUUUUGCUGGCUAACUUUCAGCGAGCAGAGGGCGAAGUCGAAUUUCGGACAAGGGAGAAAAAAUGUUAGCCGGGGAACGCCCCUUUCCCGAAUGCCCGUGCCGUCCUUCCUCUCCUCUGGGCCCGUUGGCGAUAGCCCCCGGCCUCCCUCGCUCCUUAGGCCGCGGUCAGUCCGGGCCCUUGCUCUGGCAUGAGGUCCAUUGCUGCCGCGAAGAGUUCGUCUCUGUCAGCCUUGAGGUGGCCAGCAUGGAAUUGGCGGGCUUGUGGCGGCGCGCGGGAAAAAGCAAAUGGUGAACUAGGUGCGUGUUGUGGUCGUGUUCCUGAAGCGUGGAAUGUGCGAUCUGUGCGCUAGUUCAUACACAC
+......................................(.....................................................................................(............(......................)..............................................................(......................)..........................)................................................................................................................................)....(.....................).............
+.........(((((((((.(....).)))))))))...(.....((((((...((((....))))...))))))(((((((((((((((((((..(((...((..(((((((.((((.((...((((((..(((((.(......((((........))))))))))..)))).....(((((((...............(((((((..(((....)))...((((.((((........)))..).))))....)))))))......))))))))).....((((....)))).)).)))))))))))..))...)))..))))))))..))).))))))))....((.(((((((.(.((...(((..(((....)))..)))...)).).).)))))))).)....(......(((((.....)))))).............
+.........(((((((((.(....).)))))))))...(.....((((((...((((....))))...))))))(((((((((((((((((((..(((...((..(((((((.((((.((...((((((..(((((.(......((((........))))))))))..)))).....(((((((...............(((((((..(((....)))...((((.((((........)))..).))))....)))))))......))))))))).....((((....)))).)).)))))))))))..))...)))..))))))))..))).))))))))....((.(((((((.(.((...(((..(((....)))..)))...)).).).)))))))).)....(......(((((.....)))))).............
+-113.9	-113.9	0
+
+>RFA_00598 RNA SSTRAND database. External source: Rfam database.
+UUAAUUAGAGGGAUUGGAAGGUUCCGCUUAUGCUAACCCUAAUAUUGGGGGUCUGUUGAAAACCUCUUUAAGAUAUGCGUGUUGUUUUAUUGGCUGACUUUCAGCGCGCAUUGAGAGGAGUUGCUGCCCAGGACUAAAAAAUGUCAGCUGGGAGUCCUUCCUCUCCCUUAUUUCUGCCUCACAACCUGGACUCUUUAUUUAGCGGUGCCCCAUUUGUCGAGGCCGCAGUCAGUCUUGUUCUUAUACGCUGCUGUUGCGAAGAGUUCGUCUCUGUCAGCCUCCGGGGCAACGCCUUGAAUUUGGAGAGCCUGGGAAUGUAACAAGGGGUAGGGAAAAUAACGAGAGCUGAGUUGGCUUCUCCUGUGCUGUUCCUGAGCUGUGGAACUUGCAAUCGCAGUCGGCUCUGACACUU
+.............................................................................................................................(........................(..........................................................................................(.............................................)...((.............)........................................)........).............................................).........
+......((.((((((....)))))).))...((..(((((.......)))))..))......((((((......((((((((((.................)))))))))).)))))).((((..(.((..((((.........(((..((.((((..........((.(((.(.(((((((((...(((((((......)).))).))....)))).))))).).))).))........((....(((.(.(..((((((((.....)))).)).))..).).)))))..((((.........)))(((.(........).)))......................)....))))))..)))(((.(((((........)))))..))).....)))))).).))))....
+......((.((((((....)))))).))...((..(((((.......)))))..))......((((((......((((((((((.................)))))))))).)))))).((((..(.((..((((.........(((..((.((((..........((.(((.(.(((((((((...(((((((......)).))).))....)))).))))).).))).))........((....(((.(.(..((((((((.....)))).)).))..).).)))))..((((.........)))(((.(........).)))......................)....))))))..)))(((.(((((........)))))..))).....)))))).).))))....
+-62.6	-62.6	0
+
+>RFA_00599 RNA SSTRAND database. External source: Rfam database.
+GGCGGGUUGCGGGAGCUGCGAGCGGCCGUCUCGUCUAACCCUAAAGAGAAAGGCGUAGGUGCUUGGCCUUGGCGACUCGCCCGCUGUUUUUUGGCUGGCUUUCAGCGGGUGAAGAGGCCCAAGACCUACCGCCACCCACCGUCUAGUGUCUUAAGGGCACAAAGUCCUGCCCGCCACCCUUCGAGGAGCGAAACCCAAAAAAGUCAGCCCCUGGCCGCCUCUCGCCCUCUCGCAACCCGCCUCCGUCCCAGCCUCCAUCCCCGCCCCAGGCCGCGGUCGGUCCGGGCUUCUUCGGAAGUCCCGUUGCCGUCGCGAAGAGUUCGCCUCUGUCAGCCGCGGGGCUUGGGGCCAGGGACGGGACCCUGUCCGCAGGGAGAGAAACUGGAGCCGGGCCCUCCACGGUGCCUCCCCGAGCUGUGGGAUCUGCACCCGGGACUCGAACCCUACACUU
+..............................................................................(...................................................(..................)................(.....................................................................................................................).........................(.......)...(...................................................................................)........)...................................
+..((((((.((((.((.((.((.(((((...((((((..(((........)))..))))))..))))))).))..(.((...((((((((((.(((.(((...))).))).)))))))............(.(((..........))).).....((((..(((.((((.............((((.((((...........(((((...)))))......))))))))..((.....))..(((.(((.((((.............)))).).)).)))..)))))))...(((.....))).))))..(.......)...(.........((((.(((((((((..((((........(((((....))))).......))))..)))))))))...))))...).....))))).)......)).)))).))))))............
+..((((((.((((.((.((.((.(((((...((((((..(((........)))..))))))..))))))).))..(.((...((((((((((.(((.(((...))).))).)))))))............(.(((..........))).).....((((..(((.((((.............((((.((((...........(((((...)))))......))))))))..((.....))..(((.(((.((((.............)))).).)).)))..)))))))...(((.....))).))))..(.......)...(.........((((.(((((((((..((((........(((((....))))).......))))..)))))))))...))))...).....))))).)......)).)))).))))))............
+-112.1	-112.1	0
+
+>RFA_00600 RNA SSTRAND database. External source: Rfam database.
+GUCCAGCUGCGGGGAGAAAGUGUCGUUCUCUAACCCUAAUGCGAGGGCAAUGCGGGCCCUUUGUUUAAAGUCCCGUUGUCGCGCGAAGCGGGAGCCCUCGCUGUUUUCUUGGCUAACUUUCAGCGAUGGUGAAAGGGCCUAGCAAAGGUUGGGAAGCGUGAUUUAUUGUUGGUGGGCAGAGAGAAAAAAGUUUCAGCCGCGGCCUCCUCCCCGGCGGCCCAGGACCCCCUGUUGCAACGUGCGAAAUGGCGGCCUCGGCCCCCACCUUUGCUCGCAUGCCCAGCCGAGUAGGCCGCGGUCAGCGCCGGCUUCCACGCCAGUGUGGGGCUUGAUGCUGUCGCGAAGAGUUCGUCUCUGUCAGCCUGGCAGGGGGUGCUACGCAGGGUCGGGGUACGGGGGACAGGGAGAUUAAAUAGCUUGACCAGACGCUAUAACCUGUACUGCAUCUCCCAGAGCUGUGGGACCUGCAAAUCUGCGCUGGUCAUACAUUU
+...................................................(.............................................(...................................................................................)..............................................................................................).............(.........................................................................(.............................................................................................)..(..........).................)
+.....((...((((((((.......)))))...)))....))..((((...((((((.............(((((((.((....)))))))))...(((.((((............((.((((((((((........((((((....)))))).........)))))))))).)))))).)))............((((.((......)).))))((((.(((.((((...(((((...)))))...)).))))).)))).........)))))..))))).........(..(((((.((((((.(((((((((....))).)))))).).)))))))))).((((.....)))).(((((..(((.((((((((...(((((...((.((....((..((((............)))).))..)).))....)))))...))))).)))...))..).(((........)))..))))).........)
+.....((...((((((((.......)))))...)))....))..((((...((((((.............(((((((.((....)))))))))...(((.((((............((.((((((((((........((((((....)))))).........)))))))))).)))))).)))............((((.((......)).))))((((.(((.((((...(((((...)))))...)).))))).)))).........)))))..))))).........(..(((((.((((((.(((((((((....))).)))))).).)))))))))).((((.....)))).(((((..(((.((((((((...(((((...((.((....((..((((............)))).))..)).))....)))))...))))).)))...))..).(((........)))..))))).........)
+-130.7	-130.7	0
+
+>RFA_00601 RNA SSTRAND database. External source: Rfam database.
+GGGUUGUGGAGGGUGGGCCUGGGAGGGGAAGCGGUCAGUUUUUGUCUAACCCUAACUGAGAAGGGCGUAGGCGCCGCGCUUUUGUUUCCCGCACGCUGUUUUUUUCGCUGACUUUCAGCGGGCGGAAAAGCCUCGGCCUACCGCCGUCCACCGUACAGUUUGGAGCAAACAAAAAAUGUCAGCUGCUGACUUGCUCGCCCCUCCCAGGACCCUGCGGUGGCUCGCCUCCUUAGCCCCCGCGUCCCGCCUAGAGGCCGCGGUCGGCCCGGGGCUUCUCCGGAGGCACCCAUUGCCGUCGCGAAGAGUUGGGCUCUGUCAGCCGCGGGUCCCUUGGGGGGGCCGAGGGCGAGGCUCUGACCGCAGGGAGAGAAACGGGAGCAGGUCCCCGCGCGCGGUGCGCUUCCCUGAGCUGUGGGACUUGCACCCGGGACUGGGCUCAGACACAU
+..................................................................(........(...............................).....................................................................................).............................................(..............................................................................................................................)..........................................(..........)......(...............)..
+((((((.(((((..((((((((((((((....((.((.....)).))..((((........)))).(((((....(((...........................))).((((..(.(.((((((....((....))......)))))).).)...)))).(.(((..(((.....)))..))).)...)))))...))))))))))).))).((....))...))))).))))))...(.((((((.(((((.((((((.((((..((((((((....))))).)))...))))))))).(((((...)))))....(((...(((((((...)))))))...)))..).)))))...)).))))).....((((..((((....(((((...)))))....)))).((..........)).))))((.(((....))).).)..
+((((((.(((((..((((((((((((((....((.((.....)).))..((((........)))).(((((....(((...........................)))......(((((.(((((....((....))...))))).((((..........))))((..(((.....)))..)).))))))))))...))))))))))).))).((....))...))))).))))))...(.((((((.(((((.((((((.((((..((((((((....))))).)))...))))))))).(((((...)))))....(((...(((((((...)))))))...)))..).)))))...)).))))).....((((..((((....(((((...)))))....)))).((..........)).))))((.(((....))).).)..
+-154.1	-154.1	-6
+
+>RFA_00602 RNA SSTRAND database. External source: Rfam database.
+GGGUUGCGGAGGGUGGGCCUGGGAGGGGUGGUGGCCAUUUUUUGUCUAACCCUAACUGAGAAGGGCGUAGGCGCCGUGCUUUUGCUCCCCGCGCGCUGUUUUUCUCGCUGACUUUCAGCGGGCGGAAAAGCCUCGGCCUGCCGCCUUCCACCGUUCAUUCUAGAGCAAACAAAAAAUGUCAGCUGCUGGCCCGUUCGCCCCUCCCGGGGACCUGCGGCGGGUCGCCUGCCCAGCCCCCGAACCCCGCCUGGAGGCCGCGGUCGGCCCGGGGCUUCUCCGGAGGCACCCACUGCCACCGCGAAGAGUUGGGCUCUGUCAGCCGCGGGUCUCUCGGGGGCGAGGGCGAGGUUCAGGCCUUUCAGGCCGCAGGAAGAGGAACGGAGCGAGUCCCCGCGCGCGGCGCGAUUCCCUGAGCUGUGGGACGUGCACCCAGGACUCGGCUCACACAUGC
+...................................................................................................................................(....................................(..........................................(......................................................................................................................................)..........(.............................................................)....).............(.........)).
+(((..(((((((.((((((((.(.(((((...(((........)))..)))))..((....))..).))))).)))..)))))))..)))....(((.((((.((((((((...)))))))).)))).)))(..(((.....))).......((((......))))..((.......(((((...))))).......((((....))))((((..((((...)))).((((.((((((((((((((.((((....((((((.(((..((((((((....))))).)))...))))))))).(((((...))))).)))).)).))))...))))))))..)))).)))).......(((..(((..((((.........(((.....))).(((((...)))))....)))).)))..)))..)).............(.........)).
+(((..(((((((.((((((((.(.(((((...(((........)))..)))))..((....))..).))))).)))..)))))))..)))....(((.((((.((((((((...)))))))).)))).)))(..(((.....))).......((((......))))..((.......(((((...))))).......((((....))))((((..((((...)))).((((.((((((((((((((.((((((((((((((.(((..((((((((....))))).)))...)))))))).........))).)).)))).)).))))...))))))))..)))).)))).......(((..(((..((((.........(((.....))).(((((...)))))....)))).)))..)))..)).............(.........)).
+-147.1	-147.1	6
+
+>RFA_00603 RNA SSTRAND database. External source: Rfam database.
+UUAUACCCGCUUAAUUCAUUCAGAUCUGUAAUAGAACUGUCAUUCAACCCCAAAAAUCUAGUGCUGAUAUAACCUUCACCAAUUAGGUUCAAAUAAGUGGUAAUGCGGGACAAAAGACUAUCGACAUUUGAUACACUAUUUAUCAAUGGAUGUCUUAUUUUUUUU
+...........................................................................(.(...(....................................)........).............).........(........)....
+.............(((((((...(((.(((.((((.....................)))).))).))).......(((...(((..((((..((........))...))))..))...)........).)...........)..)))))))(........)....
+.............(((((((...(((.(((.((((.....................)))).))).))).......(((...(((..((((..((........))...))))..))...)........).)...........)..)))))))(........)....
+18.3	18.3	0
+
+>RFA_00604 RNA SSTRAND database. External source: Rfam database.
+AGAUACCUCCUGUGGAUCCAUUCAGGAUUAAUGAAAUCCUGUCAUUCAACCCCAAAAAUCUUGUCAAAUUAUUGCCUCGUCUUUUGGGCACAAACAAAAGUCACGCAGGAGGUUCAGACAUUCGACAUAAGAUACACUAUUUAUCUUAUGGAAGGUCUAGUUUUU
+.(..............)............................(.......................(.......................)......(..................)......)......................................
+.(...((......)).).....(((((((.....)))))))....(................(((....(..(((((........)))))...)....(((..(............)..))).))))..((((...((((.......))))...)))).......
+.(...((......)).).....(((((((.....)))))))....(................(((....(..(((((........)))))...)....(((..(............)..))).))))..((((...((((.......))))...)))).......
+0.4	0.4	0
+
+>RFA_00605 RNA SSTRAND database. External source: Rfam database.
+GACAAUUGCUGUAUUCAUUCUCCUUUCUCGAUAGAGAUUGGAGUCAUACAACCCCAGAAACCAUUCCUUAUACCUUGAGUAUUGCUGAAUUCAGUUUAGCGUGCAUGCUCUUGGCUAUUCUCAUAGUGAUUGUCAAAUUUGGAGUUACUUAUUCGUCAAUUCAAUAUUUAUGACG
+.................(...........).............................(..............(..........(......)..................................................)......................)........
+..(((((.((((.....(...........))))).)))))..((((((..........((..............((.......((((....))))..(((......))).(((((...((.......))..)))))......))..((......))..........)))))))).
+..(((((.((((.....(...........))))).)))))..((((((..........((..............((.......((((....))))..(((......))).(((((...((.......))..)))))......))..((......))..........)))))))).
+0.3	0.3	0
+
+>RFA_00606 RNA SSTRAND database. External source: Rfam database.
+GGAUAUAGGGUAGUUCUCCAUUGACUAAUCCGUCAAAUCUGUCAAACAAAACCCCAAAACCGAUCAAUAGGUGCGUUUAGCUUGAUUACACCUCUUAAAUGAAAUCUUGCAAUUCUGGAGAGCUUGAGAGGUGAAACCCCCACAGUUAGGUCAAACAUAGUUUGAGAUUUGUAUCUCAUAUGCUCUAGCUGUCCUCUCAUCUUUUUG
+............................(...........)......(.................................................................(.(.....)..............................).................................................)....
+.......(((......)))........((...........))((((.((.........(((........))).......((..((((.((.........)).))))..))..((.........................((.......))..))..((((((((((((....))))))........)))))).........))))))
+.......(((......)))........((...........))((((.((.........(((........))).......((..((((.((.........)).))))..))..((.(.....)(((((...(((.......)))..)))))..))..((((((((((((....))))))........)))))).........))))))
+-1.1	-1.1	6
+
+>RFA_00607 RNA SSTRAND database. External source: Rfam database.
+AGUUUCUCGAUAAUUGAUCUGUAGAAUCUGUCAAGCAAAACCCCAAAACCUUACACUGAGAGCAUUUAGCCUGAUUACUCUUUAAAUCAAAUCAGGCAAUAGAGAGAAACUCGAGAGGUGAAAACCCCACAGCAUUCUGAAAUGUAUUUGGGAGUAAUCUCAUAUUAGUUUGCUGUCCUCUCAUCUUUU
+.................(............(.....................)..................................................(.......)..........).....(.........................................................)..
+.................(.(((......(((.(((..............))))))......)))....((((((((.............))))))))......(((...)))..........).....((((((..((((........(((((....)))))..))))..)))))...........)..
+.................(.(((......(((.(((..............))))))......)))....((((((((.............))))))))......(((...)))..........).....((((((..((((........(((((....)))))..))))..)))))...........)..
+-11.6	-11.6	0
+
+>RFA_00608 RNA SSTRAND database. External source: Rfam database.
+AGUUUCUCGAUAAUUGAUCUGUAGAAUCUGUCAAGCAAAACCCCAAAACCUUACACUGAGAGCAUUUAGCUUGAUUACUCUUUAAAUUAAAUCAGGCAAUAGAGAGAAACUCGAGAGGUGAAAACCCCACAGCAUUCUGAAAUGUAUUUGGGAGUAAUCUCAUAUUGGUUUGCUGUCCUCUCAUCUUUU
+........................................................................(...................)........(..............(..........)......................(........................).)...........
+((.((((((((.....))).).)))).))...........................((((........((((((((.............))))))))....(.(((...)))....((........))...(((((....))))).....(.(((((.((......)).))))).).).))))......
+((.((((((((.....))).).)))).))...........................(((((.......((((((((.............))))))))....(.(((...)))....((........))...(((((....)))))....((.(((((.((......)).))))).))))))))......
+-17.5	-17.5	6
+
+>RFA_00609 RNA SSTRAND database. External source: Rfam database.
+AGCUGGUGGAAGUGCGUCAGUCAUAGCACUGUCAACAAAACCCCAAAACCGUAAACUCAGAGCAAUUCGCCUGGUUCCUCUUUAAAGCAAAACCAGGAGGUUCCGCCAGCUACCAGAGGACGAAGUGGGCUAAGUGAAAUGAAAAUUUGAGAGUUUCUCUCCAUCACUUAGCCCCGCCUCUCAUUCUUUU
+.................(.......................................................).......(......................(.....)....................)........(.....................................)...........
+.......((((......(.(.((......)).)........................(((.((.....)))))))))).(((...(((....(((....((((((.....)....).))))....))))))))).((...(.......(((((...))))).........((...)).).))........
+.......((((......(.(.((......)).)........................(((.((.....)))))))))).(((...(((....(((....((((((.....)....).))))....))))))))).((...(.......(((((...))))).........((...)).).))........
+1.6	1.6	0
+
+>RFA_00610 RNA SSTRAND database. External source: Rfam database.
+AGUCGGCGGAAAUCAGUCAGUCAUAGCGCUGUCAACAAAACCCCAAAACCGUAAAAUUAGAGCAAUUCGCCUGGUUCCUCUUUAAAGCAAAACCAGGAGGCUCCGCCGACUCAGAGGGCACUGUGGGCUGAGCAAAAUGAAAAUUUGAGAGUUUCUCUCCAUUGCUUAGCCCUACCUCUAUCUUUU
+.................................................................................(........).....(................(.............................)........(....................)...)........
+.(.(((((..................))))).).....................((((((.((.....))))))))....(((......)))...(((((.........(((((....((.(((.......)))...))....).))))...(....................)))))).......
+.(.(((((..................))))).).....................((((((.((.....))))))))....(((......)))...(((((.........(((((....((.(((.......)))...))....).))))...(....................)))))).......
+-6.4	-6.4	0
+
+>RFA_00611 RNA SSTRAND database. External source: Rfam database.
+UUAUACCCGCAUAUCAUUCAGACCCUUUAUGGAACUGUCAUUCAACCCCAAAAAUCUAGUGCAAAUAUUGUCUUAAUUACUUAGGCUAAAAGAAAUAAGUAUUAAAGCGGGACAAGGCAUCGACAUUUGAUACAAAUAUUGAUCAAUGGAUGUCUUAUUUUU
+......(........................)..(..........................................................(.....)..........).......................(.........................).
+......(((....................)))..((..(..............................((((.........)))).......(.....)......)..)).......(((((...)))))..(((....(((........))).....)))
+......(((....................)))..((..(..............................((((.........)))).......(.....)......)..)).......(((((...)))))..(((....(((........))).....)))
+8.3	8.3	0
+
+>RFA_00612 RNA SSTRAND database. External source: Rfam database.
+UUAUACCCGCAAAUUCAUUCAGGUCUGUAAUAGAUCUGUCAUUCAACCCCAAAAAUCUAGUGCAAAUAUUACCUUCACCAAUUAGGUAUAAUCAAUGGUAUCGCGGGACAAAAGACUAUCGACAUUUGGUACACUAUUUAUCAAUGGAUGUCUUAUUUUU
+...(......................................................................(..........).)..(......(.................................)........................)...
+.((((...(((........((((((((...))))))))......................)))...........((........))))))(......(((((((((............))).....)))))).(((((....))))).........)...
+.((((...(((........((((((((...))))))))......................)))...........((........))))))(......(((((((((............))).....)))))).(((((....))))).........)...
+0.9	0.9	0
+
+>RFA_00613 RNA SSTRAND database. External source: Rfam database.
+UUAUACCCGCAUUUUCAUUCAGAUCUUUAAUGGAGCUGUCAUUCAACCCCAAAAAUCUAGUGCAACUACUGCCUUAACUACUUAGGCAAAAUAAGUCGUAAAGCGGGACAAGGCAUCGACAUUUGAUACAAAUAUUGAUCAAUGGAUAUCUUAUUUUUUAU
+...(..................................................)...............(......)...................................................(....).........(..........).....
+..((............((.(((.(((.....))).)))..))............))....(((.......(......).......)))......((((....((........))..))))..(((((..(....)..)))))..((........)).....
+..((............((.(((.(((.....))).)))..))............))....(((.......(......).......)))......((((....((........))..))))..(((((..(....)..)))))..((........)).....
+-0.5	-0.5	0
+
+>RFA_00614 RNA SSTRAND database. External source: Rfam database.
+UUAUACCCGCAAAUUCACUCAAAUCUGUAAUAGGUUUGUCAUUCAACCCCAAAAAUCUAGUGCAAAUAUUACUUUCGCCAAUUAGGUAUAAUAAUGGUAAGCGGGACAAGACUCGACAUUUGAUACACUAUUUAUCAAUGGAUGUCUUUUUUCU
+......................................(..........(.......................(.........).).........(.................).......................)................
+...............................(.((((((..........(........((((.......))))(.........).).........(((............)).).......................)))))).).........
+...............................(.((((((..........(.......(((((....)))))..(.........).).........(((............)).)......(((((.......))))))))))).).........
+13	13	6
+
+>RFA_00615 RNA SSTRAND database. External source: Rfam database.
+UUAUACCCGCACAUUCACUCAAAUCUGUAAUAGACUUGUCAUUCAACCCCAAAAAUCUAGUGCAAAUAUUACCUUCGCCAAUUAGGUACAAUUAAUGGUUCUCGCGGGACAAAAGACUAUCGACAUUUGAUACAUUAUUUAUCAAUGGAUGUCUUAUUUUUCUU
+....................................................(....................(..........).........................................)..(....).........(...............)...
+...................(((.((((...)))).))).............(((.((((((...........(((........)))...........(((((...))))).....))))..))..)))((....))........(.(((((...))))).)...
+...................(((.((((...)))).))).............(((.((((((...........(((........)))...........(((((...))))).....))))..))..)))((....))........(.(((((...))))).)...
+8.2	8.2	0
+
+>RFA_00616 RNA SSTRAND database. External source: Rfam database.
+UGACAAUCAUUAUGUUCAUUCUUCUUCUCCAAUAGGAAAGGAAGUCAUACAACCCCAGAAACCAUUACAAACACCCUGAGUAUUGCUACAUUCAGUGUAGCGUUAAUCCUCUUGGCUAUUCUCGUAACGAUUGUCAAAUUUAGAGUGCUUAUCGUCAAAAAUCAGCAAAUCAUGACGAGUCAUAAGUGCUCUAAAUAGUUAUUUUUAUAUUUUUU
+........................(.........................................................................................................(.....(............).............).............(....................).)..............
+........................(..(((....)))......(((((.........................((..(((((.((((((((...)))))))).))...)))..)).............(.(((.(.((..........))...).))......).).....))))).(.(....((....))....).).)..............
+........................(..(((....)))......(((((.........................((..(((((.((((((((...)))))))).))...)))..)).............(.(((.(.((..........))...).))......).).....))))).(.(....((....))....).).)..............
+3.2	3.2	0
+
+>RFA_00617 RNA SSTRAND database. External source: Rfam database.
+UGACAAUCAUUAUGUUCAUUCUUCCUCUCCAAUAGGAAAGGAAGUCAUACAACCCCAGAAACCAUUAAACACACCCUGAGUAUUGCUACAUUCAUUGUAGCGUUAAUCCUCUUGGCUAUUCUCGUAACGAUUGUCAAAUUUAGAGUGCUUAUCGUCAAAAACCAGCAAAUCAUGACGAGUCAUAAGUGCUCUAAAUAGUUAUUUUUAUAUUUUUU
+............(.....................................................................................................................................).....................(.............)..........(........(...)......).
+((((........(((((...((((((.(((....))).))))))...........(((.................)))..((.(((((((.....))))))).))......(((((.(((........))).))))).....)))))......))))......((((.((.((.....)).))...))))..(((.(((...(...).))).)))
+((((........(((((...((((((.(((....))).)))))).................................((.((.(((((((.....))))))).)).))...(((((.(((........))).))))).....)))))......))))......((((.((.((.....)).))...))))..(((.(((...(...).))).)))
+-15.7	-15.7	-6
+
+>RFA_00618 RNA SSTRAND database. External source: Rfam database.
+UGACAAUUAUUAUGUUCAUUCUUCUUUUCAAAUAGGAAAGGAAAUCAUACAACCCCAGAAACCAUCACAAACACUAGAGUAUUGUUACAUAUAGUGUAACGUUAAUUCUCUUAGUUAUUCCCGUAACGAUUGUCAAAUUUAGAAUGCUUAUCGUCAAAAAUCAGCAAAUCAUAACGAACUAAAAGUACUCUAAAUAGUUAUUUUUUGUAUAUUUU
+.......(.......................)..............................................................(.................................(..........)...(.........).........................................)...................
+.......(.......................)........(((((.((((((..........................(((....)))....(.(((..........((.((((((............(..........).(.(((.....)))).....................)))))).))........))).)......)))))))))))
+.......(.......................)........(((((.((((((..........................(((....)))....(.(((..........((.((((((.....(((....(..........).(.(((.....))))..................))))))))).))........))).)......)))))))))))
+9.5	9.5	6
+
+>RFA_00619 RNA SSTRAND database. External source: Rfam database.
+UGACAAUCUUUAUGCUCAUUCUUCCUUCUGAUAGGAGGGGAGUCAUACAACCCCAGAAACCAUUUCCACAACCCUGAGUAUUGUUGCAUACUGUGCAAUGUAAAUAUUCUUGGUACUCUCAUUUAGAUUGUCAAAUUUAGAGCAUGUUCCAUCAUUUCAAUAUUAUUCAUGAUGGAAUGAUAAUGCUCUAAAUGUUAUUUUUAAUAUAUUAUUU
+......(........(......................................................................................................(......................(...............)......)...................)...........).................
+(((.((((((((...(...((((((.(((((..(((((((..........))))..........)))...(((..((((((((((((((...)))))))...)))))))..)))....(..((((((((....))))))))(.(((......)))..)......).))).)).)))).))....)...)))).)..))).)))...........
+(((.((((((((...(...((((((.(((((..(((((((..........))))..........)))...(((..((((((((((((((...)))))))...)))))))..)))....(..((((((((....))))))))(.(((......)))..)......).))).)).)))).))....)...)))).)..))).)))...........
+-15.5	-15.5	0
+
+>RFA_00620 RNA SSTRAND database. External source: Rfam database.
+UGACAAUUGCUGUAUUCAUUCUCCUUUCUCGAUAGGAAUUGGAGUCAUACAACCCCAGAAACCAUCCUUAUACCUUGAGUAUGCUGAAUUCCGUUAGCGUAGCUCUUGGCUAUUCUCAUAGUGAUUGCAUAUUUGGAGUUACUUAUUCGUCAAUUCAAUUAAAAUUCAUGACGAACCUAAAAGUACUCUGAAUGGUUAUUUUUUAUAAUU
+..............................(.............)............(.............................(.......................................................)........................).............(..........................)
+..............................(.............)............(................((((((.((.((((.......((.((((((...)))))).))....((((((.((....)).)))))).)..))).))))))))..........).............(......(((........)))......)
+..............................(.............)............(................((((((.((.((((.......((.((((((...)))))).))...(((((((.((....)).))))))))..))).))))))))..........).............(......(((........)))......)
+7.7	7.7	6
+
+>RFA_00621 RNA SSTRAND database. External source: Rfam database.
+AUCGUCACUAAUCGAAGCUUACAAAAAUGGAGUAAAGGAAUUUUUCUUCUUACUCAAUAUUAAUGCUUUGGGUUGAAAGUCUCCCACCAAUUCAUAUGCGGAAAACGUAAUGAGAUUUAAAAAAUUUAAAUUCUUUAAAUCAACUCAUUAAGAGAAAUAUCUUUAGAUAUUUCUCUUCUUGACCCAGUACUCUGUUACAGGAGCGCUGGUGUUUUCUUCGGUACUGGAUUCCUUAUAUAUGGAAUCUAAACCAUAGUUAUGACGAUUGCUCUUUCCCAUGCUGGAUCGAGUAACCCAAUGGAGCU
+..................................................(..................................................................................(.(.................................................................).................)......).........(...(.....................)..).......................................
+.(((........))).((((.((....(((....((((((.........((.................((((..((...)).)))).....((((.((((.....))))))))((((((((...))))))))((((........(((..((((((((((((....))))))))))))..)))..(((....))).......))................)).....))))))))..((.((..(((((.....)))..))..))))(((((..(((......)))..)))))..))).)))))).
+.(((........))).((((.((....(((....((((((.........((.................((((..........)))).....((((.((((.....))))))))((((((((...))))))))((((........(((..((((((((((((....))))))))))))..)))..(((....))).......))................)).....))))))))..((.((..(((((.....)))..))..))))(((((..(((......)))..)))))..))).)))))).
+-29.6	-29.6	-6
+
+>RFA_00622 RNA SSTRAND database. External source: Rfam database.
+AUCGUCACAAAUCGAAGCUUACAAAAUGGAGUAAAAUUUUUUUUACUCAGUAAUAUGCUUUGGGUUGAAAGUCUCCCACCAAUUCGUAUGCGGAAAACGUAAUGAGAUUUAAAAAUUUUAAAUUGUUUAAAUCAACUCAUUAAGGAGGAUGCCCUUGGGUAUUCUGCUUCUUGACCUGGUACCUCUAUUGCAGGGUACUGGUGUUUUCUUCGGUACUGGAUUCCGUUUGUAUGGAAUCUAAACCAUAGUUAUGACGAUUGCUCUUUCCCGUGCUGGAUCGAGUA
+................(.........................................................................)...................(............)...............................(....)...........................................(...................)..............................................(......).....
+(((((((.........((.(((......((((((((....))))))))............((((..((...)).)))).......))).))........(((((((...(((..........)))..........)))))))...((((.((...(....)....)).)))).(((.(((((((........))))))))))..(....((.......))....)....(((((........)))))....)))))))(((((........(......))))))
+(((((((.........((.(((......((((((((....))))))))............((((..........)))).......))).))........(((((((...(((..........)))..........)))))))...((((.((...(....)....)).)))).(((.(((((((........))))))))))..(....((.......))....)....(((((........)))))....)))))))(((((........(......))))))
+-33	-33	-6
+
+>RFA_00623 RNA SSTRAND database. External source: Rfam database.
+AUCGUCACAAAUCGAAGCUUACAAAAUGGAGUAAAAUUUUUUUUACUCAGUAAUAUGCUUUGGGUUGAAAGUCUCCCACCAAUUCGUAUGCGGAAAACGUAAUGAGAUUUAAAAAUUCUAAAUUGUUUAAAUCAACUCAUUAAGGAGGAUGCCCUUGGGUAUUCUGCUUCUUGACCUGGUACCUCUAUUGCAGGGUACUGGUGUUUUCUUCGGUACUGGAUUCCGUUUGUAUGGAAUCUAAACCAUAGUUAUGACGAUUGCUCUUUCCCGUGCUGGAUCGAGUAACCCAAUGGAGCU
+....................................................................(..................................(...(....................)........................................................................).........................................................(...))..........................(...).
+...........(((((((..........((((((((....))))))))........)))))))...(((..............((((....(((((((.....(...(.....((((...))))....).......(((..(((.((((((((....)))))))).)))..))).(((((((((........)))))))))))))))))..(((..((((((((((....)))))))))).))).........))))..(...))))...((((......)))).......(...).
+...........(((((((..........((((((((....))))))))........)))))))...(((..............((((....(((((((.....(...(.....((((...))))....).......(((..(((.((((((((....)))))))).)))..))).(((((((((........)))))))))))))))))..(((..((((((((((....)))))))))).))).........))))..(...))))...((((......)))).......(...).
+-39.5	-39.5	0
+
+>RFA_00624 RNA SSTRAND database. External source: Rfam database.
+ACCUGAAGUCUAGGCAACGUACGGGAGACGUAGUUCUUCAAUCACAUGACGCCUAGGGGAAAGUCCCCGGAUCUCGGGUAGAAAGUGCCGUGCGCUACUAUGGCGUGCAAUAAUCCCGCCCUGCUGUCCAUAUCAACCCGCCAAGAAGCUCCCAGAGCCGAGCGGCUUGGAUUAGGGCGGGAUCUCUCAUCAGUCACCAUAGUAACUCAGGUAGCGCGGCAACGUCCACGCUAACUAAACGGGGCU
+.....................................................................(..........(..(.............................)............................................)..................................................................(...)..............).
+..........(((((..(((...(((((......)))))......)))..)))))(((((...))))).(.(((((....(..(.....((((((((...)))))))).....)........(((.....................))).........)..(((((((((.(((....((((.((......)))).))....))).))))))..)))......(.(...))........)))))).
+..........(((((..(((...(((((......)))))......)))..)))))(((((...))))).(.(((((....(..(.....((((((((...)))))))).....)...((...)).......................((((...)))))..(((((((((.(((....(((((.........))).))....))).))))))..)))......(.(...))........)))))).
+-33.5	-33.5	6
+
+>RFA_00625 RNA SSTRAND database. External source: Rfam database.
+ACCUGAAGUCUAGGCAACGUACGGGAGACGUAGUUCUUCAAUCACAUGACGCCUAGGGGAAAGUCCCCGGAUCUCGGGUAGAAAGUGCCGUGCGCUACUAUGGCGUGCAAUAAUCCCGCCCUGCUGUCCAUAUCAACCCGCUAAGAAGCUCCCAGAGCCGAGCGGCUUGGAUUAGGGCGGGAUCUCUCAUCAGUCACCAUAGUAACUCAGGUAGCGCGGCAACGUCCACGCUAACUAAACGGGGCU
+.....................(....)...(.....................................(...................................................................)...................).................(..................................................)....................
+.((((.(((((((((..(((.(....)..((......(((......)))......(((((...)))))(......((((((..((.((.((((((((...)))))))).........)).)).)))))).......)..(((....))).......))...)))))))))))).((.((...((.(.(((((((.((....)).)))..))).).).))...)))).............))))...
+.((((.(((((((((..(((.(....)..((......(((......)))......(((((...)))))(......((((((..((.((.((((((((...)))))))).........)).)).)))))).......)..(((....))).......))...)))))))))))).((.((...((.(.(((((((.((....)).)))..))).).).))...)))).............))))...
+-29.1	-29.1	0
+
+>RFA_00626 RNA SSTRAND database. External source: Rfam database.
+GUUUCCGUGUCCAUCCUUGUUAAAACAAGAAAUUUUACGGAAUAACCCAUUUUGCCCGACCGAUCAUCCACGCAGCAAUGGCGUAAGACGUAUUGAUCUUUCAGGCAGUUAGCGGGCUGCGGGUUGCAGUCCUUACCGGUAGAUGGAAAUAUUUCUGGAGAGUAAUACCCAGUCUGUUUCUCUGAUAAUUGCGCUGUUUUUCCGCAUGAAAAACGGGCAACCGACACUCUGCGCCUCUUUGAGCUGACGAUAACCGUGAGGUUGGCGACGCGACUAGACACGAGGCCAUCGGUUCACACCCGGAAAGGCGUUACUUUGCCCGCAGCUUAGUCGUCAA
+....(.............(...........................)........................)........................................................................(...................................(..................................................................................................).....).........(..............................)..........
+(((.(((.(((((.....((((....................))).).....))...))))).........).)))..(((((...(((...((((....))))...)))...(((((((.....)))))))..((((((.(..(.........((((..........))))......(((.......((((.(((((((((.....))))))))))))).......(((((((.((.((((.((.(((.....))).)).)))).)).))).).))).).))..))))))))..(....(((((((......))))..)))....)....))))).
+(((.(((.(((((.....((((....................))).).....))...))))).........).)))..(((((...(((...((((....))))...)))...(((((((.....)))))))..((((((.(..(.........((((..........)))).....((((.......((((.(((((((((.....))))))))))))).......(((((((.((.((((.((.(((.....))).)).)))).)).))).).))).).))).))))))))..(....(((((((......))))..)))....)....))))).
+-43.1	-43.1	6
+
+>RFA_00627 RNA SSTRAND database. External source: Rfam database.
+AAUUCUACGUUGAUUCUCGUUAGACCAAGAGACUUGUGGAAUAAUAAACUUUGCCUGAUCACACAAAAACGCGGCAAUGGCGUAAGACGUAAUGUGAAAUCAAGCAAUUAGCGGGCUGCGGGUUGCAGCUUGGCCGGCAAGUGGGUAAAGCUCUGUUGUCUUAAAUUCAGAAGCUACCCUUUAUAUAAAAGCGCUGUUUUUCAGAACGAAACACAGGCUUACCGAAAUAAUGCGCCCCUAUGCAGGCGACAACCGUGAGGUUGACGGCUUAGCUAGAAGACUCGGGGCCAUCGGUUUACCCGGUCAUGAGGUUAUUUUGCCCGCAGUUCUAACGCCAA
+..............................................................................................................(....................................................................................((.......................)...................................(........................))...........................(...)............)..........
+.((((((((.....((((..........))))..))))))))........((((.((((..((((...((((.......)))).........))))..)))).))))...(...(((((((((....(((((.....)))))((((..(((((((............))).))))))))...........((.((((.......................).........((((((........)))).)).....(..(((...(((...)))....))))))).)).(((((.....)))))....(((...))).))))))))))..........
+.((((((((.....((((..........))))..))))))))........((((.((((..((((...((((.......)))).........))))..)))).))))...(...(((((((((....(((((.....)))))((((..(((((((............))).))))))))...........((.((((.......................).........((((((........)))).)).....(..(((...(((...)))....))))))).)).(((((.....)))))...((((...))))))))))))))..........
+-52.5	-52.5	6
+
+>RFA_00628 RNA SSTRAND database. External source: Rfam database.
+CUUUCCGCGUUGAUUCUCGUUAAACAGGGAAAACGGUGGAAUUAUAAAAUUUGUCUGAUCGCGCAAAAACGCAGCAAUGGCGUAAGACGUAAUGCGAAAUCAAACAAUUAGCGGGCUGCGGGUUGCAGCUUGGCCGGCAAAUGGAAUCAGAUCUGUCGACGUAAAUCAGAGGCUAUUCCCCUAGUAAAAGUGCUGUCUUUCACAAAGAAAAGCAGGCUUACCGAGAUAAUGCGCCCCUAUGCAGGCGACAACCGUGAGGUUGACGACUUUGCGAGAAGACACGGGGCUUUCGGUUUAACUCCGGCCAUGAGGUUAUUUUGCCCGCAGCUUUGUCGAUAA
+..................................(..............)...............................................(.........(..................................(.......................)......................)...........................(.........................................................................)............................................)..
+.....(((((((.(((((........)))))...(..............)..((((...(((.................)))..)))).))))))).(.((.....(((..((((((((.....))))))))...(((...(((.....(.((....))).....)))...)))..............))).((((.((((.....)))).))))(((....((((......(((((..((((((((.(((((....))))).)).).))))).........))))))))))))........(((..((.(((......)))))..))).....)))..
+.....(((((((.(((((........)))))...(..............)..((((...(((.................)))..)))).))))))).(.((.....(((..((((((((.....))))))))...(((...(((.....(.((....))).....)))...)))..............)))(((.(((((...)))))..)))..(((....((((......(((((..((((((((.(((((....))))).)).).))))).........))))))))))))........(((..((.(((......)))))..))).....)))..
+-49.9	-49.9	6
+
+>RFA_00629 RNA SSTRAND database. External source: Rfam database.
+AAUUCUACGUUGAUUCUCGUUAGACCAAGAGACUUGUGGAAUAAUAAACUUUGCCUGAUCACACAAAAACGCGGCAAUGGCGUAAGACGUAAUGUGAAAUCAAGCAAUUAGCGGGCUGCGGGUUGCAGCUUGGCCGGCAAGUGGGUAAAGCUCUGUUGUCUUAAAUUCAGAAGCUACCCUUUAUAUAAAAGCGCUGUUUUUCAGAACGAAACACAGGCUUACCGAAAUAAUGCGCCCCUAUGCAGGCGACAACCGUGAGGUUGACGGCUUAGCUAGAAGACUCGGGGCCAUCGGUUUAUCCGGUCAUGAGGUUAUUUUGCCCGCAGUUCUAACGCCAA
+.....................(.................................................................................................................................................................................)...............(..(.................(.......))............................................................)..................(......).....
+................((((((((.((....((((((.(...........((((.((((..((((...((((.......)))).........))))..)))).))))....((((((((.....))))))))..).))))))((((..(((((((............))).))))))))...............)).)))....)))))......(..(.................(.......))...(((((....)))))..(((...)))....(((.(((((((...)))...))))))).)..(((......))).((.((....))))...
+................((((((((.((....((((((.(...........((((.((((..((((...((((.......)))).........))))..)))).))))....((((((((.....))))))))..).))))))((((..(((((((............))).))))))))...............)).)))....)))))......(..(.................(.......))...(((((....)))))..(((...)))....(((.(((((((...)))...))))))).)..(((......))).((.((....))))...
+-46	-46	0
+
+>RFA_00630 RNA SSTRAND database. External source: Rfam database.
+GUUUCCGCACCGAAACUUGUUAAAACAAAAAGUUUAGCGGAAUAACCCAUUUUGUCUGACCGAUCAUCAACGCAGCAAUGGCGUAAGACGUAUUGAUUUUUCAGACAGUUAGCGGGCUGCGGGUUGCAGUCCUUACCGGUAGAUAGGAUCUUCUCUGGAGAGUAAUGCCCAGGCUGCUUCCCUGAUAAUUGCGCUGUGUUUCCGUAUGAAAUACAGGCAACCGACACUCUGCGCCUCUUUGAGCUGACGAUAACCGUGAGGUUGGCGACGCGAAAUAGUCACGAGGCCAUCGGUUCAUGCCCGGUAAGGCGUCACCAUGCCCGCAGCUUAGUCGUCAA
+(.............................................................(.............................(........................................(.............................................................(............................................................)....................)..).......................).............................)...
+(.((((((....((((((...........)))))).))))))....................(((......(((((.(((((.(....((..((((....)))..........(((((((.....))))))).(.((((.(((........)))))))...(((((...((((.......))))...))))).(((.(((..(((..(......((((..............)))).......)..)))..)))..).)).((.((...)).))...)..)))).)))))..))...)))..)))..(((((....))))).............)...
+(.((((((....((((((...........)))))).))))))....................(((......(((((.(((((.(....((..((((....)))..........(((((((.....))))))).(.((((.(((........)))))))...(((((...((((.......))))...))))).(((.(((..(((..(......((((..............)))).......)..)))..)))..).)).((.((...)).))...)..)))).)))))..))...)))..)))..(((((....))))).............)...
+-37.5	-37.5	0
+
+>RFA_00631 RNA SSTRAND database. External source: Rfam database.
+GUUUCCGUGUCCAUCCUUGUUAAAACAAGAAAUUUUACGGAAUAACCCAUUUUGCCCGACCGAUCAUCCACGCAGCAAUGGCGUAAGACGUAUUGAUCUUUCAGGCAGUUAGCGGGCUGCGGGUUGCAGUCCUUACCGGUAGAUGGAAAUAUUUCUGGAGAGUAAUACCCAGUCUGUUUCUUUGAUAAUUGCGCUGUUUUUCCGCAUGAAAAACGGGCAACCGACACUCUGCGCCUCUUUGAGCUGACGAUAACCGUGAGGUUGGCGACGCGACUAGACACGAGGCCAUCGGUUCACACCCGGAAAGGCGUUACUUUGCCCGCAGCUUAGUCGUCAA
+....................(..................)..........(.................................................................................................).......................................(..................)...........................(...................................................)...................(.................)...........
+..(((((.((....((...((..................)).........(((.((..((((.......((((.......))))..(((...((((....))))...)))...(((((((.....)))))))....))))....))))).......(.(((((........((((((((.........(((((.........)))).)..)))))))).......))))).)...(....((.((.(((.....))).)).)).((..((.(......).))..)).)..)).....)).)))))((((...............)))).........
+..(((((.((....((...((..................)).........(((.((..((((.......((((.......))))..(((...((((....))))...)))...(((((((.....)))))))....))))....))))).......(.(((((........((((((((.........(((((.........)))).)..)))))))).......))))).)...(....((.((.(((.....))).)).))(((..((.(......).))..))))..)).....)).)))))((((...............)))).........
+-43.7	-43.7	6
+
+>RFA_00632 RNA SSTRAND database. External source: Rfam database.
+GUGGCCGGCAUGGCCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACGAUCCGAGGGGACUGUCCCUCUCGAGAAUCGGCAAAUGGGGCCCC
+........(.........)..............(........(...........)......(..................)....).....
+((((..(((.((....)))))..).))).(((.((.......(..((...))..)......(.((...........))..)...)))))..
+((((..(((.((....)))))..).))).(((.((.......(..((...))..)......(.((...........))..)...)))))..
+-5.6	-5.6	0
+
+>RFA_00633 RNA SSTRAND database. External source: Rfam database.
+GUGGCCGGCAUGGCCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACGAUCCGAGGGGACUAUCCCUCUCGAGAAUCGGCAAAUGGGGCCCC
+........................................(.......)........(.......).(..........(......))....
+..(((((((......(((((......))))).)))))))((.......))...(((((.......))(..........(......))))).
+..(((((((......(((((......))))).)))))))((.......))...(((((.......))(..........(......))))).
+-4.1	-4.1	0
+
+>RFA_00634 RNA SSTRAND database. External source: Rfam database.
+GUGGCCGGCAUGGCCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACGAUCCGAGGGAGCUACUCCUCUCGAGAAUCGGCAAAUGGGGCCCC
+......(......................................)........(....).......(.........).......(....)
+.....((((..(((((((((......)))))....))))..))..))....((((....).)))...((((...)))).......(....)
+.....((((..(((((((((......)))))....))))..))..))....((((....).)))...((((...)))).......(....)
+-10	-10	0
+
+>RFA_00635 RNA SSTRAND database. External source: Rfam database.
+AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCCCUCGGUAAUGGCGAAUGGGACGCA
+...(....(.....................)..........(................))......(........).............
+...(...((.......((((......))))))...........................)(((((((((....))).)...)))))...
+...((((((.......((((......))))))..)))....(......(((....)))))(((((((((....))).)...)))))...
+-2.7	-2.7	6
+
+>RFA_00636 RNA SSTRAND database. External source: Rfam database.
+GUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCUCCUCGGUAAUGGCGAAUGGGACCCA
+...................................................(..(......).).(...(....).........).....
+.((.(((((.((((.(((((......))))).))))))))).)).......(.((......)))((((((....))......))))....
+.((.(((((.((((.(((((......))))).))))))))).)).......(.((......)))((((((....))......))))....
+-22.5	-22.5	0
+
+>RFA_00637 RNA SSTRAND database. External source: Rfam database.
+AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAAGGGACCGUCCCUUCGGUAAUGGCGAAUGGGACCCA
+..........(..............................(.....).....)(.............(....)............)..
+..........((((.(((((......))))).)))...((((.....).))).)((..((((..(.(((....))).).))))..))..
+..........((((.(((((......))))).)))....(((.....)))...)((..((((..(.(((....))).).))))..))..
+-10.2	-10.2	-6
+
+>RFA_00638 RNA SSTRAND database. External source: Rfam database.
+AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGCCCCCUCGGUAAUGGCGAAUGGGACCCA
+...................(...............)......(.............)(....(......)...)...............
+...(((........(((((((.((.....)).)..).)))))(..(.......)..)(....((....))...))))............
+...(((........(((((((.((.....)).)..).)))))(..(.......)..)(....((....))...))))............
+-3.8	-3.8	0
+
+>RFA_00639 RNA SSTRAND database. External source: Rfam database.
+GGAUGUGAGGGCGAUCUGGCUGCGACAUCUGUCACCCCAUUGAUCGCCAGGGUUGAUUCGGCUGAUCUGGCUGGCUAGGCGGGUGUCCCCUUCCUCCCUCACCGCUCCAUGUGCGUCCCUCCCGAAGCUGCGCGCUCGGUCGAAGAGGACGACCAUCCCCGAUAGAGGAGGACCGGUCUUCGGUCAAGGGUAUACGAGUAGCUGCGCUCCCCUGCUAGAACCUCCAAACAAGCUCUCAAGGUCCAUUUGUAGGAGAACGUAGGGUAGUCAAGCUUCCAAGACUCCAGACACAUCCAAAUGAGGCGCUGCAUGUGGCAGUCUGCCUUUCUUU
+....................(...........(................................................).........................................)..(..........................................(..................................................)..........................)........(...............................................................)..........
+......((((((........((.(((((....(..((....(.((((((((((((...)))))...))))).)))..))..))))))...............(((.......))).......))..(.((.((.((.(((((.......)))))............(((((((((.....))))).((((.....((((......)))))))).......).))).............)))).))..)........(.((..((.((((..........))))))..))....((......)).(((((.....))))).)))))))....
+......((((((........((.(((((....(..((....(.((((((((((((...)))))...))))).)))..))..))))))...............(((.......))).......))..(.((.((.((.(((((.......)))))............(((((((((.....))))).((((.....((((......)))))))).......).))).............)))).))..)........(.((..((.((((..........))))))..))....((......)).(((((.....))))).)))))))....
+-42.1	-42.1	0
+
+>RFA_00640 RNA SSTRAND database. External source: Rfam database.
+UCCAUAUCUUAAAGAAACAGCUUUCAAGUGCCUUUCUGCAGUUUUUCAGGAGCGCAAGAUAGAUU
+..(........(.....................).........(...)...)...(.......).
+..(.......((((..((.........))..))))......(((...))).)...(.......).
+..(.......((((..((.........))..))))......(((...))).)...(.......).
+13.9	13.9	0
+
+>RFA_00641 RNA SSTRAND database. External source: Rfam database.
+UCCAUAUCUUAAAGAAACAGCUUUCAAGUGCCUUUCUGCAGUUCUUCAGGAGCGCAAGAUAGAUU
+....(.....(..(...)....)....)....................(..........).....
+..(((.....((.(...)...))....)))............(((...(..........))))..
+..(((.....((.(...)...))....)))............(((...(..........))))..
+12	12	0
+
+>RFA_00642 RNA SSTRAND database. External source: Rfam database.
+UUCAAAUUUGAAAUAUUUUGCACACUUAUACUUUCAAGUGCCUUUCUACACAUUUUUCCAUGAGCACAGGAUGGUUA
+.......(......)............................(.......(....)..........).(....)..
+..((((.(......).))))..(((((........)))))...(.((.((.(....)...))))...)((....)).
+..((((.(......).))))..(((((........)))))...(.((.((.(....)...))))...)((....)).
+11.3	11.3	0
+
+>RFA_00643 RNA SSTRAND database. External source: Rfam database.
+AAAAAAAGUGAAAAAAUAACAGCUUUAAAGUGCCUUUCUGCAGUUAUCUGAGAGCGCCAGAUAGAGU
+...(.(........................)(........).....)...(...............)
+...(....(..................)..................)...(...............)
+...(.(....(((..........)))....)((......)).....)...(...............)
+18.3	18.3	6
+
+>RFA_00644 RNA SSTRAND database. External source: Rfam database.
+GUUGUGUUUUAAAAUUUGAAGAAAACCAGCUUUCAAGUGCCUUUUGCAGUUAAUUGGAGAGCGCAAGAUAGGGA
+....(.......).............(.....(.....).(.....................).........).
+....(.......).............(.....(.....).(((((.(((....))).)))).).........).
+....(.......).............(.....(.....).(((((.((......)).)))).).........).
+13.3	13.3	-6
+
+>RFA_00645 RNA SSTRAND database. External source: Rfam database.
+AAAGAAAAGAAAAGAAAAACAGCUUUAAAGUGCCUUCUUUGCAUUGCCACAUUAGAGCGGUCUGUUAUUA
+............(..........(.......(.......).............)(......)...)....
+............((.........(.(((.(((.......))).))).......)((....))..))....
+............((.........(.(((.(((.......))).))).......)((....))..))....
+16.1	16.1	0
+
+>RFA_00646 RNA SSTRAND database. External source: Rfam database.
+GUUGUGUUUUAAAAUUUGAAGAAAACCAGCUUUCAAGUGCCUUUUGCAGUUAAUUGGGGAGCGCAAGAUAGGGA
+..(.....................)....(....(...................)...)..(.........)..
+(.(...((((((...))))))...).)..(((.(((.(((.....))).)....)))))..(.........)..
+(.(...((((((...))))))...).)..(((.(((.(((.....))).)....)))))..(.........)..
+4.5	4.5	0
+
+>RFA_00647 RNA SSTRAND database. External source: Rfam database.
+GGUGUGUUUUAAACUUUGAAGAAAACCAGCUUUCAAGUGCCUUUUGCAGUCAAUUGGAGAGCGCAAGAUAGGGA
+..............................(.......)....(........)(............).(....)
+(((...((((((...))))))...)))...(.......)....(((....)))((..........)).(....)
+(((...((((((...))))))...)))...(.......)....(((....)))((..........)).(....)
+12.6	12.6	0
+
+>RFA_00648 RNA SSTRAND database. External source: Rfam database.
+UACCUGUUUUAAAGUUUGAAGAAAACCAGCUUUCAAGUGCCUUUUGCAGUAAAUUGGAGAGCACAAGAUAGGGA
+..(.........................)..((..........(............).).).............
+..(..(((((...........)))))..)..((.........((((........))))).).............
+..(..(((((...........)))))..)..((.........((((........))))).).............
+14	14	0
+
+>RFA_00649 RNA SSTRAND database. External source: Rfam database.
+UUCGUAUCUUAAGGAAACAGCUUUCAAGUGCCUUUACUGCAGUUUUUCAGGAGCGCAAGAUAGAUU
+...........(...........).....(..............).(.....)...(.......).
+.......(((.(((.......))).))).(..............).(.....)...(.......).
+.......(((.(((.......))).))).(..............).(.....)...(.......).
+20.7	20.7	0
+
+>RFA_00650 RNA SSTRAND database. External source: Rfam database.
+UUCGUAUCUUAAGGAAACAGCUUUCAAGUGCCUUUACUGCAGUUUUUCAGGAGCGCAAGUAAGAUU
+..........................(.......((......)...(..............))..)
+...((.(((...))).))........(((.....(((....))...(.....((....)).)))))
+...((.(((...))).))........(((.....(((....))...(.....((....)).)))))
+19.4	19.4	0
+
+>RFA_00651 RNA SSTRAND database. External source: Rfam database.
+UCCAUAUCUUAAAGAAACAGCUUUCAAGUGCCUUUCUGCAGUUUUUCAGGAGCGCAAGGAAUUAA
+........((.........).........)......(................)...(....)..
+........((.........).........)......(((............)))...(....)..
+........((.........).........)......(((............)))...(....)..
+16.3	16.3	0
+
+>RFA_00652 RNA SSTRAND database. External source: Rfam database.
+AUCGUAUCUUAGGAAAACAGCUUUCAAGUGCCUUUACUGCAGUUUUUCAGGAGCGCAAGAUAGAUU
+...(..............(.................(....)...).)..........(.....).
+...(..............(((........))....((....))..).).........((.....))
+...(..............(((........))....((....))..).).........((.....))
+18.9	18.9	0
+
+>RFA_00653 RNA SSTRAND database. External source: Rfam database.
+GUAAAAUAGAAAAACAGCUUUAAAGUGCCUUUUUUUGCAUUGCCACAUUAGAGCGGUCUGUUGAUA
+.........(.(.....(.............(.................).....))....)....
+.........(((.....((.......(.((((...((........))..))))))))...))....
+.........(((.....((.......((.(((...((........))..))))))))...))....
+12.2	12.2	6
+
+>RFA_00654 RNA SSTRAND database. External source: Rfam database.
+UUCAUGUCUUAAAGGAAGAAACAGCUUUCAAGUGCCUUUCUCCAGUUUUUCCAUGAGCGCAAGAUUAUUA
+(..........).(......(...........................)....(.......).....)..
+((........))((...(.((.((((....((.......))..)))).)).).(.......).....)).
+((........))((...(.((.((((....((.......))..)))).)).).(.......).....)).
+17	17	0
+
+>RFA_00656 RNA SSTRAND database. External source: Rfam database.
+AUCGUAUCUUAGAAAAAAGAGCUUUCAAGUGCCUUUACUGCAGUUUUCAGGAGCGCAAGAUAGAUC
+.......(......................)...(...(..........(.....).....))...
+.......(...((((.......))))....)..((...(...(((((..(.....)))))))))..
+.......(...((((.......))))....)..((...(...(((((..(.....)))))))))..
+12.3	12.3	0
+
+>RFA_00657 RNA SSTRAND database. External source: Rfam database.
+UUUGUAUCUUAAGGAAACAGCUUUCAAGUGCCUUUACUGCAGUUUUUCAGGAGCGCAAGAUACAUU
+..(.......)......(...(....)......................)(....)..........
+((((.....))))....(...........((.......)).........)(....)..........
+((((.....))))....(.(((....)))((.......)).........)(....)..........
+10.3	10.3	6
+
+>RFA_00658 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCCAAACAGGACGAAACGCGCGUCAAACUGCAU
+(...............((......).........)........)....
+(......(((((....((......).........))))))...)....
+(......(((((....((......).........))))))...)....
+8.7	8.7	0
+
+>RFA_00659 RNA SSTRAND database. External source: Rfam database.
+AUCCAACUGACGAGUGCCCAAUAGGAGGAAACGCGCGUCAAACUGCAU
+.((........................)......)..(...)......
+.(((..(((..(......)..)))..))......).((...)).....
+.(((..(((............)))..))......).((...)).....
+7.5	7.5	-6
+
+>RFA_00660 RNA SSTRAND database. External source: Rfam database.
+AUCCAACUGACGAGUGCCAAAUAGGAGGAAACGCGCGUCAAACUGCAU
+............(........)...((...............)....)
+............(........)...((...((....))....)....)
+............(........)...((...((....))....)....)
+12.2	12.2	0
+
+>RFA_00661 RNA SSTRAND database. External source: Rfam database.
+AUCCAACUGACGAGCGCCAAAUAGGAGGAAACGCGCGUCAAACUGCAU
+(................(..............)....)..(......)
+((...........(((.(..............))))))..(......)
+((...........(((.(..............))))))..(......)
+9.8	9.8	0
+
+>RFA_00662 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCCAAACAGGACGAAACGAGAGUCAAACUGCAU
+...........(...........(.......).....)(.....)...
+...........(..((.(.....(.......)).)).)((...))...
+...........(..((.(.....(.......)).)).)((...))...
+11.6	11.6	0
+
+>RFA_00663 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGUGUCCCAAACAGCACGAAACGCGCGUCAAACUGCAU
+.(...(.........)...(.......................)..).
+((...((......).)...(((.((.((...)).)))).....)..))
+((...((......).)...(((.((.((...)).)))).....)..))
+11.4	11.4	0
+
+>RFA_00664 RNA SSTRAND database. External source: Rfam database.
+CCCUGGCUGACGAGUCCCAAACAGGACGAAACGCGCGUCCUGGAU
+...........(...)....(...........(......)....)
+...(((.....(...)))).(.....((....(......)))..)
+...(((.....(...)))).(.....((....(......)))..)
+15	15	0
+
+>RFA_00665 RNA SSTRAND database. External source: Rfam database.
+AUCCAACUGACGAGUGCCAAAUAGGAGGAAACGCGCGUCAAACUGCAG
+......(.(.......).........)........(........)...
+......(((.(....))........)).......(((......)))..
+......(((.(....))........)).......(((......)))..
+4.6	4.6	0
+
+>RFA_00666 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCCAAACAGCACGAAACGCGCGUCAAACUGCAU
+......(.......(.....)......).......(........)...
+......(((.(..((.....)).))).)......(((......)))..
+......(((.(..((.....)).))).)......(((......)))..
+1.7	1.7	0
+
+>RFA_00667 RNA SSTRAND database. External source: Rfam database.
+AUCUUUCUGACGAGUUUCAAAUAGGACGAAACGCGUGUCAUGGAU
+.......(.....................).(....(...).)..
+.......(.....((((......))))..).(.(..(...)))..
+.......(.....((((......))))..).(.(..(...)))..
+11.9	11.9	0
+
+>RFA_00668 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUGCCAAAUAGGACGAAAUGUGCAUCCUGGAU
+..........(....(.......(.......).....)...)...
+..........(.((.(.......(.......).....).)))...
+..........(.((.(.......(.......).....).)))...
+8.5	8.5	0
+
+>RFA_00669 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCCAAAUAGGACGAAAUGCGCAUCCUGGAU
+........(.....(.....))............(...)......
+(((((((((.....(.....))))..........(...)))))))
+(((((((((.....(.....))))..........(...)))))))
+7.3	7.3	0
+
+>RFA_00670 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUGCCAAAUACGACGAAAUGCGCAUCCUGGAU
+...(....(.....(.............)....))..........
+...(....(.((..(.............)..))))..........
+...(....(.((..(.............)..))))..........
+10.1	10.1	0
+
+>RFA_00671 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUGCCAAAUAGGACGAAAUGCGCAUCCUGGAU
+...........................(...(.....(....)))
+.....((........))..........(...(.....(....)))
+.....((........))..........(...(.....(....)))
+13.8	13.8	0
+
+>RFA_00672 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUCACGAGUCCCAAAUAGGACGAAACGCGUCCUCCAU
+......(.(....).........)........(.........)
+.((...(((....)........))...))...(.(.....).)
+.((...(((....)........))...))...(.(.....).)
+10.9	10.9	0
+
+>RFA_00673 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCCGACGAGUCCCAAAUAAAACGAAACGCGCGUCAAAGUGGAU
+.....(.........).(.........).........(...)......
+.....(.(.....).).(.........).....(((.(...))))...
+.....(.(.....).).(.........).....(((.(...))))...
+9	9	0
+
+>RFA_00674 RNA SSTRAND database. External source: Rfam database.
+AUUCAGCUGACGAGUCCCAAAUAGGACGAAGUGACGCGCGUCCUGGAU
+..............(...............)...(....)(...)...
+..............(((......)).....)...(....)(...)...
+..............(((......)).....)...(....)(...)...
+14.7	14.7	0
+
+>RFA_00675 RNA SSTRAND database. External source: Rfam database.
+AUCCAACUGACCAGUCGGAAAUAGGACGAAACGCGCGUCCAGGAU
+..............(.....).....((..........)...)..
+..........((.((.....)).)).(((........))...)..
+..........((.((.....)).)).(((........))...)..
+6.8	6.8	0
+
+>RFA_00676 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACCAGUCGGAAAUAGGACGAAACGCGCGUCCUGGAU
+........(.....(........)..).......(.....)....
+.......((.....(........)..)).....((.....))...
+.......((.....(........)..)).....((.....))...
+9.7	9.7	0
+
+>RFA_00677 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCUAAAUAGGGUGAAACGCGCGUCCUGGAU
+.(............(..(......)...).)..............
+.(............((((......)).)).)..............
+.(............((((......)).)).)..............
+7.9	7.9	0
+
+>RFA_00678 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCCAAAUAGGACGAACGCACUUCCUAGAU
+.(...........................).(....(...)..)
+.(...........((((......))))..).(...((...)).)
+.(...........((((......))))..).(...((...)).)
+11.4	11.4	0
+
+>RFA_00679 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCCAAAUAGGACUUGACGCGCGUCCUGGAU
+.....(.............(.(..............)))......
+((((((.............(.(..(........)..))).)))))
+((((((.............(.(..(........)..))).)))))
+6.1	6.1	0
+
+>RFA_00680 RNA SSTRAND database. External source: Rfam database.
+AUCCAGUUGACGAGUCCCAAAUUGGACGAAACGCGCGUCAAACUGGAU
+.(............(....))....(.....................)
+((............(....)))...((..................).)
+((............(....)))...((..................).)
+17.2	17.2	0
+
+>RFA_00681 RNA SSTRAND database. External source: Rfam database.
+AUCCNGCUGACGNGUCCCAAAUAGGACGGAAGGCGCGUCCCGGAU
+...........(..(......(.........))......).....
+......(((..(.((......(.........))).....))))..
+......(((..(.((......(.........))).....))))..
+11.2	11.2	0
+
+>RFA_00682 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCCAAGUAGGACGAAACGCGCGUCCUGGAU
+...(....)............(......).(......).......
+...(....)....((((....(......).((....))...))))
+...(....)....((((....(......).((....))...))))
+8.4	8.4	0
+
+>RFA_00683 RNA SSTRAND database. External source: Rfam database.
+GCAAUACUGAAGAGUUCCACAAUAGGACGAAACGGCGAUCCAGUGU
+.((....)...........(....)........)............
+.(.........(...).................)............
+.((....)......(((..(....)...)))..)............
+11.7	11.7	6
+
+>RFA_00684 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCCGAUGAGUUCCAAACAGGACUAAACGCGCUUCUUGGAU
+.(.........)..........(..............(....).)
+.(.........)..........(.............((....)))
+.(.........)..........(.............((....)))
+16.6	16.6	0
+
+>RFA_00685 RNA SSTRAND database. External source: Rfam database.
+AUCCAACCGAUGAGUCCCAAAUAGAACGAAACCUGCGUCCUGGAU
+...............(..........((....).).)........
+(((((......(.(.(..........((....).).).)))))))
+(((((......(.(.(..........((....).).).)))))))
+7.5	7.5	0
+
+>RFA_00686 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUUAAUAAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+..(.....................(.....................................................(...............)...)...(.....)...)....
+.(((..((....)).........((..............(.(((((((...((((......))))))))))))..((((...............)))))).(((...))).)))...
+.(((..((....)).........((..............(.(((((((...((((......))))))))))))..((((...............)))))).(((...))).)))...
+0.7	0.7	0
+
+>RFA_00687 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUCUAAUAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGCAAG
+.....................................((.....(...............................(............)....)...........)).......
+((((..((....))..))))...........(((..(((((((((...(((((((.....))))))).........(............)....))...))))...)))..))).
+((((..((....))..))))...........(((..(((((((((...(((((((.....))))))).........(............)....))...))))...)))..))).
+1.1	1.1	0
+
+>RFA_00688 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUAAUAAAAGUUCACCACAACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGCGAG
+............................(........................(.........)...............)..(........).........(.......).....
+((((..((....))..)))).......(((...((......((((((......((((...))))))))))......))))).(........)..(((...((.......))))).
+((((..((....))..)))).......(((...((......((((((......((((...))))))))))......))))).(........)..(((...((.......))))).
+2.9	2.9	0
+
+>RFA_00689 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUUUAAUAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+.......(.(.....................)...........................(...........................).(.....)..................)..
+.......(((......((.....))......))...(((((((................(.....((((......))))........).(.....).....))))...)))...)..
+.......(((......((.....))......))...(((((((................(.....((((......))))........).(.....).....))))...)))...)..
+18.5	18.5	0
+
+>RFA_00690 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUAUAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+.(...............).(....)...........................(.............................(.....................)......)..
+.((((........)).)).(....)..........................((((................((((.......(((.................))))))))))).
+.((((........)).)).(....)..........................((((................((((.......(((.................))))))))))).
+8.7	8.7	0
+
+>RFA_00691 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUAAUAAAAGCUCACCACGACUCCUCCUUCUCUCAAAGUCGAAACUCAGAGUCGGGAAG
+.......................(...................(...........)(.................).................)..........(...)......
+..(((((....(((......((((...((((..((((..(((.(((.......)))(.................)...)))))))))))...))))...))).(...)))))).
+..(((((....(((......((((...((((..((((..(((.(((.......)))(.................)...)))))))))))...))))...))).(...)))))).
+1.4	1.4	0
+
+>RFA_00692 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUCGAAGACGAGUGAACUAAUUUUUUUAAAUAAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+.......................................(.......)...(...........)(........................).(.................).......
+((((((...............((((....))))......(.......)...(((.......)))(((((......))))..........).((...((........)))).))))))
+((((((...............((((....))))......(.......)...(((.......)))(((((......))))..........).((...((........)))).))))))
+7.1	7.1	0
+
+>RFA_00693 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGUGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUUUAAUAAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+.......(.......................................................)............(.....)..(..(..........).........)........
+((((((.(..(((.((...((..((((....))))..))..))..)))...............)............(.....)..((((..(....)..).......)))..))))))
+((((((.(..(((.((...((..((((....))))..))..))..)))...............)............(.....)..((((..(....)..).......)))..))))))
+7.8	7.8	0
+
+>RFA_00694 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUCGAAGACGAGUGAACUAAUUUUUUUUAAUAAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGCAAG
+..........(....................)..........(.....................)..........(................)..(.............).......
+(((.((..(.(.....((.....))......))......((((....(((......))).....)..))).....(................)..(((........)).).)).)))
+(((.((..(.(.....((.....))......))......((((....(((......))).....)..))).....(................)..(((........)).).)).)))
+16.2	16.2	0
+
+>RFA_00695 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUCGAAGACGAGUGAACUAAUUUUUUUUUAAUAAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAACAG
+................................................(.......)...(.........................)(...............(.....)........)
+((((..((....))..)))).((((....))))...............((.....))...(.....((((......))))......)((........((((..((...))))))...))
+((((..((....))..)))).((((....))))...............((.....))...(.....((((......))))......)((........((((..((...))))))...))
+7.8	7.8	0
+
+>RFA_00696 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUUAAUAAAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+................(..(...)..(.........................................).....(...........)..)............................
+((((((((((...(((((.(...).((...((((((((.((((......)))))))))))).......))....(.(.......).).))......))).....))))....))))))
+((((((((((...(((((.(...).((...((((((((.((((......)))))))))))).......))....(.(.......).).))......))).....))))....))))))
+5.6	5.6	0
+
+>RFA_00697 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUUAAAUAAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+......................(.....(.........................(.......)......).........(......................).......).......
+((((((...............(((...((.....................(((((.......)))))..)).....((.(....(((.......))).....).))...)))))))))
+((((((...............(((...((.....................(((((.......)))))..)).....((.(....(((.......))).....).))...)))))))))
+7	7	0
+
+>RFA_00698 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUUAAUAAAAGCUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+..(......).................................(............(.................)....)...(.....................)..........
+((((....)))).(((...((..((((....))))..))....(...........((.................))...)...((...((.......)).....)).)))......
+((((....)))).(((...((..((((....))))..))....(...........((.................))...)...((...((.......)).....)).)))......
+11.2	11.2	0
+
+>RFA_00699 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUCGAAGACGAGUGAACCAAUUUUUUUAAUAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+.....(..........)....(.........................)..............(...................)...........(................)...
+.....(((....))..)...((.(((...(........)...)))..))............((((((......)))).....))..........((...(((...)))..))...
+.....(((....))..)...((.(((...(........)...)))..))............((((((......)))).....))..........((...(((...)))..))...
+9.8	9.8	0
+
+>RFA_00700 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGGAACUAAUUUUUUUAAUAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+................(.....................................(....)....................)......(............(........)...)
+..........(((((.(..((..((((....))))..))...(((((.....(((....)))))))).............).)))))(............((......))...)
+..........(((((.(..((..((((....))))..))...(((((.....(((....)))))))).............).)))))(............((......))...)
+1.4	1.4	0
+
+>RFA_00701 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUAACAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGCAAG
+.(......)................................(......................(...........)........(...........)....)............
+.(......)......................(((..(((..(.(....................(.((.....)).)........((.........))..).)...)))..))).
+.(......)......................(((..(((..(.(....................(.((.....)).)........((.........))..).)...)))..))).
+8.1	8.1	0
+
+>RFA_00702 RNA SSTRAND database. External source: Rfam database.
+CUUUCCAUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUUAAUAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+.........(.............(............)...................)(.......................................).....(...)........
+((((((...((((((...(((..((((....)))..)........)))...))))))(................((((...............))))).....(...)..))))))
+((((((...((((((...(((..((((....)))..)........)))...))))))(................((((...............))))).....(...)..))))))
+9.8	9.8	0
+
+>RFA_00703 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+.......(...)..............................(...........(.(.........................)......).).
+.......(...).......((..((((....))))..))...(...........((((..(((.((....))..)))....)).....)).).
+.......(...).......((..((((....))))..))...(...........((((..(((.((....))..)))....)).....)).).
+14.3	14.3	0
+
+>RFA_00704 RNA SSTRAND database. External source: Rfam database.
+AUUUAGCUGACGAGUCCCAAACGGUACGAAACUGGCGUCCUUGAU
+...............(..................).((.....))
+.....(((....)))((.....(((.....))))).(((...)))
+.....(((....)))((.....(((.....))))).(((...)))
+3.5	3.5	0
+
+>RFA_00705 RNA SSTRAND database. External source: Rfam database.
+AUCCAGUUGAUGAGUCCCAGAGAAGGACGAAACGUGCAUCCUGGAU
+.......(..(.................)..)..(.........).
+.......(..(..((((.......)))))..).((.((...)).))
+.......(..(..((((.......)))))..).((.((...)).))
+4.1	4.1	0
+
+>RFA_00706 RNA SSTRAND database. External source: Rfam database.
+CAAUUGCUGAGGAGUCCCAUAAUAGGACGAAACGGCCGUCCAGUGC
+(..(........(......)......).).................
+(..((.(((...(......)..))))).).................
+(..((.(((...(......)..))))).).................
+7.5	7.5	0
+
+>RFA_00707 RNA SSTRAND database. External source: Rfam database.
+GCACUGCUGAGGAGUCCCACAAUAGGACGAAACGACCGUCCAGUAC
+........(.(......).........).........(.......)
+.......((.((....)).........))........((.....))
+.......((.((....)).........))........((.....))
+7.6	7.6	0
+
+>RFA_00708 RNA SSTRAND database. External source: Rfam database.
+GCACUUCUGAAGAGUCCCAUGCUAGGACGAAACAGCCUUCCAGUAC
+........(........)......(...(......).........)
+(((....((........)))))..(.(((......)......)).)
+(((....((........)))))..(.(((......)......)).)
+7.1	7.1	0
+
+>RFA_00709 RNA SSTRAND database. External source: Rfam database.
+AUCUAGCUGACGAGUCCCGAAUAGGAGGAAGUGCUCGUUCAAUAU
+.......(..........)..(........)...(........).
+.......((........)).((........))..(........).
+.......((........)).((........))..(........).
+10.7	10.7	0
+
+>RFA_00710 RNA SSTRAND database. External source: Rfam database.
+AUCUAAAUGACGAGUCCUAAAUGGAACUAAACACAUGUGUUUGAU
+((...........................).....(.......))
+((..........(((((.....)).))).).....(.......))
+((..........(((((.....)).))).).....(.......))
+16.4	16.4	0
+
+>RFA_00711 RNA SSTRAND database. External source: Rfam database.
+CGACUGCUGAGGAGUCCCACAAUAGGGCGAUACGGACGUCCAGUGC
+.........(......(.......).....).........(...).
+.(((..((((...((((.......))))..).)))..)))(...).
+.(((..((((...((((.......))))..).)))..)))(...).
+-2.7	-2.7	0
+
+>RFA_00712 RNA SSTRAND database. External source: Rfam database.
+AUCCAACUGACCAGUCGGAAAUUGGACGAAACGCGCGUCCUGGAU
+.(...........)...(...........(..........)...)
+((...........))..(...........(((....))..)...)
+((...........))..(...........(((....))..)...)
+17.5	17.5	0
+
+>RFA_00713 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUCGAAGACGAGUGAACUAAUUUUUUUUUUUUAAAAAGUUCACCACAACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+...............................................(....................(.......)..(............).........).(...........).
+((((..((....))..)))).((((....))))..............(...(((((......))))).(.......)..(............).........)((...........))
+((((..((....))..)))).((((....))))..............(...(((((......))))).(.......)..(............).........)((...........))
+17.7	17.7	0
+
+>RFA_00714 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCCAAAUAGGACGAAACGCUCGUCAAAAUGCAU
+...................(....(............(...).)...)
+.....(((....)))....(....(.(((.....)))(...).)...)
+.....(((....)))....(....(.(((.....)))(...).)...)
+14.9	14.9	0
+
+>RFA_00715 RNA SSTRAND database. External source: Rfam database.
+GGCUAGCAGUGGAAUCCAAAUAGGACGAAACGCGCGUCCUGGAU
+...(.(........................)..(....).)...
+..((.....(((...)).).....................))..
+..((.(...((...(((.....)))))...)..(....).))..
+7.5	7.5	6
+
+>RFA_00716 RNA SSTRAND database. External source: Rfam database.
+ACUCCGUGACAAGUCUCGAAUAGGACGAAAUGUGCGUCCUAGAU
+.............(.(.......).....)....(......)..
+.........((.((.((.....)).....)).))(......)..
+.........((.((.((.....)).....)).))(......)..
+7.6	7.6	0
+
+>RFA_00717 RNA SSTRAND database. External source: Rfam database.
+AUCCAGCUGACGAGUCCCAAAUAAGACGAACGCGCGUCUGGAU
+.........(....(........).........(....)...)
+.........(((..(........)..))....((....))..)
+.........(((..(........)..))....((....))..)
+11.7	11.7	0
+
+>RFA_00718 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUUGAAGACGAGUGAACUAAUUUUUUUAAUAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+...(.........)..................(............)...........................................(....)......(...........).
+..((.(.....).)).((((.((..((((((((..(......)..)...))))))).......((((......))))..))))))..(((....).))..((...........))
+..((.(.....).)).((((.((..((((((((..(......)..)...))))))).......((((......))))..))))))..(((....).))..((...........))
+13.1	13.1	0
+
+>RFA_00719 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCUGAAGAGACGAAGUGAUCAAGAGAUCGAAGACGAGUGAACUAAUUUUUUUUAAUAAAAGUUCACCACGACUCCUCCUUCUCUCACAAGUCGAAACUCAGAGUCGGAAAG
+.............................(...(................................(.....(....)..............)..).............)......
+((((((.......................(((((((((.((((......)))).))))........(.....(....)..............)..).........)).))))))))
+((((((.......................(((((((((.((((......)))).))))........(.....(....)..............)..).........)).))))))))
+18.5	18.5	0
+
+>RFA_00720 RNA SSTRAND database. External source: Rfam database.
+GCCCCGCUGAUGAGGUCAGGGAAGACCGAAAGUGUUGACUCUACGGGGC
+(......(.............................))(.......).
+(......(.(...((((......))))........).))(((...))).
+(......(.(...((((......))))........).))(((...))).
+7.2	7.2	0
+
+>RFA_00721 RNA SSTRAND database. External source: Rfam database.
+GCGCCGCUGAUGAGGUCAGGGAAGACCGAAAGUGUCGACUCUAUGGGGC
+..(....(....).........................)....(...).
+..(.((.(....)((((......))))........)).)....(...).
+..(.((.(....)((((......))))........)).)....(...).
+7.5	7.5	0
+
+>RFA_00722 RNA SSTRAND database. External source: Rfam database.
+GCCCCGCUGGUGGGGUCAGGGAAGGCCGAAAGUGUCGACUCUACGGGGC
+(..............)..((............).......)........
+(((((......))))).(((............).......)).......
+(((((......))))).(((............).......)).......
+0.3	0.3	0
+
+>RFA_00723 RNA SSTRAND database. External source: Rfam database.
+GCCCCGCUGAUGAGGUCAGGGAAGACCGAAAGUGUCGACUCUACGGGGC
+.....(..........).......(.......).......(.....)..
+.(((.(((.....)).).)))...((.....))......(((...))).
+.(((.(((.....)).).)))...((.....))......(((...))).
+-0.4	-0.4	0
+
+>RFA_00724 RNA SSTRAND database. External source: Rfam database.
+GCCCUGCUGAUGAGGUCAGGGAAGACUGAAAGUGUCGACUCUACGGGGC
+...............(.....).......(....)(..........)..
+..(((.......)))((...)).......(....)(..........)..
+..(((.......)))((...)).......(....)(..........)..
+9.8	9.8	0
+
+>RFA_00725 RNA SSTRAND database. External source: Rfam database.
+GCCCCGCUGAUGAGGUCAGGGAAGACCGAAAGUGUCGACUCUACGGUGC
+..(.(......).)...........(.....................).
+(((.(......).))).........((...(((....))).....).).
+(((.(......).))).........((...(((....))).....).).
+1.2	1.2	0
+
+>RFA_00726 RNA SSTRAND database. External source: Rfam database.
+GCCCCGCUGAUGAGGUCAGGGAAGACUGAAAGUGUCGACUCUACGGGGC
+.(.........................(......)(........))...
+.(.((.(((((...)))))))......(......)((......)))...
+.(.((.(((((...)))))))......(......)((......)))...
+4.8	4.8	0
+
+>RFA_00727 RNA SSTRAND database. External source: Rfam database.
+GCCCCGCUGAUGAGGUCAGGGAAGACCGAAAGUGUCGACUCUACAGGGC
+..........(.....................(....)..(....).).
+..........(..((((......))))...(((....)))(....).).
+..........(..((((......))))...(((....)))(....).).
+3	3	0
+
+>RFA_00728 RNA SSTRAND database. External source: Rfam database.
+GCCCCGCUGAUGAGGUCAGGGAAAACCGAAAGUGUCGACUCUACGGGGC
+.......(.....).(............)...(...........)....
+((((..((.....))((.((.....))))...(((.......)))))))
+((((..((.....))((.((.....))))...(((.......)))))))
+-1.3	-1.3	0
+
+>RFA_00729 RNA SSTRAND database. External source: Rfam database.
+GCCCCGCUGAUGAGGUCAGGGAAGACCGAAAGUGUCGACUCAACGGGGC
+.......................(...(..(...)...).........)
+...((.(((((...)))))))..(.(((..(...)...)......)).)
+...((.(((((...)))))))..(.(((..(...)...)......)).)
+4.2	4.2	0
+
+>RFA_00730 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCGAGGCCACGGCGAGUAGCAUCGAGGGUACAGGAAAG
+.............(.......)..(......).(.....)...
+.............((.....))..(......).(.....)...
+.............((.....))..(......).(.....)...
+8.4	8.4	0
+
+>RFA_00731 RNA SSTRAND database. External source: Rfam database.
+GGAAGCCGCGGCCACGCCGAGUAGGAUCGAGGGUACAGCUUCC
+(.........................)(....)....(...).
+(.......((((...)))).......)(....)....(...).
+(.......((((...)))).......)(....)....(...).
+5.6	5.6	0
+
+>RFA_00732 RNA SSTRAND database. External source: Rfam database.
+CUUUCCCGAGGCCACGGCGAGUAGCAUCGAGGGUACAGGAAUG
+...(......(....(........).)...............)
+...((((..((....(........).))..))).........)
+...((((..((....(........).))..))).........)
+4.6	4.6	0
+
+>RFA_00733 RNA SSTRAND database. External source: Rfam database.
+GAGAGCCGAGGCCACGCCGAGUAGGAUCGAGGGUACAGCUCUC
+..........(...)............(....)....(...).
+....((((..(...)..)).)).....(....)....(...).
+....((((..(...)..)).)).....(....)....(...).
+8.2	8.2	0
+
+>RFA_00734 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGGGGCCACGCGGCGUACGAUCGUGGGUACAGCACUA
+....(.....................((...))..).......
+...((...(.(((....))).)...(((...))).))......
+...(((((.(....).)))......(((...))).))......
+0.9	0.9	6
+
+>RFA_00735 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGGGGCCACGCGGAGUACGAUCGAGGGUACAGCACAA
+...(....................)......(.(.....))..
+...(((((.(....).)))....))......(.(.....))..
+...(((((.(....).)))....))......(.(.....))..
+2.4	2.4	0
+
+>RFA_00736 RNA SSTRAND database. External source: Rfam database.
+GGAGACCGCGGCCACGCCGAGUAGGAUCGAGGGUACAGUCUCC
+((............)..)......(.............)....
+((.(........).)..)....(((..(....).....)))..
+((.(........).)..)....(((..(....).....)))..
+8.8	8.8	0
+
+>RFA_00737 RNA SSTRAND database. External source: Rfam database.
+ACUCGCCGAGGCCACGCCGAGUAGGACCGAGGGUACAGCGAGU
+(..(...........).....)......(....).........
+(((((.........))...)))......(....).........
+(((((.........))...)))......(....).........
+7.1	7.1	0
+
+>RFA_00738 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCAGGGCCACGCGGAGUACGAUCGAGGGUACAGCACUA
+................(....(.......))...(......).
+.............((.(....(.(....))).))(......).
+.............((.(....(.......)).))(......).
+10.4	10.4	-6
+
+>RFA_00739 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGAGGCCACGCGGAGAACGAUCGAGGGUACAGCACUA
+.....................(.(......(....).)...).
+.....(((.(....).)))..(.(......(....).)...).
+.....(((.(....).)))..(.(......(....).)...).
+6.6	6.6	0
+
+>RFA_00740 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGAGGCCACGCGGCGUACGAUCGAGGGUACAGCACUA
+..............(..(...).(......)......).....
+.((((.........(..(...).(......)......))))).
+.((((.........(..(...).(......)......))))).
+10.4	10.4	0
+
+>RFA_00741 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGANGCCACGCGGGGUACGAUCGAGGGUACAGCACUA
+....(..(..(..........)....)......).........
+..((((((..(((......)))....)....))))).......
+..((((((..(((......)))....)....))))).......
+-3.8	-3.8	0
+
+>RFA_00742 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGAGGCCACGCGGAGUACGAUCGAGGGUACAGCACUA
+.........(......)...(.......(......).....).
+.........(......)...(.......(......).....).
+.........(......)...(.......(......).....).
+9.9	9.9	0
+
+>RFA_00743 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGGGGCCACGCGGAGUACGACCGAGGGUACAGCACUA
+....((....)...)...........(....)...........
+..((((....)...)))...((((..(....))))).......
+..((((....)...)))...((((..(....))))).......
+1.1	1.1	0
+
+>RFA_00744 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGAGGCCACGCGGGGUACGAUCGAGGGUACAGCACUA
+.....(.(......).....)...(..........).......
+..((((((......)....)))))((((...))).).......
+..((((((......)....)))))((((...))).).......
+0.9	0.9	0
+
+>RFA_00745 RNA SSTRAND database. External source: Rfam database.
+ACUACCCGAGGCCACGCCGAGUUAGGAUCGAGGGUACAGGUAGU
+....(..........)..(...).(...............)...
+....(..........)..(...).(...............)...
+....(..........)..(...).(...............)...
+15.5	15.5	0
+
+>RFA_00746 RNA SSTRAND database. External source: Rfam database.
+GGAGACCGCGGCCACGCCGAGUAGGAACGAGGGUACAGUCUCC
+.........(.(...........).....(...).....)...
+.........(.(.((.....)).).....(...).....)...
+.........(.(.((.....)).).....(...).....)...
+10.1	10.1	0
+
+>RFA_00747 RNA SSTRAND database. External source: Rfam database.
+GGAGACCGCGGCCACGCCGAGUAGGACCGAGGGUACAGUCUCC
+....((.(....)...........).............)....
+((((((((....)..........)).............)))))
+((((((((....)..........)).............)))))
+2	2	0
+
+>RFA_00748 RNA SSTRAND database. External source: Rfam database.
+GGAGACCGCGGCCACGCGGAGUAGGAUCGAGGGUACAGUCUCC
+...........(......)...(.....(..........))..
+...........((....))...(.....((........)))..
+...........((....))...(.....((........)))..
+6	6	0
+
+>RFA_00749 RNA SSTRAND database. External source: Rfam database.
+GGGAGCCGCGGCCACGCCGAGUAGGAUCGAGGGUACAGCUCCC
+.......................(.(.(.........).))..
+........((((...))))....(.(.(.........).))..
+........((((...))))....(.(.(.........).))..
+0.7	0.7	0
+
+>RFA_00750 RNA SSTRAND database. External source: Rfam database.
+GGGAGCCGCGGCCACGCCGAGUAGGAUCGAGGGUACAGCUCCU
+........(.........)..(..............)(....)
+........((((...))))..(.(.(((...))).))(....)
+........((((...))))..(.(.(((...))).))(....)
+6.6	6.6	0
+
+>RFA_00751 RNA SSTRAND database. External source: Rfam database.
+GGAAGCCGCGGCCACGCCGAGUGGGAACGAGGGUACAGCUUCC
+...(........(..........)....(......)....)..
+((.(((.....((.(((...)))))...(......).)).)))
+((.(((.....((.(((...)))))...(......).)).)))
+2.2	2.2	0
+
+>RFA_00752 RNA SSTRAND database. External source: Rfam database.
+GGAAGCCGCGGCCACGCCGAGUAGGCACGAGGGUACAGCUUCC
+.......(....(.......)....)..(....).........
+((((((.((...(.......)...))..(....)...))))))
+((((((.((...(.......)...))..(....)...))))))
+-1.1	-1.1	0
+
+>RFA_00753 RNA SSTRAND database. External source: Rfam database.
+GGAGACCGCGGCCACGCCGAGUAGGAACGAGGGUACAGUCUCU
+........(.......(......))......(........)..
+........(.......(......))....((((......))))
+........(.......(......))....((((......))))
+5.9	5.9	0
+
+>RFA_00754 RNA SSTRAND database. External source: Rfam database.
+GGAAGCCGCGGCCACGCGGAGUAGGAUCGAGGGUACAGCUUCC
+.....(....).............((.............).).
+....((....))...........(((.(.........).).))
+....((....))...........(((.(.........).).))
+2.4	2.4	0
+
+>RFA_00755 RNA SSTRAND database. External source: Rfam database.
+UUUCAUCGAGGCCACGCGGAGUACGAUCGAGGGUACAGUGAAU
+..(..........(.........(....)....).......).
+..(..(((.....((.(......(....).).))....)))).
+..(..(((.....((.(......(....).).))....)))).
+8.1	8.1	0
+
+>RFA_00756 RNA SSTRAND database. External source: Rfam database.
+UUUCAUCGUGGCCACGCGGAGUACGAUCGAGGGUACAGUGAAU
+..(.......(..........(.........).)..)......
+.((....((.((.........(.(......)))))))).....
+.((....((.((.........(.(......)))))))).....
+12.2	12.2	0
+
+>RFA_00757 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGGGGCCACGCUGAGUACGACCGAGGGUACAGCACUA
+....(.........).(.......)........(........)
+....(.........).(.......)........((......))
+....(.........).(.......)........((......))
+11.3	11.3	0
+
+>RFA_00758 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCAGGGCCACGCGGAGUACGAUCGAGGGUACAGCACCA
+...(..........(.........).....)(...).......
+...(.....((...((.......)).))..)(...).......
+...(.....((...((.......)).))..)(...).......
+10.6	10.6	0
+
+>RFA_00759 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGGGGCCACGCGGAGUACGAUCGAGGGUACAGCACUA
+(.................)..((...)...)............
+(.(((.........))).)..((...)...)............
+(.(((.........))).)..((...)...)............
+10.6	10.6	0
+
+>RFA_00760 RNA SSTRAND database. External source: Rfam database.
+GGAAGCCGCGGCCACGCCGAGUAGGAACGAGGGUACAGCUUCC
+.........(....)....(.............)..(...)..
+.......(((....)))..(.(.........).)..(...)..
+.......(((....)))..(.(.........).)..(...)..
+6.5	6.5	0
+
+>RFA_00761 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGGGGCCACGCGGAGUACGAUCGAGGGUACAGCACUU
+(.......).(.....)....(.................)...
+(.......).((...)).((((.(...(....)....).))))
+(.......).((...)).((((.(...(....)....).))))
+4	4	0
+
+>RFA_00762 RNA SSTRAND database. External source: Rfam database.
+CAGUGCCGAGGCCACUCGGAGUACGAUCGAGGGUACAGCACUA
+.........(...........(.....(...)..)......).
+.........((((....)).((((...(...)))))....)).
+.........((((....)).((((...(...)))))....)).
+4.4	4.4	0
+
+>RFA_00763 RNA SSTRAND database. External source: Rfam database.
+UGAUGCCGAGGCCACGCCGGGUAGGAUCGAGGGUACAGCAUCG
+(.(........(...).....)...............).....
+(.((.((..(((...)))))))...............).....
+(.((.((..(((...)))))))...............).....
+6.5	6.5	0
+
+>RFA_00764 RNA SSTRAND database. External source: Rfam database.
+CAAUCCCGAGGCCACGCCGAGUAGGAUCGAGGGUACAGGAUUG
+.....(....(...).....)...............(....).
+.....(((..(...)..)).)..............((....))
+.....(((..(...)..)).)..............((....))
+4.5	4.5	0
+
+>RFA_00765 RNA SSTRAND database. External source: Rfam database.
+GAAAGCCGAGGCCACGCCGAGUAGGAACGAGGGUACAGCUUUC
+......(..........(......).....)......(...).
+...(.((..(.......(......)..)..)).)...(...).
+...(.((..(.......(......)..)..)).)...(...).
+7.2	7.2	0
+
+>RFA_00766 RNA SSTRAND database. External source: Rfam database.
+GGAAGCCGCGACCACGCCGAGUAGGAUCGAGGGUACAGCUUCC
+.(...(........................)(...)....)..
+(((..(..(((((((.....)).)).))).)(...)...))).
+(((..(..(((((((.....)).)).))).)(...)...))).
+4.7	4.7	0
+
+>RFA_00767 RNA SSTRAND database. External source: Rfam database.
+GCACUCUCUAUCAGAUUGGAUGUCUUGCUGCUAUAAUAGAUAGAGAAGGUUAUAGCAGACUA
+..........(.......).(................)(.....................).
+..........(((...))).(((..((....))..)))(.........(((......)))).
+..........(((...))).(((..((....))..)))(.........(((......)))).
+12.2	12.2	0
+
+>RFA_00768 RNA SSTRAND database. External source: Rfam database.
+ACACUCUCUAUCAGAAUGGAUGUCUUGCUGUCAUAACAGAUAGAGAAGGUUGUGGCAGACCC
+..........(..(..............).................)..........(...)
+.(((......(..(...((....))...)(((......))).....)....)))...(...)
+.(((......(..(...((....))...)(((......))).....)....)))...(...)
+13.4	13.4	0
+
+>RFA_00769 RNA SSTRAND database. External source: Rfam database.
+UUGGUCUUGCACACAACGGUAAGCCAGUGGUAAUGUCAGUGCAAGAAGGAUAUUACCAUAGCA
+(................(......))...............(..................)..
+(................((....))).............(((.....((......))...)))
+(................((....))).............(((.....((......))...)))
+6.1	6.1	0
+
+>RFA_00770 RNA SSTRAND database. External source: Rfam database.
+CUACUCUUGUACAGAAUGGUAAGCCAAGUGUCAAUAGGAGGUACAAGCAACCUAUUGCAUAUUA
+.............................(....(...........)..........).(...)
+.....(((((((......)))...)))).(.((((..(.....)..).......)))).(...)
+.....(((((((......)))...)))).(.((((..(.....)..).......)))).(...)
+11.4	11.4	0
+
+>RFA_00771 RNA SSTRAND database. External source: Rfam database.
+GCAUUCUCUAUCAGAAUGGAUGUCUUGCUGCUAUAAUAGAUAGAGAAGGUUAUAGCAGACUA
+.............(...........(.........)..............(.......).).
+.............(......((((((.........).)))))........(.......).).
+.............(......((((((.........).)))))........(.......).).
+11.7	11.7	0
+
+>RFA_00772 RNA SSTRAND database. External source: Rfam database.
+ACACUCUCUAUCAGAAUGGAUGUCUUGCUGUCAUAACAGAUAGAGAAGGUUGUGGCUGCCCU
+(.........).....(.(......).....................)..............
+(.........)((.(((.((....)).(((((......)))))....).)).))........
+(.........)((.(((.((....)).(((((......)))))....).)).))........
+10.3	10.3	0
+
+>RFA_00773 RNA SSTRAND database. External source: Rfam database.
+CUAGUCUUAUACACAAUGGUAAGCCAGUGGUAGUAAAGGUAUAAGAAAUUUGCUACUAUGUUA
+........(..........).....................((..........)...).....
+...(.(((((........))))).)..............((((..........)...)))...
+...(.(((((........))))).)..............((((..........)...)))...
+6	6	0
+
+>RFA_00774 RNA SSTRAND database. External source: Rfam database.
+CUACUCUUGUACAGAAUGGUAAGCACGUGUAAUAGGAGGUACAAGCCACCCUAUUGCAUAUUA
+.....(.........(................).).........(................).
+.((((((........((..............))))..))))...(.....(....).....).
+.((((((........((..............))))..))))...(.....(....).....).
+11.6	11.6	0
+
+>RFA_00775 RNA SSTRAND database. External source: Rfam database.
+CUACUCUUGUACAGAAUGGUAAGCACGUGUAAUGGGAGGUACAAGCAACCCCAUUGCAUAUUA
+......(........)..((.......................).................).
+......((......))..((....((.(........).))...)((((.....))))....).
+......((......))..((....((.(........).))...)((((.....))))....).
+11.5	11.5	0
+
+>RFA_00776 RNA SSTRAND database. External source: Rfam database.
+CUACUCUUGUACAGAAUGGUAAGCACGUGUAGUAGGAGGUACAAGCAACCCUAUUGCAUAUUA
+.......(..................((................).........)....)...
+.......(((...............(((...(((.....)))..).........)).)))...
+.......(((...............(((...(((.....)))..).........)).)))...
+11.7	11.7	0
+
+>RFA_00777 RNA SSTRAND database. External source: Rfam database.
+CUACUCUUGUACAGAAUGGUAAGCACGUGUAAUAGGAGGUACAAGCAACCCUAUUGCAUAUUA
+...(.....(.................(......)..).................).......
+...(.(((((.................(......)..)...))))..........).......
+...(.(((((.................(......)..)...))))..........).......
+14.2	14.2	0
+
+>RFA_00778 RNA SSTRAND database. External source: Rfam database.
+CUACUCUUGUACAGAAUGGUAAACACGUGUAAUAGGAGGUACAAGCAACCCUAUUGCAUAUUA
+..(................).............(............(......))........
+.((((.((......)).)))).....((((...(............(......))))))....
+.((((.((......)).)))).....((((...(............(......))))))....
+7.9	7.9	0
+
+>RFA_00779 RNA SSTRAND database. External source: Rfam database.
+CUACUCUUGUACAGAAUGGUAAGCACGUGUGAUGGGAGGUACAAGCAACCCCAUUACAUAUUA
+(.......).............(.........)..........(................)..
+(.......).............(((....)).).........((................)).
+(.......).............(((....)).).........((................)).
+12.4	12.4	0
+
+>RFA_00780 RNA SSTRAND database. External source: Rfam database.
+CUACUCUUAUACAGAAUGGUAAGCACGUGUAAUAGGAGGUAAUAAGCAACCCUAUUGCAUAUUA
+................(.....).........(............)..........(....)..
+.......(((((....(.....)...))))).(............)..........(....)..
+.......(((((....(.....)...))))).(............)..........(....)..
+13.5	13.5	0
+
+>RFA_00781 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUGGCCGACUAGCUCUGUACCUGGCGGACCCGUGGUGGAACUGACGAGUUCGGAACACCCGGCCGCAACCCUGGGAGACGUCCCGGGGAC
+........(.......(................)).............(......)..........................(................).
+(((((...(.......((((.......))...))))))))..(((((.(......)......((....))..))))).....(((((....))))....).
+(((((...(.......((((.......))...))))))))..(((((.(......).....(((.....)))))))).....(((((....))))....).
+-0.2	-0.2	6
+
+>RFA_00782 RNA SSTRAND database. External source: Rfam database.
+GUCGGUACUAGUUAGCUAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCGGAACACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+................................(.....)....(.............)..........................(......)(...)....
+((((((((.((((((....))))))..)))..(.....).((((.((.......)).)...))).....)))))..........(......)(...)....
+((((((((.((((((....))))))..)))..(.....).((((.((.......)).)...))).....)))))..........(......)(...)....
+-0.3	-0.3	0
+
+>RFA_00783 RNA SSTRAND database. External source: Rfam database.
+UUCUGUACUAGUUAGCUAACUAGAUCUGUAUCUGGCGGCUCCGUGGAAGAACUGACGAGUUCGUAUUCCCGACCGCAGCCCUGGGAGACGUCUCAGAGGC
+...........(......................).(.....................(.......).............).......(........)..
+..........(((((...((.......))..)))))((((..((((..(.......(.(.......).))..)))))).)).......(........)..
+..........(((((...((.......))..)))))((((..((((..(.......(.(.......).))..)))))).)).......(........)..
+0.8	0.8	0
+
+>RFA_00784 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUGGCCGACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAGCUGACGAGUUCGGAACACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+(..................).......(..................(....................).............)...........(...)...
+(((.((........)).)))...(((((......((((..(((.(((((((((....)))))....)))))))))))....)..))))..((((...))))
+(((.((........)).)))...(((((......((((..(((.(((((((((....)))))....)))))))))))....)..))))..((((...))))
+-26.4	-26.4	0
+
+>RFA_00785 RNA SSTRAND database. External source: Rfam database.
+GUCGGUACUAGUUAGCUAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCGGAACACCCGGCCGCGACCCUGGGAGACGUCCCAGGGAC
+....(...............(.................................))..........................((.........).).....
+....(...............(((.(((..((((((.....))).)))))).)).))..(.((((.....)))).)....(((((((.....))).))))..
+....(...............(((.(((..((((((.....))).)))))).)).))..(.((((.....)))).)....(((((((.....))).))))..
+-6.8	-6.8	0
+
+>RFA_00786 RNA SSTRAND database. External source: Rfam database.
+GUUUGUACUAGUUGGCCGACUAGCUCUGUACCUGGCGGACCCGUGGUGGAACUGACGGGUUCGAGACACCCGGCCGCAACCCUGGGAGACGUCCCAAGGAC
+.....(.............................((.........).................)..............(....)...)............
+....((.((((((....))))))...(((..((((((.........).(((((....)))))..)....))))..))).(....)...))((((...))))
+....((.((((((....))))))...(((..((((((.........).(((((....)))))..)....))))..))).(....)...))((((...))))
+-0.1	-0.1	0
+
+>RFA_00787 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUAGCUAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCUGAACACCCGGCCGCAACCCAGGGAGACGUCCCAGGGAC
+........(..........(...(.......................)...........................).....(.....)..........)..
+........(..........(...((((((.....)))))........)(((((....))))).............).....(.....)..........)..
+........(..........(...((((((.....)))))........)(((((....))))).............).....(.....)..........)..
+9.3	9.3	0
+
+>RFA_00788 RNA SSTRAND database. External source: Rfam database.
+AUCUGUACUAGUUAGCUAACUAGAUCUGUAUCUGGCGGUUCCGUGAAAGAACUGACGAGUUCGUAUUCCCGGCCGCAGCCCUGGGAGACGUCUCAGAGGC
+..................(.............)......(..............)...(....................)....(.....).........
+.((((.........(((.(...(((....)))))))...((.((......)).))...(((((..........)).)).)...((.....)).))))...
+.((((.........(((.(...(((....)))))))...((.((......)).))...(((((..........)).)).)..(((.....)))))))...
+4.6	4.6	6
+
+>RFA_00789 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUGGCCGACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCGGAACACCCGGCCGCAACCCUGGGAGACGUCCCGGGGAC
+...........................(...............)(.............(.........)...........)............(....)..
+((((...((((((....))))))....(....(((.....))))(((........((.((.......)).))......))).....))))...(....)..
+((((...((((((....))))))....(....(((.....))))(((........((.((.......)).))......))).....))))...(....)..
+-1.8	-1.8	0
+
+>RFA_00790 RNA SSTRAND database. External source: Rfam database.
+UUCUGUACUAGUUAGCUAACUAGGUCUGUAUCUGGCGGCUCCGUGGAAGAACUGACGAGUUCGUAUUCCCGACCGCAGCCCUGGGAGACGUCUCAGGGGC
+........(.(.(.....................................).................)..............)......(......)..
+....((.((.(.(..((..(..((.((((.....))))..))..)..)).)...(((....)))....)..............))..)).((....))..
+....((.((.(.(..((..(..((.((((.....))))..))..)..)).)...(((....)))....)..............))..)).((....))..
+6.7	6.7	0
+
+>RFA_00791 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUGGCUAACUAGAUCUGUAUCUGGCGGUCCCGCGGAAGAACUGACGAGUUCGUAUUCCCGGCCGCAGCCCCUAGGAGACGUCCCAGCGGCC
+..........................................(......(......(.........(..........)...)).........).........
+.......((((((....))))))..........(((.((...(((....(......(.(.......(..(....)..).).))......)).)...)).)))
+.......((((((....))))))..........(((.((...(((....(......(.(.......(..(....)..).).))......)).)...)).)))
+5.5	5.5	0
+
+>RFA_00792 RNA SSTRAND database. External source: Rfam database.
+GCCUGUACUAGUUGGCUGACUAGACCUGUAUCUGGCGGUUCCGUGGAAGAACUGACGAGUUCGGAGUUCCCGGCCGCAACCCUGGGAGACGUCCCGGGGAC
+................(...........(.................).........)..........(........................(.....)).
+(((..........)))((..(((..((.(...(.(((....))).))))..))).))..........((((((........)))))......((...))).
+(((..........)))((..(((..((.(...(.(((....))).))))..))).))..........((((((........)))))......((...))).
+3.1	3.1	0
+
+>RFA_00793 RNA SSTRAND database. External source: Rfam database.
+AUCUGUACUAGUUAGCUAACUAGAUCUGUAUCUGGCGGUUCCGUGGAAGAACUGACGUGUUCAUAUUCCCGACCGCAGCCCUGGGAGACGUCUCAGAGGC
+............(...................(......(............................(.....)..)........)..)..........
+.((((....((.(.....((.......))...(..(((.(........((((......))))......(.....)..).)).)...)..).))))))...
+.((((....((.(.....((.......))...(..(((.(........((((......))))......(.....)..).)).)...)..).))))))...
+10.8	10.8	0
+
+>RFA_00794 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUGGCCGACUAGCUCUGUAUCUGGCGGACCCGUGGUAGAACUGACGAGUUCGGGAUACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+(.......).(.......................................................(.............(......).......)....)
+(.......).((((((((.((((........))))))).)).......(((((....)))))....(....((.((....(......).)).)).)..)))
+(.......).((((((((.((((........))))))).)).......(((((....)))))....(....((.((....(......).)).)).)..)))
+0.6	0.6	0
+
+>RFA_00795 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUAGCUAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCUGAACACCCGGCCGCGACCCUGGGAGACGUCCCAGGGAC
+........(....)......................................................(.......(.......)).......(...)...
+((((...((....))...((((..(((((.....)))))....))))((((((....)))))).....(.......(.......))))))((((...))))
+((((...((....))...((((..(((((.....)))))....))))((((((....)))))).....(.......(.......))))))((((...))))
+-5.4	-5.4	0
+
+>RFA_00796 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUAGCUAACUAGAUCUGUAUCUGGCGGUUCUGCGGAAGAACUGACGAGUUCGUAUUCCCGGCCGCAGCCCUGGGAGACGUCCCAGCGGC
+......................(...............)...(...............................(.(....)........).).......
+..((((..(((((....)))))(..((((.....)))))...(.(((((((((....)))))...)))).....(((....).......)).)..)))).
+..((((..(((((....)))))(..((((.....)))))...(.(((((((((....)))))...)))).....(((....).......)).)..)))).
+6.5	6.5	0
+
+>RFA_00797 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUAGCUAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCUGAACACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+.....(............................(......(...........)..........................).(.......).....)....
+((((.(...((((((....))))))........(((((.(((((......)).).................)))))....))((.....)).....)))))
+((((.(...((((((....))))))........(((((.(((((......)).).................)))))....))((.....)).....)))))
+-0.3	-0.3	0
+
+>RFA_00798 RNA SSTRAND database. External source: Rfam database.
+AUCUGUACUAGUUAGCUAACUAGAUCUGUAUCUGGCGGUUCCGUGGAAGAACUGACGAGUUCGUAUUCCCGACCGCAGCCCUGGGAGACGUCUCAGAGGC
+....(...........................)(....(...............)........)..........................(.....)...
+....((((...((((....))))....)))..)(((.(((..((......)).)))..))...)..(((((..........)))))..(.((...)).).
+....((((...((((....))))....)))..)(((.(((..((......)).)))..))...)..(((((..........)))))..(.((...)).).
+2.5	2.5	0
+
+>RFA_00799 RNA SSTRAND database. External source: Rfam database.
+GUCUGAACUAGUUGGCCGACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCGAGACACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+.................(.(............................................)....).....(......)(.......).........
+.((((........(((((.((...(((((.....))))).........(((((....))))).))....).))))(......)(.(...).)..))))...
+.((((........(((((.((...(((((.....))))).........(((((....))))).))....).))))(......)(.(...).)..))))...
+-0.9	-0.9	0
+
+>RFA_00800 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUAGCUAACAUGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCUGAACACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+..............................................(.....(.....(...(...............)...).....).......)....
+((((((.......(((......))).........))))))......(((.(((..(..(...(...............)...)..)..).)).)).)....
+((((((.......(((......))).........))))))......(((.(((..(..(...(...............)...)..)..).)).)).)....
+0.5	0.5	0
+
+>RFA_00801 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUAGCUAACUAGAUCUAUAUCUGGCGGGUCCGCGGAAGAACUGACGAGUUCGUAUUCCCGACCGCAGCCCUAGGGAGACGUCCUAGGGUC
+..........(.........(......)................................(....................(......)........).).
+..........(...((((..((....))....)))).....(((((.....))).))...((.......((..........(......))).....)).).
+..........(...((((..((....))....)))).....(((((.....))).))...((.......((..........(......))).....)).).
+12	12	0
+
+>RFA_00802 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUAGCUAACUAGAUCUGUAUCUGGCGGUUCCGUGGAAGAACUGACGAGUUCGGAUUCCCGACCGCAGCCCUGAGAGACGUCUCAGGGGC
+..........(...........................(.....(.......................).......)..............(......))
+..........(((((....))))....((.(((.(.(((.(((.(((((((((....)))))...))))))...).).)).).))).))..((....)))
+..........(((((....))))....((.(((.(.(((.(((.(((((((((....)))))...))))))...).).)).).))).))..((....)))
+-2.7	-2.7	0
+
+>RFA_00803 RNA SSTRAND database. External source: Rfam database.
+GUCUGUACUAGUUGGCCGACUAGAUUGGUAUCUGGCGGAUCCGUGGUGGAACUGACGAGUUCGAGACACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+...................................................((...)..............)...........(........(.....).)
+.............(((((.((((((....)))))))))..))...((((..((...)..............).))))......(.......(((...))))
+.............(((((.((((((....)))))))))..))...((((..((...)..............).))))......(.......(((...))))
+-2.8	-2.8	0
+
+>RFA_00804 RNA SSTRAND database. External source: Rfam database.
+UAACUAGAUCACAGAGAUGUGAUGGAAAAUAGUUGAUGAGUUGUUUAAUUUUAAGAAUUUUUAUCUUAAUUAAGGAAGGAGUGAUUUCAAUGGCACAAGAUAUCAUUUCAACAAUCGGUGACUUAGUAAAAUGGAUUAUCGACACAGUGAACAAAUUCACUAAAAAAUAAGAUGAAUAAUUAAUUACUUUCAUUGUAAAUUUGUUAUCUUCGUAUAGUACUAAAAGUAUGAGUUAUUAAGCCAUCCCAACUUAAUAACCAUGUAAAAUUAGCAAGUGAGUAACAUUUGCUAGUAGAGUUAGUUUCCUUGGACUCAGUGCUAUGUAUUUUUCUUAAUUAUCAUUACAGAUAAUUAUUUCUAGCAUGUAAGCUAUCGUAAACAACAUCGAUUUAUCAUUAUUUGAUAAAUAAAAUUUUUUUCAUAAUUAAUAACAUCCCCAAAAAUAGAUUGAAAAAAUAACUGUAAAACAUUCCCUUAAUAAUAAGUAGG
+..............................................................................................(........................................................................................................)............................................................(.................................................................................................................(..............)...........................(................................)............................)(....)...
+.......((((((....))))))........((((.(((((((.......((((((.......)))))).....((((......)))).((((((...((.......)).....(((((((.(((......))).)))))))...((((((....)))))).........((((((............)))))).....)........(((((((..........))))))).......)))))..))))))).))))..(((...(((((((((((.....))))))))))).(((((..........)))))..................((((((((......))))))))....((((......))))..(..............)(((((.....)))))......(((((((.((...........................)))))))))....................)))(....)...
+.......((((((....))))))........((((.(((((((.......((((((.......))))))....(((.((..((((....((((((...((.......)).....(((((((.(((......))).)))))))...((((((....)))))).........((((((............)))))).....)..))))).(((((((..........)))))))..))))..)).)))))))))).))))..(((...(((((((((((.....))))))))))).(((((..........)))))..................((((((((......))))))))....((((......))))..(..............)(((((.....)))))......(((((((.((...........................)))))))))....................)))(....)...
+-48.1	-48.1	6
+
+>RFA_00805 RNA SSTRAND database. External source: Rfam database.
+UAACUAGAUUACAGAGAUGUGAUGGAAAAUAGUUGAUGAGUUGUUUAAUUUUAAGAAUUUUUUAUCUUAAUUAAGGAAGGAGUGAUUUCAAUGGCACAAGAUAUCAUUUCAACAAUCAGUGACUUAGUAAAAUGGAUUAUCGACACAGUGAACAAAUUCACUAAAAAAUAAGAUGAAUAAUUAAUUACUUUCAUUGUAAAUUUGUUAUCUUCGUAUAGUACUAAAAGUAUGAGUUAUUAAGCCAUCCCAACUUAAUAACCAUGUAAAAUUAGCAAGUGAGUAACAUUUGCUAGUAGAGUUAGUUUCCUUGGACUCAGUGCUAUGUAUUUUUCUUAAUUAUCAUUACAGAUAAUUAUUUCUAGCAUGUAAGCUAUCGUAAACAACAUCGAUUUAUCAUUAUUUGAUAAAUAAAAUUUUUUUCAUAAUUAAUAACAUCCCCAAAAAUAGAUUGAAAAAAUAACUGUAAAACAUUCCCUUAAUAAUAAGUAUGGUCGUGAGCCCCUCCCAAGCUCGCGGC
+.............................................(........................................................................).......................(...........................................................................................(......................................)...............................................................................................................).....(...............................................................................................).(............)..............
+.......((((((....))))))........((((.((((((((((....((((((........))))))........((((((((.((..........)).))))))))........).)))...............(((((...((((((....)))))).......(((((((..((((...(((.......)))))))..)))))))..((((((((..........(.((((((((.........)))))).................)).).(((((...)))))....(((((..........))))).)))))))).........((((((((......))))))))....((((......))))............))))).(((.((((((((...........((((((((...........................))))))))...........)).......))))))..))).((..........))....))))))))))
+.......((((((....))))))........((((.((((((((((....((((((........))))))........((((((((.((..........)).))))))))........).)))...............(((((...((((((....)))))).......(((((((..((((...(((.......)))))))..)))))))..((((((((..........(.((((((((.........)))))).................)).).(((((...)))))....(((((..........))))).)))))))).........((((((((......))))))))....((((......))))............))))).(((.((((((((...........((((((((...........................))))))))...........)).......))))))..))).((..........))....))))))))))
+-45.1	-45.1	0
+
+>RFA_00806 RNA SSTRAND database. External source: Rfam database.
+UAACUAGAUCACAGAGAUGUGAUGGAAAAUAGUUGAUGAGUUGUUUAAUUUUAAGAAUUUUUAUCUUAAUUAAGGAAGGAGUGAUUUCAAUGGCACAAGAUAUCAUUUCAACAAUCGGUGACUUAGUAAAAUGGAUUAUCGACACAGUGAACAAAUUCACUAAAAAAUAAGAUGAAUAAUUAAUUACUUUCAUUGUAAAUUUGUUAUCUUCGUAUAGUACUAAAAGUAUGAGUUAUUAAGCCAUCCCAACUUAAUAACCAUGUAAAAUUAGCAAGUGAGUAACAUUUGCUAGUAGAGUUAGUUUCCUUGGACUCAGUGCUAUGUAUUUUUCUUAAUUAUCAUUACAGAUAAUUAUUUCUAGCAUGUAAGCUAUCGUAAACAACAUCGAUUUAUCAUUAUUUGAUAAAUAAAAUUUUUUUUCAUAAUUAAUAACAUCCCCAAAAAUAGAUUGAAAAAAUAACUGUAAAACAUUCCCUUAAUAAUAAGUAUGGUCGUGAGCCCCUCCCAAGCUCGCGGC
+................................................................................................................(.............(..................................(..........................................................................................................................................................................................)........................................................(......................................)........................).........)..............................(...)..
+.......((((((....))))))(((.....(((.((((..(.((((((..(((((.......))))))))))).).((((((((.((..........)).))))))))...(...((.((....((..(((((...(((((...((((((....))))))(......(((((((..((((...(((.......)))))))..)))))))..((((((((......((((.(((((((((.........)))))))))))))....(((((((((((.....))))))))))).(((((..........))))).)))))))).........................).........((((......))))............)))))...))))).((((((.(......................................)..))))))................))))))....)...........)))).)))...)))...(((...)))
+.......((((((....))))))(((.....(((.((((..(.((((((..(((((.......))))))))))).).((((((((.((..........)).))))))))...(...((.((....((..(((((...(((((...((((((....))))))(......(((((((..((((...(((.......)))))))..)))))))..((((((((......((((.(((((((((.........)))))))))))))....(((((((((((.....))))))))))).(((((..........))))).)))))))).........................).........((((......))))............)))))...))))).((((((.(......................................)..))))))................))))))....)...........)))).)))...)))...(((...)))
+-53.65	-53.65	0
+
+>RFA_00807 RNA SSTRAND database. External source: Rfam database.
+UAACUAGAUCACAGAGAUGUGAUGGAAAAUAGUUGAUGAGUUGUUUAAUUUUAAGAAUUUUUAUCUUAAUUAAGGAAGGAGUGAUUUCAAUGGCACAAGAUAUCAUUUCAACAAUCAGUGACUUAGUAAAAUGGAUUAUCGACACAGUGAACAAAUUCACUAAAAAAUAAGAUGAAUAAUUAAUUACUUUCAUUGUAAAUUUGUUAUCUUCGUAUAGUACUAAAAGUAUGAGUUAUUAAGCCAUCCCAACUUAAUAACCAUGUAAAAUUAGCAAGUGAGUAACAUUUGCUAGUAGAGUUAGUUUCCUUGGACUCAGUGCUAUGUAUUUUUCUUAAUUAUCAUUACAGAUAAUUAUUUCUAGCAUGUAAGCUAUCGUAAACAACAUCGAUUUAUCAUUAUUUGAUAAAUAAAAUUUUUUUCAUAAUUAAUAACAUCCCCAAAAAUAGAUUGAAAAAAUAACUGUAAAACAUUCCCUUAAUAAUAAGUAUGGUCGUGAGCCCCUCCCAAGCUCGCGGC
+.........................................................................(...(....(....................................................................................................)..........................)..............................)..........................(.........................................................................(......................................)...............................................................)......................................................................
+.......((((((....))))))((((....(((....((((((((....((((((.......))))))....((..((((.(..((((.((......((((((((((..((.............)).))))))..))))....)).))))...(((((((........)).)))))......)(((.......)))..........)))).....(((((...)))))...........)).......................((((.(((((((.....))))))).(((((((((..........)))))..))))...........((((((((...(((.((((.((((.........))))..)))))).....).....((((((((.....))))))))............)))))))).................))))....))))))))....))).))))................(((((((((.........)))))))))
+.......((((((....))))))((((....(((....((((((((....((((((.......))))))....((..((((.(..((((.((......((((((((((..((.............)).))))))..))))....)).))))...(((((((........)).)))))......)(((.......)))..........)))).....(((((...)))))...........)).......................((((.(((((((.....)))))))((((((((((..........)))))..)))))..........((((((((...(((.((((.((((.........))))..)))))).....).....((((((((.....))))))))............)))))))).................))))....))))))))....))).))))................(((((((((.........)))))))))
+-44.9	-44.9	6
+
+>RFA_00808 RNA SSTRAND database. External source: Rfam database.
+CUUCCGAUGUAGGCCCGUAUUCUUCGCCUGUACCACGGGUCGGUUUUAGUACAGGCGUUUUCUU
+........(...................(........)..).............(......)..
+((.....((..................((........)).)).....))...(((......)))
+((.....((..................((........)).)).....))...(((......)))
+9.1	9.1	0
+
+>RFA_00809 RNA SSTRAND database. External source: Rfam database.
+CUUCCGAUGUAGACCCGUCCUCCUUCGCCUGCGUCACGGGUCCUGGUUAGACGCAGGCGUUUUCUG
+....(......(..........)............(..........)..).....(...)......
+....(...(.((..........)).).........((........))..)....((...)).....
+....(...(.((..........)).).........((........))..)....((...)).....
+11.8	11.8	0
+
+>RFA_00810 RNA SSTRAND database. External source: Rfam database.
+ACUUAGCUAAAUCGUUUGGUUCAAAACAUUUGCUUGCUGUCUUGGCAUAACAUCAAUAAAGGCAUAAACAUCGCAAAUAAUGGUAAUAUAUAAAUGGCUAUGAGGAUGGUUUUAGUACGUAGGCGUUGCGGAACUUCGGUUCAGCAAUGAAUCGUGCAUGCUAGGAAACUGAAGUGUUGACAGACCUAGUAUCUUUCGAUAGAUUUCCAUACCUCCGCGAUC
+.........................(.............................................................................................).(.(...................................).........).........................................(....).....
+....(((((((...)))))))....((...((((.((((((((((((((..((((.((...((.........))...)).))))..))).......))))...)))))))...)))).)).(((((.(((......(((((((....))))))))))))))........)((((((((((.(((.......))).)))))..)))))....(....).....
+....(((((((...)))))))....((...((((.((((((((((((((..((((.((...((.........))...)).))))..))).......))))...)))))))...)))).)).(((((.(((......(((((((....))))))))))))))........)((((((((((.(((.......))).)))))..)))))....(....).....
+-18.8	-18.8	0
+
+>RFA_00811 RNA SSTRAND database. External source: Rfam database.
+ACUUAGCUAAAACGUUUGGUUCAAAACAUUUGCUUGCUGUCUUGGCAUAACAUCAAUAAAGGCAUAAACAUCGCAAAUAAUGGUAAUAUAUAAAUUGGCUAUGAGGAUGGUUUUAGUACGUAGGCGUUGCGGAACUUCGGUUCAGAUAGAGCAAUGAAUCGCGCAUGCUAGGAAACUGAAGUGUUGACAGACCUAGUAUCUUUCGAUAGAUUUCCAUACCUCCGCGAUC
+....................................................(...................)...............................(...(.........).............................(............................................).........................).........
+...(((((((...((((......)))).......((((.....)))).....(...................).....................))))))).(((((((.........))).........((((((((((...((((((.(...((..(((.((((..(((....)))..)))))))))...))..))))).)))).))..))))...)))).......
+...(((((((...((((......)))).......((((.....)))).....(...................).....................))))))).(((((((.........))).........((((((((((...((((((.(...((..(((.((((..(((....)))..)))))))))...))..))))).)))).))..))))...)))).......
+-14.7	-14.7	0
+
+>RFA_00812 RNA SSTRAND database. External source: Rfam database.
+ACUUAGCUAAAACGUUUGGUUCAAAACAUUUGCUUGCUGUCUUGGCAUAACAUCAAUAAAGGCAUAAACAUCGCAAAACAAUGGUUAUAUAUAAAUGGCUAUGAGGAUGGUUUUAGUACGUAGGCGUUGCGGAACUUCGGUUCAGAUAGAGCAAUGAAUCGUGCAUGCUAGGAAAACUGACCACACGCAGUUGGCAGCCCUAGUAUCUUUCGAUAGAUUUCCAUACCUCCGCGAUC
+....................(..............................................................(...........)...........................................)..................................................(..........).........................(....)...
+...((((......((((((.((......(((((.((.((((((...............))))))....))..)))))......(((.......))).(((((....)))))...(((.((((.....))))..)))..)).))))))...(((........)))..))))(((((.(((.........(.(.((....)).).).........))).))))).....(....)...
+...((((......((((((.((......(((((.((.((((((...............))))))....))..)))))......(((.......))).(((((....)))))...(((.((((.....))))..)))..)).))))))...(((........)))..))))(((((.(((.........(.(.((....)).).).........))).))))).....(....)...
+-16.3	-16.3	0
+
+>RFA_00813 RNA SSTRAND database. External source: Rfam database.
+ACGUAGCUUAAACGUUUGGUUCACAUACAUCUGCCUGCUGCCUUGGCAUAAUAUCAAAAAGGCAUAAACAUCGCACAAUAAUGGUUAAUACGGCUAUGAGGAUGGUUUUAGUACGUAGGCGUUGCGGAACUUCGGUUCAGAUAGAGCAAUGAAUCGUGCAUGCUAGGAAACUGACCAAAUGGUGGCAGCCCUAGUAUCUUUCGAAGAUUUCCAUACCUUUGCGAUC
+...(.........................................................................)............(..(.................................................).....................)..............(.............)...............................
+..((.((......((.((.....)).))..........((((((..............))))))........))...))..((((((...(..((((..((((((((((.(((((....)).)))))))))...))))..)))).(((........)))......).....)))))).(((.(((.....))).)))....(((((..........))))).....
+..((.((......((.((.....)).))..........((((((..............))))))........))...))..((((((...(..((((..((((((((((.(((((....)).)))))))))...))))..)))).(((........)))......).....)))))).(((.(((.....))).)))....(((((..........))))).....
+-20.6	-20.6	0
+
+>RFA_00814 RNA SSTRAND database. External source: Rfam database.
+ACGUAGCUUAAAACGUUUGGUUCACAUACAUCUGCCUGCUGCCUUGGCACAAUAUCAAAAAGGCAUAAACAUCGCACAUAAUGGUUAUUUACGGCUAUGAGGAUGGUUUUAGUACGUAGGCGUUGCGGAACUUCGGUUCGGAUAGAGCAAUGAAUCGUGCAUGCUAGGAACUGACCAAAUAACGCAGCCCUAGUAUCUUUCGAAGAUUUCCAUACCUUUGCGAUC
+..............................................................(...............(...............................................................(.............................)............).........(......)...)..................
+.(((((........((.((.....)).))...((((.........))))...........((((.........((...(....((((((((((.(((((...............))))).)))..(.((((....)))).).((((((.(((.......)))))).....)))...)))))))..))).......((....)).).)))........)))))...
+.(((((........((.((.....)).))...((((.........))))...........((((.........((...(....((((((((((.(((((...............))))).)))..(.((((....)))).).(((((((.((.......)))))).....)))...)))))))..))).......((....)).).)))........)))))...
+-13.6	-13.6	6
+
+>RFA_00815 RNA SSTRAND database. External source: Rfam database.
+ACGUAGCUGAGCGCGUUUGAUAUAGUGAUAAAUGCCUGCUGCCUGGGCUCAACAUCAAAUGCAGGCAUAAACAUCGCAACUAGCAACAAGGAGGAUGGUUUUUAGUACGUAGGCAUUGCGGAACCCUCAACGUGAAGAAGUUCAGAUAGAGCAAUGAAUCGUGCAUGCUAGAGUCAUUGGUUCGACCUAGUAUCUUUCGAAGAUUUCCAUUCCUUCGCGAUC
+......................(...............................(...............................(.................).......)....).................(..........................................................................)...........
+.......((((.(.((((....(((((......((((.......))))......((...(((((((.........))..)).)))(((((((......))))).)).....)))))))..))))))))).(((((((..((((.....))))......(((...(((((((.(((........))))))))))....))).........))...)))))...
+.......((((.(.((((....(((((......((((.......))))......((...(((((((.........))..)).)))(((((((......))))).)).....)))))))..))))))))).(((((((..((((.....))))......(((...(((((((.(((........))))))))))....))).........))...)))))...
+-23.7	-23.7	0
+
+>RFA_00816 RNA SSTRAND database. External source: Rfam database.
+GCUUGAUCUCUGUAUUUGUUUCUAUUUUGAACAUUUGCCUGCUACCUUGGCAUAACAUCAAUAAGGUACAAACAUCGCAAAAAGUCAUCAUAAGGUGGGUUUUAGUACGUAGGCGCUGUAGAACUUAAUUGUUCUGAUAGAGCAGCGAGUCGUGCAUGCUAGUCUAACAUUUCUUGCUACCUAGUAUCUUUAGAAGAUUUCCCUCCCUUAGCGGUC
+......................................(................................................(....................).....................)........(.................................................)(.....................)...
+...........(((..((.(((......)))))..)))(...(((((((............)))))))........(((....(((((..((((......))))....)).)))..)))...........)........(((.((((((..(((.............)))..)))))).........)))(..(((..........)))...)...
+...........(((..(((((.......)))))..)))(...(((((((............)))))))........(((....(((((..((((......))))....)).)))..)))...........)........(((.((((((..(((.............)))..)))))).........)))(..(((..........)))...)...
+-2.7	-2.7	6
+
+>RFA_00817 RNA SSTRAND database. External source: Rfam database.
+AUGUACUAACCUCUAGCUUUUCUUAUACCUUUUGCCUGCUACCUUGGCAUUACAUCUAAAAAGGUACAAACAUCGCAUUGUCAUAAAGAGGUGGUUUUAGUACGUAGGCGCUGUGGGACUUCAUUGUCCCGGUGAUGCAGUGAAUCGUGACUACGAGAUUGUCCAGUAGUUGGUGCUCGUAUCUUUAGAAGAUUUCCUUCCUCGGCGAUC
+........(..............).................................................................................................(.................................................(....).............)..(............)...
+........(..............)...(((..((((((((((...(((....(((((......(.((((........)))))......))))))))...))).)))))))....)))...((.((........(((((..........((((((..((...))..))))))(....).)))))....)).))((.((......)).))..
+........(..............)...(((..((((((((((...(((....(((((......(.((((........)))))......))))))))...))).)))))))....)))...((.((........(((((..........((((((..((...))..))))))(....).)))))....)).))((.((......)).))..
+-12.2	-12.2	0
+
+>RFA_00818 RNA SSTRAND database. External source: Rfam database.
+ACCUAGCCGAAACACUAUGUUGGAAAGAAGACGCUUGCUACCUAGGCAUAAUGUAAAAUUAGGUAUAAACAUCGCAGUUGUAAACUUGAGGUGGUUUAGUACGUAGGCGUGAUGAUGACUUGUUGAAGUGAAACCACGAAUCGUGCUCGCUAUUACGUUGGCCCUUAAUAGUAUCUAUGAAGAUUUCCCAUCCUCAGCGGUC
+.............................(...............(.......................).......)...................(.....................................(.....................).......)....................................
+.....((((.((((...)))).......((....((((.......(..((((.((....)).)).))..)...)))))).......((((((((.(((.((((....))))....(.((((....)))).)..((((((((.((....)).))).))).))....)))....((((....))))...))).))))).)))).
+.....((((.((((...)))).......((....((((.......(..((((.((....)).)).))..)...)))))).......((((((((.(((.((((....))))....(.((((....)))).)..((((((((.((....)).))).))).))....)))....((((....))))...))).))))).)))).
+-10.3	-10.3	0
+
+>RFA_00819 RNA SSTRAND database. External source: Rfam database.
+ACUUAGCUAAAUCGUUUGGUUCAAAACAUUUGCUUGCUGUCUUGGCAUAACAUCAAUAAAGGCAUAAACAUCGCAAAAUAAUGGUUAUAAUUAAAUGGCUAUGAGGAUGGUUUUAGUACGUAGGCGUUGCGGAACUUCGGUUCAUAUAGAGCAAUGAAUCGUGCAUGCUAGGAAAACUGACCACACACAGUGUUGGCAGACCUAGUAUCUUUCGAAGAUUUCCAUACCUCCGCGAUC
+..............................................................................................(............)..................................................(.......)..(.......)...............................(...).......................
+....(((.((((.((((......)))))))))))...((((((...............)))))).....(((((......((((..((......((..........)).......((((.((((((((((.((((....)))).......))))))..(.......).(((.....))).((((((...))).)))....)))))))).(...)...))..))))......))))).
+....(((.((((.((((......)))))))))))...((((((...............)))))).....(((((......((((..((......((..........)).......((((.((((((((((.((((....)))).......))))))..(.......).(((.....))).((((((...))).)))....)))))))).(...)...))..))))......))))).
+-18.4	-18.4	0
+
+>RFA_00820 RNA SSTRAND database. External source: Rfam database.
+GGCCGCACGGAUUCCAGUGCAUAUCUUAGUGAUACUCCAGUUAACUCUAUACUUUCCCUGCAAUACGCUAUUCGCCUUAGAUGUAUCUGGGUGGCUGCUCCACUAAAGCCCGGGAAUAUGCAACCAGUUACAUUUGAGGCCAUUUGGGCUUAAGCGUAUUCCAUGGAAAGUUAUCGUCCCACAUUUCGGAAAUUAUAUUCCGAGCCAGCAAGAAAAUCUUCUCUGUUACAAUUUGACAUAGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUCAUACAAUGAUUACCCUUAAAGAUCGAACAUUUAAACAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGUGUCUGACAUAAUCAAACAUUUGCGCAUUCUUUGACCAAGAAUAGUCAGCAAAUUGUAUUUUCAAUCAAUGCAGACCAUUUGUUUCAGAUUCGGAGAUUUUUUGCUGCCAAACGGAAUAACUAUCAUAGCUCACAUUCUAUUUACAUCACUAAGAAGAGCAUUGCAAUCUGUUAGGCC
+....................................................(..............................................................................................................................................(.....................................................................................................)..............................................................................(...................................................................................................).......).........................(...(.........).)........................
+((((..(((((((.((((((........((((......(((((..(((....(((....((.....)).....((((((((((((.((((...((((.(((.(........)))).)).))..)))).))))))))))))(((((.(((...((((((.......((((((.(((............((.((((((...(((((..((((((((....)))).)))).((.(((((....((........)).....))))).))............)))))..(((......))).)))))).)).......((((((.(((........))).))))))..)))))))))......))))))..))).))))).(..............((((((((((((((.....)))))).))..))))))...((((((((((...(((((...)))))....)))).)))))).....).....))).))).)))))........)))).((((..(.........)))))..)))))).)))))))..))))
+((((..(((((((.((((((........((((......(((((..(((....(((....((.....)).....((((((((((((.((((...((((.(((.(........)))).)).))..)))).))))))))))))(((((.(((...((((((.......((((((.(((((..........((.((((((..((((((..((((((((....)))).)))).((.(((((....((........)).....))))).))............)))))).(((......))).)))))).)).......((((((.(((........))).)))))))))))))))))......))))))..))).))))).(..............((((((((((((((.....)))))).))..))))))...((((((((((...(((((...)))))....)))).)))))).....).....))).))).)))))........)))).((((..(.........)))))..)))))).)))))))..))))
+-88.8	-88.8	6
+
+>RFA_00821 RNA SSTRAND database. External source: Rfam database.
+GGCGACACGGAUUCCAGUGCAUAUCUUAGUGAUACUCCAGUUAACUCCAUACUUUCCCUGCAAUACGCUAUUCGCCUCAGAUGUAUCUGGGUGGUUGCUCCACUAAGCCCAGGAAUAACCAGCCAGUUACAUUUGAGGCCAUUUGGGCUUAAGCGUAUUCCAUGGAAAGUUGUCGUCCCAUAUUUCGAAAAUUAAAUUCCGAGCCAGCAAGAAAAUCUUCUCUGUUACAAUUUGACAUAGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUCAUACAAUGAUUACCCUUAAAGAUCGAACAUUUAAACAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGUGUCUGACAUAAUCAAACAUUUGCACAUUCUUUGACCAAGAAUAGUCAGCAAAUUGUAUUUUCAAUCAAUGCAGACCAUAUGUUCCAGUUUCGGAGAUUUUUUGCUGCCAAACGGAAUACUUAUAAAAACCCACAUUCUAUUUACAUCACUAAGAAGAGCAUUGCAAUCUGUUUAGCC
+.....................................................................................................................................(................................................................................)...........(........(.............................................................................................................................................(..................(.....)..................).......................).................................................................................................)......
+(((((...(((....(.((..((((.....))))...)).)....)))...........((.....))...)))))...((((((.((((.((((((.(((..........))).)))))).)))).))))))(.(((((.....)))))..((...(((...((((((((.(((..........))).))))...)))))))...))......)......(((..(((..(((.(...((........))...............((((((((.(((((((.((((((.........)))))))))..))))..))))))))...(((......)))....((((((((..................)))))))).(..................(.....)..(((........)))..)....((((((.......)))))))......((((((.((((.((((........)).))))))))))))................((((.((((......)))).)))).....)))..))).)))..
+(((((...(((....(.((..((((.....))))...)).)....)))...........((.....))...)))))...((((((.((((.((((((.(((..........))).)))))).)))).))))))(.(((((.....)))))..((...(((...((((((((.(((..........))).))))...)))))))...))......)......(((..(((..(((.(...((........))...............((((((((.(((((((.((((((.........)))))))))..))))..))))))))...(((......)))....((((((((..................)))))))).(..................(.....).((((........)))).)....((((((.......)))))))......((((((.((((.((((........)).))))))))))))................((((.((((......)))).)))).....)))..))).)))..
+-67	-67	6
+
+>RFA_00822 RNA SSTRAND database. External source: Rfam database.
+GGCCGCACGGAUUCCAGUGCAUAUCUUAGUGAUACUCCAGUUAACUCUAUACUUUCCCUGCAAUACGCUAUUCGCCUUAGAUGUAUCUGGGUGGCUGCUCCACUAAAGCCCGGGAAUAUGCAACCAGUUACAUUUGAGGCCAUUUGGGCUUAAGCGUAUUCCAUGGAAAGUUAUCGUCCCACAUUUCGGAAAUUAUAUUCCGAGCCAGCAAGAAAAUCUUCUCUGUUACAAUUUGACAUAGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUCAUACAAUGAUUACCCUUAAAGAUCGAACAUUUAAACAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGUGUCUGACAUAAUCAAACAUUUGCGCAUUCUUUGACCAAGAAUAGUCAGCAAAUUGUAUUUUCAAUCAAUGCAGACCAUUUGUUUCAGAUUCGGAGAUUUUUUUCUGCCAAACGGAAUAACUAUCAUAGCUCACAUUCUAUUUACAUCACUAAGAAGAGCAUUGCAAUCUGUUAGGCC
+.......................(...................................................................................(.........................................................(.........................................................................................................................................................................)...................................................(.................)........................................................................)...........(...............................................)....).......
+((((((((........))))..((.((((((......((((((.(((.((((.......((((((...)))).)).......))))..)))))))))...)))))).(....(((((((((............(((((.((....)).))))))))))))))..((...(((((.((.......(((((((......)))))))..((((((((....)))).)))).((.(((((....((........)).....))))).))..((((((((.(((((((.((((((.........)))))))))..))))..))))))))..)).))))).)).....(((.....)))................(((((.(((((.....(((((.............)))))....((((.(((.(((.((((......))))...))).))).)))).........))))).)))))....).((....))..(......((..((((...((((.............))))))))..)).)....))..))))
+((((((((........))))..((.((((((......((((((.(((.((((.......((((((...)))).)).......))))..)))))))))...)))))).(....(((((((((............(((((.((....)).))))))))))))))..((...(((((.((.......(((((((......)))))))..((((((((....)))).)))).((.(((((....((........)).....))))).))..((((((((.(((((((.((((((.........)))))))))..))))..))))))))..)).))))).)).....(((.....)))................(((((.(((((.....(((((.............)))))....((((.(((.(((.((((......))))...))).))).)))).........))))).)))))....).......(((.(......((..((((...((((.............))))))))..)).).)))))..))))
+-74.7	-74.7	-6
+
+>RFA_00823 RNA SSTRAND database. External source: Rfam database.
+GGCCGCACGGAUUCCAGUGCAUAUCUUAGUGAUACUCCAGUUAACUCUAUACUUUCCCUGCAAUACGCUAUUCGCCUUAGAUGUAUCUGGGUGGCUGCUCCACUAAAGCCCGGGAAUAUGCAACCAGUUACAUUUGAGGCCAUUUGGGCUUAAGCGUAUUCCAUGGAAAGUUAUCGUCCCACAUUUCGGAAAUUAUAUUCCGAGCCAGCAAGAAAAUCUUCUCUGUUACAAUUUGACAUAGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUCAUACAAUGAUUACCCUUAAAGAUCGAACAUUUAAACAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGUGUCUGACAUAAUCAAACAUUUGCGCAUUCUUUGACCAAGAAUAGUCAGCAAAUUAUAUUUUCAAUCAAUGCAGACCAUUUGUUUCAGAUUCGGAGAUUUUUUGCUGCCAAACGGAAUAACUAUCAUAGCUCACAUUCUAUUUACAUCACUAAGAAGAGCAUUGCAAUCUGUUAGGCC
+.................................................................................(........................................................(.....................................................)........................................................................................................(...............................................)............................................................................................................(..........................).........(......................)......).............................
+((((..(((((((.((((((......(((((.((...(((.................)))...))))))).....(((((.((..((((.((((((..........)))).((((.(((((....((..((((((..((((((.(((((...(((...(((....))).)))...).)))).))...))...))............((((((((....)))).)))).((.(((((....((........)).....))))).))..))))))..)).....))))).)))).....((.((...........((((((.(((........))).)))))))).))..................((((..((((((.(((.....))).))))))..))))...(((((........)))))...................)).))))((.((((...(((...((((.....))))))).)))).))...(......((((........))))).....)))))))....)))))).)))))))..))))
+((((..(((((((.((((((......(((((.((...(((.................)))...))))))).....(((((.((..((((.((((((..........)))).((((.(((((....((..((((((..((((((.(((((...(((...(((....))).)))...).)))).))...))...))............((((((((....)))).)))).((.(((((....((........)).....))))).))..))))))..)).....))))).)))).....((.((...........((((((.(((........))).)))))))).))..................((((..((((((.(((.....))).))))))..))))...(((((........)))))...................)).))))((.((((...(((...((((.....))))))).)))).))...(......((((........))))).....)))))))....)))))).)))))))..))))
+-67.7	-67.7	0
+
+>RFA_00824 RNA SSTRAND database. External source: Rfam database.
+GGCCGCACGGAUUCCAGUGCAUAUCUUAGUGAUACUCCAGUUAACUCUAUACUUUCCCUGCAAUACGCUAUUCGCCUUAGAUGUAUCUGGGUGGCUGCUCCACUGAAGCCCGGGAAUAUGCAACCAGUUACAUUUGAGGCCAUUUGGGCUUAAGCGUAUUCCAUGGAAAGUUAUCGUCCCACAUUUCGGAAAUUAUAUUCCGAGCCAGCAAGAAAAUCUUCUCUGUUACAAUUUGACAUAGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUCAUACAAUGAUUACCCUUAAAGAUCGAACAUUUAAACAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGUGUCUGACAUAAUCAAACAUUUGCGCAUUCUUUGACCAAGAAUAGUCAGCAAAUUGUAUUUUCAAUCAAUGCAGACCAUUUGUUUCAGAUUCGGAGAUUUUUUGCUGCCAAACGGAAUAACUAUCAUAGCUCACAUUCUAAUUACAUCACUAAGAAGAGCAUUGCAAUCUGUUAGGCC
+.......................................................................................................(.............................................................................................................................................................................................................).(...........................................................................................................................................(..............)......(..........).................................................).......(...)....
+(((.((((........)))).((((.....))))..((((.((..((((..........((.....)).........))))..)).))))((((.....))))((....((((((((((((............(((((.((....)).)))))))))))))).)))..((((((.(((......(((((((......)))))))..((((((((....)))).)))).......))))))))).....................((((....)))).....((.((((((.........)))))))).))((.((((((.(((........))).)))))).(((.....)))...........((((..((((((.(((.....))).))))))..))))((((.....))))...(((.(((.((((......))))...))).)))..((.(((...)))..))......((((....))))................((((...((((.............)))))))).))......(...).)))
+(((.((((........)))).((((.....))))..((((.((..((((..........((.....)).........))))..)).))))((((.....))))((....((((((((((((............(((((.((....)).)))))))))))))).)))..((((((.(((......(((((((......)))))))..((((((((....)))).)))).......))))))))).....................((((....))))....(((.((((((.........)))))))))))((.((((((.(((........))).)))))).(((.....)))...........((((..((((((.(((.....))).))))))..))))((((.....))))...(((.(((.((((......))))...))).)))..((.(((...)))..))......((((....))))................((((...((((.............)))))))).)).....((...)))))
+-76.8	-76.8	6
+
+>RFA_00825 RNA SSTRAND database. External source: Rfam database.
+GGCCGCACGGAUUCCAGUGCAUAUCUUAGUGAUACUCCAGUUAACUCUAUACUUUCCCUGCAAUACGCUAUUCGCCUUAGAUGUAUCUGGGUGGCUGCUCCACUAAAGCCCGGGAAUAUGCAACCAGUUACAUUUGAGGCCAUUUGGGCUUAAGCGUAUUCCAUGGCAAGUUAUCGUCCCACAUUUCGGAAAUUAUAUUCCGAGCCAGCAAGAAAAUCUUCUCUGUUACAAUUUGACAUAGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUCAUACAAUGAUUACCCUUAAAGAUCGAACAUUUAAACAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGUGUCUGACAUAAUCAAACAUUUGCGCAUUCUUUGACCAAGAAUAGUCAGCAAAUUGUAUUUUCAAUCAAUGCAGACCAUUUGUUUCAGAUUCGGAGAUUUUUUGCUGCCAAACGGAAUAACUAUCAUAGCUCACAUUCUAUUUACAUCACUAAGAAGAGCAUUGCAAUCUGUUAGGCC
+.....................................................................................................................(....................................................)......................................................................................................(................................................................................................................................(.........)....................(................................).....................)...................(.....................)....................
+((((..(((((((.((((((.((((.....)))).(((((.((..((((..........((.....)).........))))..)).))))).((((..........)))).((((..((....(((..(((.((((((.((....)).)))))).))).....)))...)).....))))....(((((((......)))))))..((((((((....)))).))))....(((((....((........)).....)))))((((....((((((....(((.((((((.........))))))))).....((((((.(((........))).)))))).(((.....)))...........((((..((((((.(((.....))).))))))..))))((((.....))))...(.(((((((..((.((((.((((...(((((...)))))....)))).))))))..))))))).)....))))))....))))........(.((.((((......)))).))))))))).)))))))..))))
+((((..(((((((.((((((.((((.....)))).(((((.((..((((..........((.....)).........))))..)).))))).((((..........)))).((((..((....(((..(((.((((((.((....)).)))))).))).....)))...)).....))))....(((((((......)))))))..((((((((....)))).))))....(((((....((........)).....)))))((((....((((((....(((.((((((.........))))))))).....((((((.(((........))).)))))).(((.....)))...........((((..((((((.(((.....))).))))))..))))((((.....))))...(.(((((((..((.((((.((((...(((((...)))))....)))).))))))..))))))).)....))))))....))))........(.((.((((......)))).))))))))).)))))))..))))
+-107.7	-107.7	0
+
+>RFA_00826 RNA SSTRAND database. External source: Rfam database.
+GGCCGCACGGAUUCCAGUGCAUAUCUUAGUGAUACUCCAGUUAACUCUAUACUUUCCCUGCAAUACGCUAUUCGCCUUAGAUGUAUCUGGGUGGCUGCUCCACUAAAGCCCGGGAAUAUGCAACCAGUUACAUUUGAGGCCAUUUGGGCUUAAGCGUAUUCCAUGGAAAGUUAUCGUCCCACAUUUCGGAAAUUAUAUUCCGAGCCAGCAAGAAAAUCUUCUCUGUUACAAUUUGACAUAGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUCAUACAAUGAUUACCCUUAAAGAUCGAACAUUUAAACAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGUGUCUGACAUAAUCAAACAUUUGCGCAUUCUUUGACCAAGAAUAGUCAGCAAAUUGUAUUUUCAAUCAAUGCAGACCAUUUGUUUCAGAUUCUGAGAUUUUUUGCUGCCAAACGGAAUAACUAUCAUAGCUCACAUUCUAUUUACAUCACUAAGAAGAGCAUUGCAAUCUGUUAGGCC
+...................................................................................................(.....(....................................................)..........(...................................................................................................(...............................)....................................................................................................................................).........................)......(.....).............................................................................
+((((..(((((((.((((((.(.((((((((((.....(((.........))).............(((((......(((.(((.((((..((((.((((....((.....((..........))...(((.((((((.((....)).)))))).)))))...(((...(.....(((.(((..(((((((......)))))))..((((((((....)))).))))....((((.((((((((.(((.((.....((((........(((........((((......)))).......)))..........((((((.(((........))).)))))).)))).....)).))).)).)))))).)))))))...)))........((((((((((((((((.....)))))).))..))))).)))....)...)))..(((((...)))))....))....((.....)).)).))))..))))))).)))..)))))...............)))))))))).).)))))).)))))))..))))
+((((..(((((((.((((((.(.((((((((((.....(((.........))).............(((((......(((.(((.((((..((((.((((....((.....((..........))...(((.((((((.((....)).)))))).)))))...(((...(.....(((.(((..(((((((......)))))))..((((((((....)))).))))....((((.((((((((.(((.((.....((((........(((........((((......)))).......)))..........((((((.(((........))).)))))).)))).....)).))).)).)))))).)))))))...)))........((((((((((((((((.....)))))).))..))))).)))....)...)))..(((((...)))))....))....((.....)).)).))))..))))))).)))..)))))...............)))))))))).).)))))).)))))))..))))
+-80.6	-80.6	0
+
+>RFA_00827 RNA SSTRAND database. External source: Rfam database.
+GGCUACACGGAUUCCAGUGCACGUCAUAGGGAUACCCUAGUUUACUCGAUACUUUCCCUGUAAUACGCUUUUCGCCUCAAUUGUAUCUGGGUGGCUGCUCCAUAAAGCCCGGGAAUAUCCAACCAGUUACAUUUGAAGCCAUUUGGGCUUUAGCGUAUUCCACAGAAAGUUAUCGUCCCACAACUUAUAUUCCGAGCCAGCAAGAAAAUCUUCUCUGUAACUAUUUGACAUAGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUUAUACAAUGAUUACCCUCAAAGAUCGAACAUUUAAGCAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGCGUCUGACAUAAUCAAACAUUUGCACAUUCUUCGACCAAGAAUAGUCAGCAAAUUGUAUUUUCAAUCAAUGCAGAUCAUGUGUUCCAGUUUCGGAGAUUUUUUGCUGUCAACGGAAUAACUAUCCUACCCACACUGUCUAUUUCUAUCACUUAGAAGAGCAUUGAAAUCUGUUUUGUU
+.......................................(...................................................................................).............................(.................................................................................................(.............).....................................................................)....................................................................(.............................................)..........(................................................................................)
+................(((((.....(((((...)))))(.......((((..(((((.(......((((((((((.((........))))))).........)))))).)))))))))....).........(((((((.....))))))).((((((..((((..((((((.(((.......(((((....(((.....((((...))))))))))))......))))))))).....)))).......((.((.....)).))(((.(((((.((((((.........)))))).))))))))........................))))))..............(((((.((((....))))..).))))..........)))))...((((((....((((((((.(((.((((......))))...))).)))....)))).)....))))))(...............(((.......)))......((.((.((.((((((.....)))))))))).)).............)
+................(((((.....(((((...)))))(.......((((..(((((.(......((((((((((.((........))))))).........)))))).)))))))))....).........(((((((.....))))))).((((((..((((..((((((.(((.......(((((....(((.....((((...))))))))))))......))))))))).....)))).......((.((.....)).))(((.(((((.((((((.........)))))).))))))))........................))))))..............(((((.((((....))))..).))))..........)))))...((((((....((((((((.(((.((((......))))...))).)))....)))).)....))))))(......((.......(((.......)))......((.((.((.((((((.....)))))))))).))......)).....)
+-61.1	-61.1	6
+
+>RFA_00828 RNA SSTRAND database. External source: Rfam database.
+GGCGACACGGAUUCCAGUGCAUAUCUUAGUGAUACUCCAGUUAACUCCAUACUUUCCCUGCAAUACGCUAUUCGCCUCAGAUGUAUUUGGGUGGUUGCUCCACUAAAGCCCAGGAAUAUCCAGCCAGUUACAUUUGAGGCCAUUUGGGCUUAAGCGUAUUCCAUGGAAAGUUUUCUCCCCACAUUUCGGAAAUUAAAUUCCGAGCCAGCAAGAAAAUCUUCUCUGUUACAAUUUGACAUGGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUCAUACAAUGAUUACCCUUAAAGAUCGAACAUUUAAACAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGUGUCUGACAUAAUCAAACAUUUGCACAUUCUUUGACCAAGAAUAGUCAGCAAAUUGUAUUUUCAAUCAAUGCAGACCAUAUGUUCCAGUUUCGGAGAUUUUUUGCUGCCAAACGGAAUACUUAUAAAAACCCACAUUCUAUUUACAUCACUAAGAAGAGCAUUGCAAUCUGUUUAGCC
+......................................................................................................................................(........................................................................(............................................................................(...........................................................................)........(...................................)..........(......................................................)....................................).................)........................
+(((...(((((((.((((((......(((((.((...(((.................)))...)))))))..........(((((.((((.(((.((.(((...........))).)).))).)))).)))))((.(((((.....)))))............(((..((....))..)))...(((((((......)))))))..((..((((....))))......((.(((((....((........)).....))))).))...........(((((((((((((.((((((((..((((...(((((.........)))))....))))..))).))))).))..........))))).....(((((.((.((.((............)))).)).))))).))))))..((((.(((.((((......))))...)))...........(((......)))))))........((....))....................))................))...)))))).)))))))...)))
+(((...(((((((.((((((......(((((.((...(((.................)))...)))))))..........(((((.((((.(((.((.(((...........))).)).))).)))).)))))((.(((((.....)))))............(((..((....))..)))...(((((((......)))))))..((..((((....))))......((.(((((....((........)).....))))).))...........(((((((((((((.((((((((..((((...(((((.........)))))....))))..))).))))).))..........))))).....(((((.((.((.((............)))).)).))))).))))))..((((.(((.((((......))))...)))...........(((......)))))))........((....))....................))................))...)))))).)))))))...)))
+-73.6	-73.6	0
+
+>RFA_00829 RNA SSTRAND database. External source: Rfam database.
+GGCGACACGGAUUCCAGUGCAUAUCUUAGUGAUACUCCAGUUAACUCCAUACUUUCCCUGCAAUACGCUAUUCGCCUCAGAUGUAUCUGGGUGGUUGCUCCAUUAAAGCCCAGGAAUAUCCAGCCAGUUACAUUUGAGGCCAUUUGGGCUUAAGCGUAUUCCAUGGAAAGUUUUCGCCCCACAUUUCGGAAAUUAAAUUCCGAGCCAUCAAGAAAAUCUUCUCUGUUACAAUUUGACAUAGCUAAAAACUGUACUAAUCAAAAUGAAAAAUGUUUCUCUUGGGCGUAAUCUCAUACAAUGAUUACCCUUAAAGAUCGAACAUUUAAACAAUAAUAUUUGAUAUGAUAUUUUCAAUUUCUAUGCUAUGCCAAAGUGUCUGACAUAAUCAAACAUUUGCACAUUCUUUGACCAAGAAUAGUCAGCAAAUUGUAUUUUCAAUCAAUGCAGACCAUAUGUUCCAGUUUCGGAGAUUUUUUGCUGCCAAACGGAAUACUUAUAAAAACCCAAAUUCUAUUUACAUCACUAAGAAGAGCAUUGCAAUCUGUUUAGCC
+.....................................................................................................................................................................................................................................................................(................................................................................)...................................................(.......................................(........................)........................(......(.................)....)..........).........................
+(((...(((((((.((((((.((((.....))))................(((((((.((.((((((((....((((((((((((.((((.(((.((.(((...........))).)).))).)))).))))))))))))............)))))))).)).))))))).............(((((((......)))))))......((((....)))).(((((((.((((.((((((((.(((.((.....(((..(.....((((((((.(((((((.((((((.........)))))))))..))))..))))))))...(((......)))...)))).....)).))).)).)))))).)))).)))..))))..........(((....((((((.....)))))).(.((((((((((....((....(((((.....))).))....))...)))......))))))).).((......(.................)....)).........)))...)))))).)))))))...)))
+(((...(((((((.((((((.((((.....))))................(((((((.((.((((((((....((((((((((((.((((.(((.((.(((...........))).)).))).)))).))))))))))))............)))))))).)).))))))).............(((((((......)))))))......((((....)))).(((((((.((((.((((((((.(((.((.....(((..(.....((((((((.(((((((.((((((.........)))))))))..))))..))))))))...(((......)))...)))).....)).))).)).)))))).)))).)))..))))..........(((....((((((.....)))))).(.((((((((((....((....(((((.....))).))....))...)))......))))))).).((......(.................)....)).........)))...)))))).)))))))...)))
+-99.3	-99.3	0
+
+>RFA_00830 RNA SSTRAND database. External source: Rfam database.
+GCUGCCGAGUUUUUUAAUGCAUUUUCUACUGACAUAAACUGAAGUGCCAUUAUUUGGAAACUUUAUUUGUAAAGCGUUCUUUGAUCUCAACGCUGUCUGGCUGGACAUUUGCCAAAGCCCAUGAAUGCCCAACCAGACACUGUUGAGACGAAUAUGGGCUUUAAUUGAACGCUUUACAGAAGAAGUUUAUAAAUACACAUAAAAUGCAUUUCUUUCUUAUAACUCAGGCCAACUGGCAUAGCAAGUAAAACUGUACUGAUCUAAAUGAAAAAUGUUUCUCUUCCUGAUAAUCGCACGUCCUUCUAUGGACAUUAUAUGCCAUUAUCAGUCGAAGAUCGAACGUUUAACCAAUAAUGUUCUUCAGAAUAUUUUUAAGCUUUGUUAUGCCACAGUUUGCAUGUUGCAAUUAAACAUUCUUCACGUGAGAAUUGUUUACAAAUUGUCUCUAAACACAUGUGAACCACAGGCCUCACUUAUCUAAACGAAAUCUGUACUUACUUUCAGAAUGUAAGAUAGUUUUAUCAAUUGAAAAUGCAUUCCAAAUAUGUAUCUC
+.......................(.........................................................................................................................................................................................................................................).......................(.............................................................................................................................................).............................................(....................)....................(...............(.........).........).....
+...(((..((((((((......((....((((.((((...(((((((.((((((((.(((((((.((((((((((((((((((.((((((((.(((((((.(((.(((((((....))....))))).))).))))))).))))))))))))..............)))))))))))))).))))))).))))))........)))))))))....))))...))))(((....)))...(((........)))...))......)))))))).....((((.((((((((.(((.((((......))))......))).))))))))..(((((..(((((((........)))))))...................(((((((((........)))))..))))........)))))....))))...(((((((...(((......)))..)))))))....))).(......((.....)).....)....................(...((((........((.......))..))))...).....
+...(((..((((((((......((....((((.((((...(((((((.((((((((.(((((((.((((((((((((((((((.((((((((.(((((((.(((.(((((((....))....))))).))).))))))).))))))))))))..............)))))))))))))).))))))).))))))........)))))))))....))))...))))(((....)))...(((........)))...))......)))))))).....((((.((((((((.(((.((((......))))......))).))))))))..(((((..(((((((........))))))).............((((((.((......)).)))))).(((((.......))))))))))....))))...(((((((...(((......)))..)))))))....))).(......((.....)).....)....................(...((((........((.......))..))))...).....
+-91.9	-91.9	6
+
+>RFA_00831 RNA SSTRAND database. External source: Rfam database.
+UGCCGAGUUUUUUUAAUGCAUUUUCUACUGACAUAAACUUAAGUCCAACUAUUUGGAAACUUUAUUUGUAAAGCGCUCUUUGAUCUCAAUGCUGUCUGGCUGGACAUUUGCCAAAGCCCAUGAACGCCCUACCAGACACUGUUGAGACAAAUAUGGGCUUUAAUUGAACGCUUUACAGAAGAAGUUUAUAAAUAAAUACAAAAUGCAUUUCUUUCUUAUAACUCAGGCCAACUGGCAUAGCAAGUAAAACUGUACUGAUCUAAAUGAAAAAUGUUUCUCUUCCUAAUAAUCGCAGGUCCUUCAAUGGACAUUAUCUGCCAUUAUCAGUCGAAGAUCGAACGUUUAACCAAUAAUGUUCUUCAGAAUAUUUUUAAGCUUUGUUAUGCCACAGUUUACAUGUUACAAUUAAACAUUCUUCACGUGAGAAUUGUUUACAAAUUGUCUCUAAACACAUGUGAAUCACAGGCCUCAGUUAUCUAAACGAAAUCUGUACUUACUUUCAGAAUGUAAGAGAGUUUUAUCAAUUGAAAAUGCAUUCAAAAUAUGUGUCU
+..............................................................................................................................................(..........................(..............).......................(.............................).............................................................................(........................................................................................................)......................................................................................)......................(........)..........
+.............................((((((........(((((....)))))...((((.(((((((((.(((..............(((((((..((.(((..((....))..))).....))..)))))))...(((..........((((((.........(((((......)))))..................(((..(.................(((....)))..)))).......((((............((((....))))..............))))((((......))))....(((((........((.(((((..(((((((........))))))).....(((((...((((((.((......)).)))))).)))))............))))))))).)))...(((((((...(((......)))..)))))))...))))))..(((.....)))....((((..........))))...)))))).)))))).))).))))..(........)...)))))).
+.............................((((((........(((((....)))))...((((.(((((((((.(((..............(((((((..((.(((..((....))..))).....))..)))))))...(((..........((((((.........(((((......)))))..................(((..(.................(((....)))..)))).......((((............((((....))))..............))))((((......))))....(((((........((.(((((..(((((((........))))))).....(((((...((((((.((......)).)))))).)))))............))))))))).)))...(((((((...(((......)))..)))))))...))))))..(((.....)))....((((..........))))...)))))).)))))).))).))))..(........)...)))))).
+-58.9	-58.9	0
+
+312 out of 312

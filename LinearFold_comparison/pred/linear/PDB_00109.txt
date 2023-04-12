@@ -1,0 +1,3 @@
+>PDB_00109
+GGCGGUGCUGAGAUGCCCGUC
+(((((.((......)))))))

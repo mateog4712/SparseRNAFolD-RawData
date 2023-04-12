@@ -1,0 +1,3 @@
+>PDB_00943
+UUGACUACGGAUCAAUUGACUACGGAUCAAGACUACGGUUUGACUACGGAUCAA
+(((((....).))))((((...((.....((((....)))).....))..))))

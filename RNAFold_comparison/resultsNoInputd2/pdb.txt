@@ -1,0 +1,1963 @@
+>PDB_00002 RNA SSTRAND database. External source: RCSB Protein Data Bank 17RA, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUAAGGAUUACCUAUGCC
+((((((.((....))))))))
+((((((.((....))))))))
+-7.9	-7.9	0
+
+>PDB_00004 RNA SSTRAND database. External source: RCSB Protein Data Bank 1A51, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCGAUGGUAGUGUGGGGUCUCCCCAUGCGAGAGUAGGCC
+((((.((....((((((((...))))))))....)).))))
+((((.((....((((((((...))))))))....)).))))
+-19.4	-19.4	0
+
+>PDB_00005 RNA SSTRAND database. External source: RCSB Protein Data Bank 1A60, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAGCUCAACUCUCCCCCCCUUUUCCGAGGGUCAUCGGAACCA
+(((((.......)))))......((((((......))))))...
+(((((.......)))))......((((((......))))))...
+-13.8	-13.8	0
+
+>PDB_00006 RNA SSTRAND database. External source: RCSB Protein Data Bank 1A9L, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGUGACUCCAGAGGUCGAGAGACCGGAGAUAUCACCC
+((((((((((...((((....))))))))...))))))
+((((((((((...((((....))))))))...))))))
+-18.8	-18.8	0
+
+>PDB_00007 RNA SSTRAND database. External source: RCSB Protein Data Bank 1AFX, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGUGAACACC
+((((....))))
+((((....))))
+-3.1	-3.1	0
+
+>PDB_00008 RNA SSTRAND database. External source: RCSB Protein Data Bank 1AJF, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GACAGGGGAAACUUUGUC
+(((((((....)))))))
+(((((((....)))))))
+-6.8	-6.8	0
+
+>PDB_00010 RNA SSTRAND database. External source: RCSB Protein Data Bank 1AJU, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCAGAUUGAGCCUGGGAGCUCUCUGGCC
+(((((((..((((......)))))))))))
+(((((((..((((......)))))))))))
+-16.8	-16.8	0
+
+>PDB_00012 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ANR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...((((......))))))))))
+((((((...((((......))))))))))
+-13.1	-13.1	0
+
+>PDB_00013 RNA SSTRAND database. External source: RCSB Protein Data Bank 1AQO, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGUGCUUCAACAGUGCUUGGACGCUCC
+((((((.(((((......)))))))))))
+((((((.(((((......)))))))))))
+-13	-13	0
+
+>PDB_00014 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ATO, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCACCUCCUCGCGGUGCC
+((((((.......))))))
+((((((.......))))))
+-9.7	-9.7	0
+
+>PDB_00015 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ATV, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGACCAGAAGGUCCCG
+((((((....)))))).
+((((((....)))))).
+-12.1	-12.1	0
+
+>PDB_00016 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ATW, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCUCCAGAUGGAGCG
+(((((....))))).
+(((((....))))).
+-8.8	-8.8	0
+
+>PDB_00017 RNA SSTRAND database. External source: RCSB Protein Data Bank 1B36, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGCAGAAACAGCGCUUCGGCGCGUAUAUUACGCACC
+(((((.......((((....)))).........)))))
+(((((.......((((....)))).........)))))
+-13.3	-13.3	0
+
+>PDB_00019 RNA SSTRAND database. External source: RCSB Protein Data Bank 1BGZ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAUACUGCUUCGGUAAGUCCC
+(((((((((...))))..)))))
+(((((((((...))))..)))))
+-6.9	-6.9	0
+
+>PDB_00022 RNA SSTRAND database. External source: RCSB Protein Data Bank 1BVJ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGACGGUGUAAAAAUCUCGCC
+(((((.(((......))))))))
+(((((.(((......))))))))
+-8.8	-8.8	0
+
+>PDB_00023 RNA SSTRAND database. External source: RCSB Protein Data Bank 1BYJ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUCACACCUUCGGGUGAAGUCGCC
+((((.(.((((....))))..).))))
+((((.(.((((....))))..).))))
+-11.1	-11.1	0
+
+>PDB_00024 RNA SSTRAND database. External source: RCSB Protein Data Bank 1BZ2, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UCAGACUUUUAAUCUGA
+(((((.......)))))
+(((((.......)))))
+-2.6	-2.6	0
+
+>PDB_00026 RNA SSTRAND database. External source: RCSB Protein Data Bank 1BZT, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UCAGACUUUUAANCUGA
+((((.........))))
+((((.........))))
+-0.8	-0.8	0
+
+>PDB_00028 RNA SSTRAND database. External source: RCSB Protein Data Bank 1C0O, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGUCUUCGGGUCC
+(((((....)))))
+(((((....)))))
+-1.3	-1.3	0
+
+>PDB_00029 RNA SSTRAND database. External source: RCSB Protein Data Bank 1C2W, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUUAAGCGACUAAGCGUACACGGUGGAUGCCCUGGCAGUCAGAGGCGAUGAAGGACGUGCUAAUCUGCGAUAAGCGUCGGUAAGGUGAUAUGAACCGUUAUAACCGGCGAUUUCCGAAUGGGGAAACCCAGUGUGUUUCGACACACUAUCAUUAACUGAAUCCAUAGGUUAAUGAGGCGAACCGGGGGAACUGAAACAUCUAAGUACCCCGAGGAAAAGAAAUCAACCGAGAUUCCCCCAGUAGCGGCGAGCGAACGGGGAGCAGCCCAGAGCCUGAAUCAGUGUGUGUGUUAGUGGAAGCGUCUGGAAAGGCGCGCGAUACAGGGUGACAGCCCCGUACACAAAAAUGCACAUGCUGUGAGCUCGAUGAGUAGGGCGGGACACGUGGUAUCCUGUCUGAAUAUGGGGGGACCAUCCUCCAAGGCUAAAUACUCCUGACUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGCGAAAAGAACCCCGGCGAGGGGAGUGAAAAAGAACCUGAAACCGUGUACGUACAAGCAGUGGGAGCACGCUUAGGCGUGUGACUGCGUACCUUUUGUAUAAUGGGUCAGCGACUUAUAUUCUGUAGCAAGGUUAACCGAAUAGGGGAGCCGAAGGGAAACCGAGUCUUAACUGGGCGUUAAGUUGCAGGGUAUAGACCCGAAACCCGGUGAUCUAGCCAUGGGCAGGUUGAAGGUUGGGUAACACUAACUGGAGGACCGAACCGACUAAUGNUGAAAAAUUAGCGGAUGACUUGUGGCUGGGGGUGAAAGGCCAAUCAAACCGGGAGAUAGCUGGUUCUCCCCGAAAGCUAUUUAGGUAGCGCCUCGUGAAUUCAUCUCCGGGGGUAGAGCACUGUUUCGGCAAGGGGGUCAUCCCGACUUACCAACCCGAUGCAAACUGCGAAUACCGGAGAAUGUUAUCACGGGAGACACACGGCGGGUGCUAACGUCCGUCGUGAAGAGGGAAACAACCCAGACCGCCAGCUAAGGUCCCAAAGUCAUGGUUAAGUGGGAAACGAUGUGGGAAGGCCCAGACAGCCAGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAAAGCGUAAUAGCUCACUGGUCGAGUCGGCCUGCGCGGAAGAUGUAACGGGGCUAAACCAUGCACCGAAGCUGCGGCAGCGACGCUUAUGCGUUGUUGGGUAGGGGAGCGUUCUGUAAGCCUGCGAAGGUGUGCUGUGAGGCAUGCUGGAGGUAUCAGAAGUGCGAAUGCUGACAUAAGUAACGAUAAAGCGGGUGAAAAGCCCGCUCGCCGGAAGACCAAGGGUUCCUGUCCAACGUUAAUCGGGGCAGGGUGAGUCGACCCCUAAGGCGAGGCCGAAAGGCGUAGUCGAUGGGAAACAGGUUAAUAUUCCUGUACUUGGUGUUACUGCGAAGGGGGGACGCAGAAGGCUAUGUUGGCCGGGCGACGGUUGUCCCGGUUUAAGCGUGUAGGCUGGUUUUCCAGGCAAAUCCGGAAAAUCAAGGCUGAGGCGUGAUGACGAGGCACUACGGUGCUGAAGCAACAAAUGCCCUGCUUCCAGGAAAAGCCUCUAAGCAUCAGGUAACAUCAAAUCGUACCCCAAACCGACACAGGUGGUCAGGUAGAGAAUACCAAGGCGCUUGAGAGAACUCGGGUGAAGGAACUAGGCAAAAUGGUGCCGUAACUUCGGGAGAAGGCACGCUGAUAUGUAGGUGAGGUCCCUCGCGGAUGGAGCUGAAAUCAGUCGAAGAUACCAGCUGGCUGCAACUGUUUAUUAAAAACACAGCACUGUGCAAACACGAAAGUGGACGUAUACGGUGUGACGCCUGCCCGGUGCCGGAAGGUUAAUUGAUGGGGUUAGCGCAAGCGAAGCUCUUGAUCGAAGCCCCGGUAAACGGCGGCCGNAACUANAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAUGGCGUAAUGAUGGCCAGGCUGUCUCCACCCGAGACUCAGUGAAAUUGAACUCGCUGUGAAGAUGCAGUGUACCCGCGGCAAGACGGAAAGACCCCGUGAACCUUUACUAUAGCUUGACACUGAACAUUGAGCCUUGAUGUGUAGGAUAGGUGGGAGGCUUUGAAGUGUGGACGCCAGUCUGCAUGGAGCCGACCUUGAAAUACCACCCUUUAAUGUUUGAUGUUCUAACGUUGACCCGUAAUCCGGGUUGCGGACAGUGUCUGGUGGGUAGUUUGACUGGGGCGGUCUCCUCCUAAAGAGUAACGGAGGAGCACGAAGGUUGGCUAAUCCUGGUCGGACAUCAGGAGGUUAGUGCAAUGGCAUAAGCCAGCUUGACUGCGAGCGUGACGGCGCGAGCAGGUGCGAAAGCAGGUCAUAGUGAUCCGGUGGUUCUGAAUGGAAGGGCCAUCGCUCAACGGAUAAAAGGUACUCCGGGGAUAACAGGCUGAUACCGCCCAAGAGUUCAUAUCGACGGCGGUGUUUGGCACCUCGAUGUCGGCUCAUCACAUCCUGGGGCUGAAGUAGGUCCCAAGGGUAUGGCUGUUCGCCAUUUAAAGUGGUACGCGAGCUGGGUUUAGAACGUCGUGAGACAGUUCGGUCCCUAUCUGCCGUGGGCGCUGGAGAACUGAGGGGGGCUGCUCCUAGUACGAGAGGACCGGAGUGGACGCAUCACUGGUGUUCGGGUUGUCAUGCCAAUGGCACUGCCCGGUAGCUAAAUGCGGAAGAGAUAAGUGCUGAAAGCAUCUAAGCACGAAACUUGCCCCGAGAUGAGUUCUCCCUGACCCUUUAAGGGUCCUGAAGGAACGUUGAAGACGACGACGUUGAUAGGCCGGGUGUGUAAGCGCAGCGAUGCGUUGAGCUAACCGGUACUAAUGAACCGUGAGGCUUAACCUU
+((((((((.....(((((.((((((((((((((((.....))).)))......((((.(((......))).....(((((((..(((.......)))......))))))).(((((....(((....)))(((((((....))))))).(((((((((.........))))))))).......(((((..(((..........))).))))).)))))...((((......))))..((((((.(((((.(..(((.((.((((((((..((((......(((((((((((((.(((...((((((....))))))....(((.((((....)))).))))))...)))))))))))))...))))(((((((.((((((((.((...)).)))))))).....((((((......))))))..........(((((((((((((((((((.((((....(((((((((..............((((.....))))...........((((...(((...((((((..(((.((((..((((((....))))))..))))(((((((((((.....(((((.......(((((((((((((..((((..((.....))..))))...((....))..((((.....)))).....))))))))))))))))))....((((((..((((((((((((((((((...((((((......))))))....))))...(((.(((((........)))))))).)).))))))))))))(((.....)))......))))))......((((((((((((((...((.((((...((((((((((((...(((((((((.......(((.(((.((((...(((((((.....))))).))...)))).)))...))).....)))))).)))...))))).......(((((((((((....)))))))))))....(((......))).(((((((.((....))......(((..((((...((((..(((((.((((....))))........(((((.(((((.......))))).)))))..((..(((......)))..))((((((.(((.(((((.(.((.(((((..(((.((........)).)))...((((..(((((((((....))))))))).))))....((((((((...((((.(...((((((((....))))))))).))))..))))).)))...((((......)))).......(((((((.....))))))).((.(((..(((...)))))).))...)))))..)).).))))).))).))))))((((.(((.(.(((....))).).)))..))))..(((((........)))))..(((((((((((((..((((((((.((((..(((..((((((((((((((...))).))))))....((((.(((.((((((((((.((.....)))))))))).)).)))..))))........(((((....)))))....)))))...))))))).)))........)))))..))....))))))))))))))))..)))))))))))...))))))).((((.....)))).)))))))))))))...))))).))..))))))))))))).))))).((..((((....))))..)))))..))))))))).)))))))))))))....(((((..(((.......)))..))))).((((....(((((.....)))))))))..(((((...(((....)))...))))).((((...)))).(((...((((((..((((..(((((((((((.((....))..))))))..)))))))))))))))...)))(((((.........)))))..((((..........))))((((((.....))))))(((((.(..((((.........))))..).(((((.....))))).((((((........))))))......))))).....((((.....).))).....((((((.((.....(((((.(((.(((((((((((((((((.((((.(.((.((((....((..((((((...((((((((....))))))))))))))..)).....)).)))).).)))).)))))))))))...(((.((((((.....)))))))))...)))))).)))..))))))).)).))))((..(((((((...........)))))))..))..)))).))).)))..))))))...)))))))(((.((((....)))).)))(((((((.((((..((((....))))..)))).(((....)))(((((...)))))((((((((((.......)))))))))).((..((((..........))))..))...)))))))((((((((...((.......))...)))))))).(((((......))))))))))))..(((((((((((......)))))).)))))..)))))))).)).)))....).)).)))..))))))....(((((((....))).)))).))))..)))))))))).)))))((((((((.(..(((((.(((((..((.(....).)).)))))...(((((...((((..((((((((((((....))))))..))))))..)))).)))))...(((....(((((...........)))))....))))))))....).))))))))..((((((...)))))).......(((((((.......)))))))..((((((((..((...((((((....))))))..))...))))).)))............))))))))..
+((((((((.....(((((.((((((((((((((((.....))).)))......((((.(((......))).....(((((((..(((.......)))......))))))).(((((....(((....)))(((((((....))))))).(((((((((.........))))))))).......(((((..(((..........))).))))).)))))...((((......))))..((((((.(((((.(..(((.((.((((((((..((((......(((((((((((((.(((...((((((....))))))....(((.((((....)))).))))))...)))))))))))))...))))(((((((.((((((((.((...)).)))))))).....((((((......))))))..........(((((((((((((((((((.((((....(((((((((..............((((.....))))...........((((...(((...((((((..(((.((((..((((((....))))))..))))(((((((((((.....(((((.......(((((((((((((..((((..((.....))..))))...((....))..((((.....)))).....))))))))))))))))))....((((((..((((((((((((((((((...((((((......))))))....))))...(((.(((((........)))))))).)).))))))))))))(((.....)))......))))))......((((((((((((((...((.((((...((((((((((((...(((((((((.......(((.(((.((((...(((((((.....))))).))...)))).)))...))).....)))))).)))...))))).......(((((((((((....)))))))))))....(((......))).(((((((.((....))......(((..((((...((((..(((((.((((....))))........(((((.(((((.......))))).)))))..((..(((......)))..))((((((.(((.(((((.(.((.(((((..(((.((........)).)))...((((..(((((((((....))))))))).))))....((((((((...((((.(...((((((((....))))))))).))))..))))).)))...((((......)))).......(((((((.....))))))).((.(((..(((...)))))).))...)))))..)).).))))).))).))))))((((.(((.(.(((....))).).)))..))))..(((((........)))))..(((((((((((((..((((((((.((((..(((..((((((((((((((...))).))))))....((((.(((.((((((((((.((.....)))))))))).)).)))..))))........(((((....)))))....)))))...))))))).)))........)))))..))....))))))))))))))))..)))))))))))...))))))).((((.....)))).)))))))))))))...))))).))..))))))))))))).))))).((..((((....))))..)))))..))))))))).)))))))))))))....(((((..(((.......)))..))))).((((....(((((.....)))))))))..(((((...(((....)))...))))).((((...)))).(((...((((((..((((..(((((((((((.((....))..))))))..)))))))))))))))...)))(((((.........)))))..((((..........))))((((((.....))))))(((((.(..((((.........))))..).(((((.....))))).((((((........))))))......))))).....((((.....).))).....((((((.((.....(((((.(((.(((((((((((((((((.((((.(.((.((((....((..((((((...((((((((....))))))))))))))..)).....)).)))).).)))).)))))))))))...(((.((((((.....)))))))))...)))))).)))..))))))).)).))))((..(((((((...........)))))))..))..)))).))).)))..))))))...)))))))(((.((((....)))).)))(((((((.((((..((((....))))..)))).(((....)))(((((...)))))((((((((((.......)))))))))).((..((((..........))))..))...)))))))((((((((...((.......))...)))))))).(((((......))))))))))))..(((((((((((......)))))).)))))..)))))))).)).)))....).)).)))..))))))....(((((((....))).)))).))))..)))))))))).)))))((((((((.(..(((((.(((((..((.(....).)).)))))...(((((...((((..((((((((((((....))))))..))))))..)))).)))))...(((....(((((...........)))))....))))))))....).))))))))..((((((...)))))).......(((((((.......)))))))..((((((((..((...((((((....))))))..))...))))).)))............))))))))..
+-1087.9	-1087.9	0
+
+>PDB_00032 RNA SSTRAND database. External source: RCSB Protein Data Bank 1CQ5, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUUUACCAGGUCAGGUCCGGAAGGAAGCAGCCAAGGCGCC
+(((((((....(((....(((....)))....))).)))))))
+(((((((....(((....(((....)))....))).)))))))
+-13.5	-13.5	0
+
+>PDB_00035 RNA SSTRAND database. External source: RCSB Protein Data Bank 1D0T, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAUCACCAUUAGGGAUCUC
+((((((.((....))))))))
+((((((.((....))))))))
+-8.2	-8.2	0
+
+>PDB_00040 RNA SSTRAND database. External source: RCSB Protein Data Bank 1E4P, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GUGCGAAGACGAAAGUCCGAGCGC
+((((...(((....)))...))))
+((((...(((....)))...))))
+-7.6	-7.6	0
+
+>PDB_00041 RNA SSTRAND database. External source: RCSB Protein Data Bank 1E95, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGGCCAGCUCCAGGCCGCCAAACAAUAUGGAGCAC
+((((((.......)))))).................
+((((((.......)))))).................
+-12.1	-12.1	0
+
+>PDB_00042 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EBQ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGGGCGCAGCUUCGGCUGCGGUACACC
+((((..((((((....))))))...))))
+((((..((((((....))))))...))))
+-16.6	-16.6	0
+
+>PDB_00043 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EBR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGGGCGCAGCUUCGGCUGACGGUACACC
+((((..((((((....)))).))...))))
+((((..((((((....)))).))...))))
+-12.8	-12.8	0
+
+>PDB_00045 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EHZ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGANCUGGAGGUCCUGUGUNCGAUCCACAGAAUUCGCACCA
+(((((((....((((((.((......)).))))))....(((..((((........))))..))))))))))....
+(((((((....((((((.((......)).))))))....(((..((((........))))..))))))))))....
+-21.4	-21.4	0
+
+>PDB_00049 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EOR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGAAGUCGAAAGAUGGCGCC
+((((..(((....)))..))))
+((((..(((....)))..))))
+-10.2	-10.2	0
+
+>PDB_00050 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ESH, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGCAUAGCACC
+(((((...)))))
+(((((...)))))
+-5.6	-5.6	0
+
+>PDB_00051 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ESY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGACUGGUGAGUACGCC
+(((((((....))).))))
+(((((((....))).))))
+-7.9	-7.9	0
+
+>PDB_00057 RNA SSTRAND database. External source: RCSB Protein Data Bank 1F6X, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAAGUCCGGUCUUCGGACCGGCUUCC
+(((((.((((((....)))))))))))
+(((((.((((((....)))))))))))
+-18.2	-18.2	0
+
+>PDB_00058 RNA SSTRAND database. External source: RCSB Protein Data Bank 1F6Z, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAAGUUCGGUCUUCGGACCGGCUUCC
+((((((.(((((....)))))))))))
+((((((.(((((....)))))))))))
+-15.5	-15.5	0
+
+>PDB_00065 RNA SSTRAND database. External source: RCSB Protein Data Bank 1F84, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCGAGUAGUGUUGGGUCGCGAAAGGCC
+((((.....(((......)))....))))
+((((.....(((......)))....))))
+-9.1	-9.1	0
+
+>PDB_00066 RNA SSTRAND database. External source: RCSB Protein Data Bank 1F85, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCUGAUAGGGUC
+(((((....)))))
+(((((....)))))
+-4.7	-4.7	0
+
+>PDB_00068 RNA SSTRAND database. External source: RCSB Protein Data Bank 1FEQ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCAGACUUUUAAUCUGC
+(((((.......)))))
+(((((.......)))))
+-4.1	-4.1	0
+
+>PDB_00069 RNA SSTRAND database. External source: RCSB Protein Data Bank 1FHK, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGGUGAAAUGCC
+((((......))))
+((((......))))
+-3.7	-3.7	0
+
+>PDB_00070 RNA SSTRAND database. External source: RCSB Protein Data Bank 1FIR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCCGGAUAGCUCAGUCGGUAGAGCANCAGACUUUUAANCUGAGGGUCCAGGGUNCAAGUCCCUGUUCGGGCGCCA
+(((((((..((((........))))....((((((((...))))))))(((((.......))))))))))))....
+(((((((..((((........))))....((((((((...))))))))(((((.......))))))))))))....
+-29.3	-29.3	0
+
+>PDB_00073 RNA SSTRAND database. External source: RCSB Protein Data Bank 1FQZ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCGAGUAGUGUUGGGUCGCGAAAGGC
+(((.....(((......)))....)))
+(((.....(((......)))....)))
+-5.8	-5.8	0
+
+>PDB_00075 RNA SSTRAND database. External source: RCSB Protein Data Bank 1FYO, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUCGCACCUUCGGGUGAAGUCGCC
+((((.(.((((....))))..).))))
+((((.(.((((....))))..).))))
+-11.9	-11.9	0
+
+>PDB_00081 RNA SSTRAND database. External source: RCSB Protein Data Bank 1HLX, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAUAACUUCGGUUGUCCC
+((((((((....))))))))
+((((((((....))))))))
+-10.8	-10.8	0
+
+>PDB_00083 RNA SSTRAND database. External source: RCSB Protein Data Bank 1HS1, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGUUAACUCGCA
+(((......))).
+(((......))).
+-3.7	-3.7	0
+
+>PDB_00084 RNA SSTRAND database. External source: RCSB Protein Data Bank 1HS2, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGUUAAGUCGCA
+(((......))).
+(((......))).
+-3.7	-3.7	0
+
+>PDB_00085 RNA SSTRAND database. External source: RCSB Protein Data Bank 1HS3, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGUUAAUUCGCA
+(((......))).
+(((......))).
+-3.7	-3.7	0
+
+>PDB_00086 RNA SSTRAND database. External source: RCSB Protein Data Bank 1HS4, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGUUAAAUCGCA
+(((......))).
+(((......))).
+-3.7	-3.7	0
+
+>PDB_00087 RNA SSTRAND database. External source: RCSB Protein Data Bank 1HS8, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGUCAAUUCGCA
+(((......))).
+(((......))).
+-3.7	-3.7	0
+
+>PDB_00088 RNA SSTRAND database. External source: RCSB Protein Data Bank 1HWQ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGCGAAGGGCGUCGUCGCCCCGAGCGCC
+(((((...(((((....)))))...)))))
+(((((...(((((....)))))...)))))
+-18	-18	0
+
+>PDB_00089 RNA SSTRAND database. External source: RCSB Protein Data Bank 1I3X, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUGGCUGUUCGCCAGCC
+(((((((.....)))))))
+(((((((.....)))))))
+-13.3	-13.3	0
+
+>PDB_00091 RNA SSTRAND database. External source: RCSB Protein Data Bank 1I46, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGCGUAGCACC
+(((((...)))))
+(((((...)))))
+-5.6	-5.6	0
+
+>PDB_00092 RNA SSTRAND database. External source: RCSB Protein Data Bank 1I4B, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGCUUAGCACC
+(((((...)))))
+(((((...)))))
+-5.6	-5.6	0
+
+>PDB_00095 RNA SSTRAND database. External source: RCSB Protein Data Bank 1I9V, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGACUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((....((((((.((......)).)))))).((((...))))(((((.......))))))))))))....
+(((((((....((((((.((......)).)))))).((((...))))(((((.......))))))))))))....
+-22.2	-22.2	0
+
+>PDB_00097 RNA SSTRAND database. External source: RCSB Protein Data Bank 1IDV, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCGUGCCC
+(((....)))
+(((....)))
+-2.1	-2.1	0
+
+>PDB_00100 RNA SSTRAND database. External source: RCSB Protein Data Bank 1IK1, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUACUAUGUACCA
+(((((...))))).
+(((((...))))).
+-5.3	-5.3	0
+
+>PDB_00102 RNA SSTRAND database. External source: RCSB Protein Data Bank 1IKD, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGCUCUUCGGAGCUCCACCA
+(((((((....)))))))....
+(((((((....)))))))....
+-12.8	-12.8	0
+
+>PDB_00103 RNA SSTRAND database. External source: RCSB Protein Data Bank 1J4Y, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGAUUGAAAAUCCCC
+(((((((...)))))))
+(((((((...)))))))
+-8.4	-8.4	0
+
+>PDB_00107 RNA SSTRAND database. External source: RCSB Protein Data Bank 1JO7, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+AGUAGAAACAAGGCUUCGGCCUGCUUUUGCU
+(((((((.((.(((....))))).)))))))
+(((((((.((.(((....))))).)))))))
+-10.1	-10.1	0
+
+>PDB_00108 RNA SSTRAND database. External source: RCSB Protein Data Bank 1JOX, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGGUGCUGAGAUGCCCGUC
+(((((.((......)))))))
+(((((.((......)))))))
+-9.3	-9.3	0
+
+>PDB_00110 RNA SSTRAND database. External source: RCSB Protein Data Bank 1JTJ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CUUGCUGAAGCACGCACGGCAAG
+(((((((.........)))))))
+(((((((.........)))))))
+-6.7	-6.7	0
+
+>PDB_00111 RNA SSTRAND database. External source: RCSB Protein Data Bank 1JTW, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGUGCGAGAGCGUCA
+.(((((....))))).
+.(((((....))))).
+-3.1	-3.1	0
+
+>PDB_00113 RNA SSTRAND database. External source: RCSB Protein Data Bank 1JUR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCUGAGGAGACUCAGAAGCC
+((((((((....)))))..)))
+((((((((....)))))..)))
+-9.5	-9.5	0
+
+>PDB_00114 RNA SSTRAND database. External source: RCSB Protein Data Bank 1JZC, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGCAUGGCACC
+(((((...)))))
+(((((...)))))
+-5.6	-5.6	0
+
+>PDB_00116 RNA SSTRAND database. External source: RCSB Protein Data Bank 1K2G, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CAGACUUCGGUCGCAGAGAUGG
+..(((....)))..........
+..(((....)))..........
+-2.3	-2.3	0
+
+>PDB_00117 RNA SSTRAND database. External source: RCSB Protein Data Bank 1K4A, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUUCAGAAGAACC
+(((((....)))))
+(((((....)))))
+-4.7	-4.7	0
+
+>PDB_00118 RNA SSTRAND database. External source: RCSB Protein Data Bank 1K4B, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUUCAGUUGAACC
+(((((....)))))
+(((((....)))))
+-4.7	-4.7	0
+
+>PDB_00119 RNA SSTRAND database. External source: RCSB Protein Data Bank 1K5I, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACCCGGGCUCAACCUGGGUCC
+(((((((((.....)))))))))
+(((((((((.....)))))))))
+-16.7	-16.7	0
+
+>PDB_00120 RNA SSTRAND database. External source: RCSB Protein Data Bank 1K6G, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUCAUGAGUCCAUGGCGCC
+(((((((((....)))))))))
+(((((((((....)))))))))
+-14.3	-14.3	0
+
+>PDB_00121 RNA SSTRAND database. External source: RCSB Protein Data Bank 1K6H, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUGUUCAGAAGAACGCGCC
+(((((((((....)))))))))
+(((((((((....)))))))))
+-14.4	-14.4	0
+
+>PDB_00124 RNA SSTRAND database. External source: RCSB Protein Data Bank 1KAJ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGCAGUGGGCUAGCGCCACUCAAAAGCCCG
+(((((((....)).))))).............
+(((((((....)).))))).............
+-10.1	-10.1	0
+
+>PDB_00130 RNA SSTRAND database. External source: RCSB Protein Data Bank 1KKS, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAAGGCCCUUUUCAGGGCCACCC
+((..((((((....))))))..))
+((..((((((....))))))..))
+-12.2	-12.2	0
+
+>PDB_00131 RNA SSTRAND database. External source: RCSB Protein Data Bank 1KOS, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CUGUGUUCGAUCCACAG
+(((((.......)))))
+(((((.......)))))
+-3.5	-3.5	0
+
+>PDB_00132 RNA SSTRAND database. External source: RCSB Protein Data Bank 1KP7, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGCUCAAUGCUCUUCGGAGACGACCGCC
+((((.((....(((....)))..)).))))
+((((.((....(((....)))..)).))))
+-8.7	-8.7	0
+
+>PDB_00133 RNA SSTRAND database. External source: RCSB Protein Data Bank 1KPD, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGCAGUGGGCUAGCGCCACUCAAAGGCCCG
+(((((((....)).))))).............
+(((((((....)).))))).............
+-10.1	-10.1	0
+
+>PDB_00134 RNA SSTRAND database. External source: RCSB Protein Data Bank 1KPY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UCCGGUCGACUCCGGAGAAACAAAGUCA
+(((((......)))))............
+(((((......)))))............
+-7.9	-7.9	0
+
+>PDB_00136 RNA SSTRAND database. External source: RCSB Protein Data Bank 1KXK, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GUCUACCUAUCGGGCUAAGGAGCCGUAUGCGAUGAAAGUCGCACGUACGGUUCUAUGCCCGGGGGAAAAC
+.....(((.((((((...(((((((((((((((....))))))..)))))))))..))))))))).....
+.....(((.((((((...(((((((((((((((....))))))..)))))))))..))))))))).....
+-34.1	-34.1	0
+
+>PDB_00137 RNA SSTRAND database. External source: RCSB Protein Data Bank 1L1W, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGACCUCCCGGGAGCGGGGGACCACCA
+((((..((((((....))))))..)))).
+((((..((((((....))))))..)))).
+-17.6	-17.6	0
+
+>PDB_00138 RNA SSTRAND database. External source: RCSB Protein Data Bank 1L2X, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGCGGCACCGUCCGCGGAACAAACGG
+..(((((......)))))..........
+..(((((......)))))..........
+-8	-8	0
+
+>PDB_00141 RNA SSTRAND database. External source: RCSB Protein Data Bank 1LC6, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUUCCCCUGCAUAAGGAUGAACC
+(((((.(((.....)))..)))))
+(((((.(((.....)))..)))))
+-7.7	-7.7	0
+
+>PDB_00142 RNA SSTRAND database. External source: RCSB Protein Data Bank 1LDZ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGACCGAGCCAGCGAAAGUUGGGAGUCGC
+(((((....(((((....)))))..)))))
+(((((....(((((....)))))..)))))
+-13.4	-13.4	0
+
+>PDB_00146 RNA SSTRAND database. External source: RCSB Protein Data Bank 1LU3, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCAGACUGAAGANCUG
+.................
+.................
+0	0	0
+
+>PDB_00147 RNA SSTRAND database. External source: RCSB Protein Data Bank 1LUU, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CCAGACUGAAGAUCUGG
+(((((.......)))))
+(((((.......)))))
+-4	-4	0
+
+>PDB_00149 RNA SSTRAND database. External source: RCSB Protein Data Bank 1M5L, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGCAGGACUCGGCUUCUUCGGAAGGGACGAGGGGCGC
+((((....((((.((((....))))...))))..))))
+((((....((((.((((....))))...))))..))))
+-14.1	-14.1	0
+
+>PDB_00150 RNA SSTRAND database. External source: RCSB Protein Data Bank 1M82, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAAGCAGGCUUCGGCCUUGUUUCC
+((((((((((....))).)))))))
+((((((((((....))).)))))))
+-13.1	-13.1	0
+
+>PDB_00151 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ME1, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACUUCGGUCC
+((((....))))
+((((....))))
+-4.2	-4.2	0
+
+>PDB_00152 RNA SSTRAND database. External source: RCSB Protein Data Bank 1MFJ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GACAGUCUCUACGGAGACUG
+..(((((((....)))))))
+..(((((((....)))))))
+-11	-11	0
+
+>PDB_00153 RNA SSTRAND database. External source: RCSB Protein Data Bank 1MFK, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGGUUGCAGGUCUGCACCGCC
+((((((.(((....)))))))))
+((((((.(((....)))))))))
+-13.3	-13.3	0
+
+>PDB_00154 RNA SSTRAND database. External source: RCSB Protein Data Bank 1MFY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+AGUAGAAACAAGGCUUCGGCCUGCUUUCGCU
+(((.((((..((((....))))..)))))))
+(((.((((..((((....))))..)))))))
+-8.9	-8.9	0
+
+>PDB_00158 RNA SSTRAND database. External source: RCSB Protein Data Bank 1MNX, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGUGACGAUACUGUAGGCGAGAGCCUGCGGAAAAAUAGCCC
+((((.......((((((((....)))))))).......))))
+((((.......((((((((....)))))))).......))))
+-19	-19	0
+
+>PDB_00159 RNA SSTRAND database. External source: RCSB Protein Data Bank 1MSY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGCUCCUAGUACGUAAGGACCGGAGUG
+.(((((..((.(....).)).))))).
+.(((((..((.(....).)).))))).
+-6	-6	0
+
+>PDB_00160 RNA SSTRAND database. External source: RCSB Protein Data Bank 1MT4, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUAACGUUGAAAAGUUACGCC
+((((((((........))))))))
+((((((((........))))))))
+-12.5	-12.5	0
+
+>PDB_00169 RNA SSTRAND database. External source: RCSB Protein Data Bank 1N66, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACCUCUCGAAAGAGUUGUCC
+((((..(((....)))..))))
+((((..(((....)))..))))
+-8.9	-8.9	0
+
+>PDB_00170 RNA SSTRAND database. External source: RCSB Protein Data Bank 1N8X, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACUCGGCUUGCUGGAGACGGCAAGAGGCGAGUCC
+(((((((.(((((((....)))))))...)))))))
+(((((((.(((((((....)))))))...)))))))
+-21.4	-21.4	0
+
+>PDB_00171 RNA SSTRAND database. External source: RCSB Protein Data Bank 1NA2, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCUGUUUUUCUCGCUGACUUUCAGCCCC
+((((((....((.....))....)))))).
+((((((....((.....))....)))))).
+-11.4	-11.4	0
+
+>PDB_00173 RNA SSTRAND database. External source: RCSB Protein Data Bank 1NC0, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUUCCCCUGCAUAAGGAGGAACC
+(((((((((.....))).))))))
+(((((((((.....))).))))))
+-12.8	-12.8	0
+
+>PDB_00180 RNA SSTRAND database. External source: RCSB Protein Data Bank 1OQ0, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGAGUUGGGCUCUC
+((((((...))))))
+((((((...))))))
+-5.6	-5.6	0
+
+>PDB_00181 RNA SSTRAND database. External source: RCSB Protein Data Bank 1OSW, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGGCGCUACGGCGAGGCUCC
+((((.(((....)))...))))
+((((.(((....)))...))))
+-8.5	-8.5	0
+
+>PDB_00182 RNA SSTRAND database. External source: RCSB Protein Data Bank 1OW9, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGCGAAGACGAAAGUCGAGCUC
+((((...(((....)))..))))
+((((...(((....)))..))))
+-8.8	-8.8	0
+
+>PDB_00183 RNA SSTRAND database. External source: RCSB Protein Data Bank 1P5M, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUGUGAGGAACUACUGUCUUCACGCCUUCGGGAGUGUCGUGCAGCCUCCAGCC
+(((((.((((.....(((((..(((.((....)).)))..).)))))))))))))
+(((((.((((.....(((((..(((.((....)).)))..).)))))))))))))
+-22.2	-22.2	0
+
+>PDB_00184 RNA SSTRAND database. External source: RCSB Protein Data Bank 1P5N, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCAGAAAGCGUCUAGCCAUGGCGUUAGUAUGCC
+((((...((((((.......))))))....))))
+((((...((((((.......))))))....))))
+-11.3	-11.3	0
+
+>PDB_00185 RNA SSTRAND database. External source: RCSB Protein Data Bank 1P5O, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUGUGAGGAACUACUGUCUUCACGCAGAAAGCGUCUAGCCAUGGCGUUAGUAUGAGUGUCGUGCAGCCUCCAGCC
+(((((.((((.....(((((..(((.((...((((((.......))))))....)).)))..).)))))))))))))
+(((((.((((.....(((((..(((.((...((((((.......))))))....)).)))..).)))))))))))))
+-27.2	-27.2	0
+
+>PDB_00187 RNA SSTRAND database. External source: RCSB Protein Data Bank 1P9X, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUAAGGUCGUUGUUCGUGAACGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGUGGGAGAAACUGGCCGGUCGGUGGCCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCA
+(((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((((((((..((((.((((((((..((((((....)))))).((((.((((((((.((((.(((..(((.(((((((..(((((....))))).)))))))...)))))).))))......((((((((.(((...((..((((((((....))...((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.(.(((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....))))))).)))..))))).((((((.......))))))....)))))..)).))((((((((((.....((((((((...(((.........(((...))).((((((......(((((((((.((((((..(((.(((((..(((.((..((.(((((.((((((........))))))..........((((.....))))....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......))))).((((((.(((((.((((....((((..((((....))))((((((((((((...)))))))...........))))).(((..(((((((((....(((((.(.((.(((...(((.....)))...))).))).))))).(((((((((.((((....)))..).))).)))).))..(((.........)))...)))))))))..))).........)))).....)))).))))).))))))((((((.....))))))))))).))..)).)))..))))).)))))))))(((.((((...)))).)))......))))))))).......)))))).)))...)).)))))).....))))).)))))..)))))).)).)))))))))))((((((((((((.(....(((((.....((((......))))..)))))).))))))))))))((((......))))..))))))))))))..)).)))))).))))))))))((((((.(((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).).))))))....(((((((.((........)))))))))(((..(((............)))..)))....)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))).
+(((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((((((((..((((.((((((((..((((((....)))))).((((.((((((((.((((.(((..(((.(((((((..(((((....))))).)))))))...)))))).))))......((((((((.(((...((..((((((((....))...((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.(.(((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....))))))).)))..))))).((((((.......))))))....)))))..)).))((((((((((.....((((((((...(((.........(((...))).((((((......(((((((((.((((((..(((.(((((..(((.((..((.(((((.((((((........))))))..........((((.....))))....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......))))).((((((.(((((.((((....((((..((((....))))((((((((((((...)))))))...........))))).(((..(((((((((....(((((.(.((.(((...(((.....)))...))).))).))))).(((((((((.((((....)))..).))).)))).))..(((.........)))...)))))))))..))).........)))).....)))).))))).))))))((((((.....))))))))))).))..)).)))..))))).)))))))))(((.((((...)))).)))......))))))))).......)))))).)))...)).)))))).....))))).)))))..)))))).)).)))))))))))((((((((((((.(....(((((.....((((......))))..)))))).))))))))))))((((......))))..))))))))))))..)).)))))).))))))))))((((((.(((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).).))))))....(((((((.((........)))))))))(((..(((............)))..)))....)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))).
+-1035.5	-1035.5	0
+
+>PDB_00190 RNA SSTRAND database. External source: RCSB Protein Data Bank 1PJY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCUUCCCACAAGGGAAGGCC
+(((((((((....)))))))))
+(((((((((....)))))))))
+-17.9	-17.9	0
+
+>PDB_00191 RNA SSTRAND database. External source: RCSB Protein Data Bank 1Q75, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUCUCAGUGAGCC
+(((((.....)))))
+(((((.....)))))
+-7.6	-7.6	0
+
+>PDB_00194 RNA SSTRAND database. External source: RCSB Protein Data Bank 1Q9A, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGCUCCUAGUACGAGAGGACCGGAGUG
+.(((((..((.(....).)).))))).
+.(((((..((.(....).)).))))).
+-6	-6	0
+
+>PDB_00200 RNA SSTRAND database. External source: RCSB Protein Data Bank 1QWA, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAUGCCUCCCGAGUGCAUCC
+((((((((....)).))))))
+((((((((....)).))))))
+-8.5	-8.5	0
+
+>PDB_00201 RNA SSTRAND database. External source: RCSB Protein Data Bank 1QWB, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACACGAAAUCCCGAAGUAGUGUCC
+((((((..............))))))
+((((((..............))))))
+-7.6	-7.6	0
+
+>PDB_00202 RNA SSTRAND database. External source: RCSB Protein Data Bank 1R2P, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGCCGUAUGCGAUGAAAGUCGCACGUACGGUUC
+((((((((((((((....))))))..))))))))
+((((((((((((((....))))))..))))))))
+-17.9	-17.9	0
+
+>PDB_00203 RNA SSTRAND database. External source: RCSB Protein Data Bank 1R7W, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGGACAUCCCUCACGGGUGACCGUGGUCCUCC
+(((((((......(((((....))))))))))))
+(((((((......(((((....))))))))))))
+-18.2	-18.2	0
+
+>PDB_00205 RNA SSTRAND database. External source: RCSB Protein Data Bank 1RFR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCACUCUGGUAUCACGGUACCUUUGUGUC
+(((((...(((((....)))))...)))))
+(((((...(((((....)))))...)))))
+-10.3	-10.3	0
+
+>PDB_00206 RNA SSTRAND database. External source: RCSB Protein Data Bank 1RHT, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGACUGACGAUCACGCAGUCUAU
+.((((((.((....))))))))..
+.((((((.((....))))))))..
+-9	-9	0
+
+>PDB_00208 RNA SSTRAND database. External source: RCSB Protein Data Bank 1RNG, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGCUUGCGUC
+((((....))))
+((((....))))
+-1.9	-1.9	0
+
+>PDB_00209 RNA SSTRAND database. External source: RCSB Protein Data Bank 1RNK, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGCAGUGGGCUAGCGCCACUCAAAAGGCCCAU
+(((((((....)).)))))...............
+(((((((....)).)))))...............
+-10.1	-10.1	0
+
+>PDB_00210 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ROQ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUAUCACGGUACC
+(((((....)))))
+(((((....)))))
+-2.8	-2.8	0
+
+>PDB_00213 RNA SSTRAND database. External source: RCSB Protein Data Bank 1S9S, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGGUACUAGUUGAGAAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGUGAAGUUCGGAACACCCGGCCGCAACCCUGGGAGAGGUCCCAGGGUU
+.((((..((((((....))))))..)))).....((((..(((.(((((((((....)))))....)))))))))))((((((((((....))))))))))
+.((((..((((((....))))))..)))).....((((..(((.(((((((((....)))))....)))))))))))((((((((((....))))))))))
+-49.5	-49.5	0
+
+>PDB_00214 RNA SSTRAND database. External source: RCSB Protein Data Bank 1SCL, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGUGCUCAGUACGAGAGGAACCGCACCC
+((((((...((.(.....).)).))))))
+((((((...((.(.....).)).))))))
+-9.7	-9.7	0
+
+>PDB_00216 RNA SSTRAND database. External source: RCSB Protein Data Bank 1SLO, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UUACCCAAGUUUGAGGUAA
+.((((((....)).)))).
+.((((((....)).)))).
+-3.8	-3.8	0
+
+>PDB_00219 RNA SSTRAND database. External source: RCSB Protein Data Bank 1SZY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCAGGGCUCAUAACCCUGCC
+(((((((.......)))))))
+(((((((.......)))))))
+-12.6	-12.6	0
+
+>PDB_00221 RNA SSTRAND database. External source: RCSB Protein Data Bank 1TLR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCUAAGACUUCGGUUAUGGCC
+((((...(((....)))..))))
+((((...(((....)))..))))
+-6.8	-6.8	0
+
+>PDB_00224 RNA SSTRAND database. External source: RCSB Protein Data Bank 1U2A, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUCAGUGUAACAACUGACC
+(((((((......)))))))
+(((((((......)))))))
+-10.4	-10.4	0
+
+>PDB_00225 RNA SSTRAND database. External source: RCSB Protein Data Bank 1UUU, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUACGUUUCGUACGCC
+((((((((...))))))))
+((((((((...))))))))
+-11.8	-11.8	0
+
+>PDB_00226 RNA SSTRAND database. External source: RCSB Protein Data Bank 1VOP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GACUGGGGCGGUC
+(((((...)))))
+(((((...)))))
+-2.7	-2.7	0
+
+>PDB_00227 RNA SSTRAND database. External source: RCSB Protein Data Bank 1WTS, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACCGGAAGGUCC
+(((((....)))))
+(((((....)))))
+-7.9	-7.9	0
+
+>PDB_00229 RNA SSTRAND database. External source: RCSB Protein Data Bank 1YFG, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+AGCGCCGUGGCGCAGUGGAAGCGCGCAGGGCUCAUAACCCUGAUGUCCUCGGAUCGAAACCGAGCGGCGCUACCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......))))))))))))....
+(((((((..((((.......)))).(((((.......))))).....(((((.......))))))))))))....
+-32.1	-32.1	0
+
+>PDB_00231 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ZIF, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCGAAAGCCU
+((((....))))
+((((....))))
+-5	-5	0
+
+>PDB_00232 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ZIG, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCGAGAGCCU
+((((....))))
+((((....))))
+-5	-5	0
+
+>PDB_00233 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ZIH, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCGCAAGCCU
+((((....))))
+((((....))))
+-5	-5	0
+
+>PDB_00237 RNA SSTRAND database. External source: RCSB Protein Data Bank 28SP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUCAGGUCCGGAAGGAAGCAGCGCC
+(((((....(((....)))....)))))
+(((((....(((....)))....)))))
+-11.1	-11.1	0
+
+>PDB_00243 RNA SSTRAND database. External source: RCSB Protein Data Bank 2TPK, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCUGACCAGCUAUGAGGUCAUACAUCGUCAUAGCAC
+........(((((((.(........).)))))))..
+........(((((((.(........).)))))))..
+-11.4	-11.4	0
+
+>PDB_00244 RNA SSTRAND database. External source: RCSB Protein Data Bank 2TRA, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UCCGUGAUAGUUNAAUGGUCAGAAUGGGCGCNUGUCGCGUGCCAGAUCGGGGUNCAAUUCCCCGUCGCGGAGC
+((((((((........((((....(((((((.....)))).)))))))((((.......))))))))))))..
+((((((((........((((....(((((((.....)))).)))))))((((.......))))))))))))..
+-26.3	-26.3	0
+
+>PDB_00256 RNA SSTRAND database. External source: RCSB Protein Data Bank 387D, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UCCGAAGUGCAACGGGAAAAUGCACU
+.....((((((.........))))))
+.....((((((.........))))))
+-5.6	-5.6	0
+
+>PDB_00258 RNA SSTRAND database. External source: RCSB Protein Data Bank 3PHP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUUCCGAGGGUCAUCGGAACCA
+((((((((......)))))))).
+((((((((......)))))))).
+-14.4	-14.4	0
+
+>PDB_00259 RNA SSTRAND database. External source: RCSB Protein Data Bank 3TRA, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UCCGUGAUAGUUNAAUGGUCAGAAUGGGCGCNUGUCGCGUGCCAGAUCGGGGUNCAAUUCCCCGUCGCGGAG
+((((((((........((((....(((((((.....)))).)))))))((((.......)))))))))))).
+((((((((........((((....(((((((.....)))).)))))))((((.......)))))))))))).
+-26.3	-26.3	0
+
+>PDB_00285 RNA SSTRAND database. External source: RCSB Protein Data Bank 1A1T, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACUAGCGGAGGCUAGUCC
+((((((((....))))))))
+((((((((....))))))))
+-13.6	-13.6	0
+
+>PDB_00289 RNA SSTRAND database. External source: RCSB Protein Data Bank 1A4T, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGCUGACAAAGCGC
+(((((.....)))))
+(((((.....)))))
+-7.1	-7.1	0
+
+>PDB_00301 RNA SSTRAND database. External source: RCSB Protein Data Bank 1AM0, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAAGAAACUGUAGC
+................
+................
+0	0	0
+
+>PDB_00312 RNA SSTRAND database. External source: RCSB Protein Data Bank 1AUD, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCAGAGUCCUUCGGGACAUUGCACCUGCC
+.((((.((((....)))).)))).......
+.((((.((((....)))).)))).......
+-11.1	-11.1	0
+
+>PDB_00313 RNA SSTRAND database. External source: RCSB Protein Data Bank 1B23, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGCGUUAACAAAGCGGUUAUGUAGCGGANUGCAAANCCGUCUAGUCCGGUNCGACUCCGGAACGCGCCUCCA
+((((((((......((((...((((......))))...)))).....((((.......))))))))))))....
+((((((((......((((...((((......))))...)))).....((((.......))))))))))))....
+-25.7	-25.7	0
+
+>PDB_00317 RNA SSTRAND database. External source: RCSB Protein Data Bank 1BIV, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUCGUGUAGCUCAUUAGCUCCGAGCC
+((((((.(.((((....)))))))))))
+((((((.(.((((....)))))))))))
+-13.7	-13.7	0
+
+>PDB_00335 RNA SSTRAND database. External source: RCSB Protein Data Bank 1CX0, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGCGAAUGGGAC
+(.(((((.((((.(((((......))))).))))))))).)....(((((((((....)).)).)))))...
+(.(((((.((((.(((((......))))).))))))))).)....(((((((((....)).)).)))))...
+-33.6	-33.6	0
+
+>PDB_00339 RNA SSTRAND database. External source: RCSB Protein Data Bank 1D6K, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACCGAUGGUAGUGUCUUCGGAUGCGAGAGUAGGUC
+.((((.((....(((((....)))))....)).))))
+.((((.((....(((((....)))))....)).))))
+-9.4	-9.4	0
+
+>PDB_00343 RNA SSTRAND database. External source: RCSB Protein Data Bank 1DK1, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCGGCCUUCGGGCUAGACGGUGGGAGAGGCUUCGGCUGGUCCACCCGUGACGCUC
+((((((((....)))...((((..(((..(((....)))..)))..))))..)))))
+((((((((....)))...((((..(((..(((....)))..)))..))))..)))))
+-22.8	-22.8	0
+
+>PDB_00347 RNA SSTRAND database. External source: RCSB Protein Data Bank 1DUL, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGAGCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-19.8	-19.8	0
+
+>PDB_00352 RNA SSTRAND database. External source: RCSB Protein Data Bank 1E8O, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCCGGGCGCGGUGGCGCGCGCCUGUAGUCCCAGCUACUCGGGAGGCUC
+((((((((((((......)))))))....((((........)))))))))
+((((((((((((......)))))))....((((........)))))))))
+-24.5	-24.5	0
+
+>PDB_00359 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EHT, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGAUACCAGCCGAAAGGCCCUUGGCAGCGUC
+((((...((((((....)))...)))...))))
+((((...((((((....)))...)))...))))
+-10.3	-10.3	0
+
+>PDB_00361 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EI2, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCAGUGUGAGUACCUUCACACGUC
+(((.(((((((....))))))))))
+(((.(((((((....))))))))))
+-8.9	-8.9	0
+
+>PDB_00362 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EIY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCGAGGUAGCUCAGUUGGUAGAGCAUGCGACUGAAAAUCGCAGUGUCCGCGGUUCGAUUCCGCGCCUCGGCACCA
+((((((((.((((........)))).(((((.......)))))......((((.......))))))))))))....
+((((((((.((((........)))).(((((.......)))))......((((.......))))))))))))....
+-32	-32	0
+
+>PDB_00365 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EKZ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACAGCUGUCCCUUCGGGGACAGCUGUCC
+(((((((((((((....)))))))))))))
+(((((((((((((....)))))))))))))
+-27.2	-27.2	0
+
+>PDB_00371 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ETF, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUCUGGGCGCAGCGCAAGCUGACGGUACAGGCC
+((((((..((((((....)))).))...))))))
+((((((..((((((....)))).))...))))))
+-17.1	-17.1	0
+
+>PDB_00373 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EUQ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAGCGAGGUUCGAAUCCUCGUACCCCAGCCA
+((((((((((...)))))......(((((.......)))))..((((((.......))))))))))).....
+((((((((((...)))))......(((((.......)))))..((((((.......))))))))))).....
+-28.5	-28.5	0
+
+>PDB_00374 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EUY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAAGCGAGGUUCGAAUCCUCGUACCCCAGCCA
+((((((((((...)))))......(((((.......)))))...((((((.......))))))))))).....
+((((((((((...)))))......(((((.......)))))...((((((.......))))))))))).....
+-28.5	-28.5	0
+
+>PDB_00376 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EXD, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGAGGUCGAGGUUCGAAUCCUCGUACCCCAGCCA
+(((((((.(((....)))..(((.(((((.......)))))..)))((((.......))))))))))).....
+(((((((.(((....)))..(((.(((((.......)))))..)))((((.......))))))))))).....
+-28.7	-28.7	0
+
+>PDB_00377 RNA SSTRAND database. External source: RCSB Protein Data Bank 1EXY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCGCCGGUACGCAAGUACGACGGUACGCUCC
+((((((((((((....))))..)))..))))).
+((((((((((((....))))..)))..))))).
+-12.7	-12.7	0
+
+>PDB_00378 RNA SSTRAND database. External source: RCSB Protein Data Bank 1F1T, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAUCCCGACUGGCGAGAGCCAGGUAACGAAUGGAUCC
+((((((((.(((((....)))))....))...))))))
+((((((((.(((((....)))))....))...))))))
+-15.5	-15.5	0
+
+>PDB_00392 RNA SSTRAND database. External source: RCSB Protein Data Bank 1F7U, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UCCUCGUGGCCCAAUGGUCACGGCGNCUGGCUNCGAACCAGAAGAUUCCAGGUNCAAGUCCUGGCGGGGAAGCCA
+(((((((((((....)))))).....((((.......))))......(((((.......))))).))))).....
+(((((((((((....)))))).....((((.......))))......(((((.......))))).))))).....
+-24.3	-24.3	0
+
+>PDB_00393 RNA SSTRAND database. External source: RCSB Protein Data Bank 1F7V, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UCCUCGUGGCCCAAUGGUCACGGCGNCUGGCUNCGAACCAGAAGAUUCCAGGUNCAAGUCCUGGCGGGGAAG
+(((((((((((....)))))).....((((.......))))......(((((.......))))).)))))..
+(((((((((((....)))))).....((((.......))))......(((((.......))))).)))))..
+-24.3	-24.3	0
+
+>PDB_00402 RNA SSTRAND database. External source: RCSB Protein Data Bank 1FFY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCUUGUAGCUCAGGUGGUUAGAGCGCACCCCUGAUAAGGGUGAGGUCGGUGGUUCAAGUCCACUCAGGCCCAC
+(((((((.......(((((((.((((.(((((((.((....)).)))..)))))))).)).))))))))))))..
+(((((((.......(((((((.((((.(((((((.((....)).)))..)))))))).)).))))))))))))..
+-31.5	-31.5	0
+
+>PDB_00407 RNA SSTRAND database. External source: RCSB Protein Data Bank 1FJE, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCGAAAUCCCGAAGUAGGCC
+((((..............))))
+((((..............))))
+-5.4	-5.4	0
+
+>PDB_00409 RNA SSTRAND database. External source: RCSB Protein Data Bank 1FKA, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGUUGAUCCUGGCUCAGGGUAACGCUGGCGGCGUGCGACAUGCAGUCGUGCGGGCCGCGGGGUACUCCGUGGUCAGCGGCGGUGAGCGUGGGUCCCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCCCCCCAUGGACCCGCCCCUUGGGGUGUGUCGGGCUUUGCCCGCUUCCGGAUGGGCCCGCGUCCCGCUUUGGUGGGGUGGCCCACCAAGGCGGGUAGCCGGUCUGAGAGGAUGCCGGCCACGGGGCACUGAGACCGGGCCCCACUCCUGGAGAGCAGUUAGGAAUCUUCCGCAAUGGGCGCCUGCGGAGCGACGCCGCUGGAGGAAGCCCUUCGGGGAAACUCCUGAACCCGGGCGAAACCCCCGACGAGGGGACUGACACCGGGGUGCGCCGGCCUCCGUCCAGCGCCGCGGCGGAGGGCGCAGCGUUACCCGCGUAGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCCCGGGAGGAACGCCGAGGCGAAGGCAGCCACCUGGUCCACCCGUGGCUGAGGCGCAGCGUGGGGCAAACCGGAUUCCGGGUAGUCCACGCCCUAACGCGCUGUCUCUGGGUCCUGGGGGCCGAAGCCAGCGCGCCUGGGGCGGCUGAAACUCAAGGAAUUGACGGGGCCCGAGCGGUGAGCAUGUGGUUUUCGCGAAGACCAGGCCUGCUAGGACCCGGGUGGCCUGGGUGCCCGCGAGGGAGCCCUAGCCAGGGCUCCGUCGGCUCGUGCCGGUUGGGUUCCCGACGAGCCCCCGCCGUUACCAGCGGCCGGGCUCUAACGGGGCCCGCGAAAGCGGGAGGAAGGGGGACGUCUGGUCAGCAUGGCCCGCCUGGCACGUGCUAUGCCCUAAGCGAGCCACCCGGCAACGGGGAGCCAAUGGGCCGGAUUGGGGUCUGAAGACCCCAUCCGAUCGCUUAAUCGCGGGCCGCGGUGAAUACGGGCCUUGUACACGCCCGUCACGCCAUGGGAGCGGGCUCUACCAAGUCGCCGCUGGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAAAGCUGUACCGGAAGGUGCGGCUGGA
+(((((......))))).(((((((((((((((((((((((.....)))))))..)))))((.((((((((..(((((((((((((.(((((((((((((((((.(((((....((((((....)))))).)))))...(((.(((((....))))).)))((((...)))).)))))))..))))))))))((((((((((((((....))))))))))))))..((((((.(......).))))))...(((((.(((....))))))))..((((((.......)))))).(((((((((..((...))))))))).))))))))))......(((((((((((....)))))))...)))).....((((.....)))).)))))..)))))))).))(.(((((((((......).)))))))).).)))))))))))(((..((((((((.(.(((((((((((((((..(((......)))((((((((((.(.(.(((((((((...((((((((((((((((((.(..((((((.((((...((((((((..((((....(((((.(.........((..(((....(((((((..((....)).)))))))...)))..))).))))).)))).))))))))...))))))))))..).)))))))(((((((((((((((((...((((.(((.....((((..(((....((((....))))))).))))..))).)).))...(((((((....)))))))))))).))))))))))))))))))))))))))))((.((((((((....)))))))).)).)))).).)))))))))))((((..((((((..((((((...)))))).))))))...)))).(((((....))))).......)))))))))..(((.(.((((((((..((((.......)))).(((((((....((((....))))..(((....)))(((((.((((((....))))))))))).)))))))...)))))))).).)))...)))))).).)))))))))))..((((..((..((((((((((((...(((.((((....)))).))).))))))))))))..))..)))).........(((((((((....)))))))))...
+(((((......))))).(((((((((((((((((((((((.....)))))))..)))))((.((((((((..(((((((((((((.(((((((((((((((((.(((((....((((((....)))))).)))))...(((.(((((....))))).)))((((...)))).)))))))..))))))))))((((((((((((((....))))))))))))))..((((((.(......).))))))...(((((.(((....))))))))..((((((.......)))))).(((((((((..((...))))))))).))))))))))......(((((((((((....)))))))...)))).....((((.....)))).)))))..)))))))).))(.(((((((((......).)))))))).).)))))))))))(((..((((((((.(.(((((((((((((((..(((......)))((((((((((.(.(.(((((((((...((((((((((((((((((.(..((((((.((((...((((((((..((((....(((((.(.........((..(((....(((((((..((....)).)))))))...)))..))).))))).)))).))))))))...))))))))))..).)))))))(((((((((((((((((...((((.(((.....((((..(((....((((....))))))).))))..))).)).))...(((((((....)))))))))))).))))))))))))))))))))))))))))((.((((((((....)))))))).)).)))).).)))))))))))((((..((((((..((((((...)))))).))))))...)))).(((((....))))).......)))))))))..(((.(.((((((((..((((.......)))).(((((((....((((....))))..(((....)))(((((.((((((....))))))))))).)))))))...)))))))).).)))...)))))).).)))))))))))..((((..((..((((((((((((...(((.((((....)))).))).))))))))))))..))..)))).........(((((((((....)))))))))...
+-662.6	-662.6	0
+
+>PDB_00411 RNA SSTRAND database. External source: RCSB Protein Data Bank 1FMN, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUGUAGGAUAUGCUUCGGCAGAAGGACACGCC
+(((((((......(((....))).....)))))))
+(((((((......(((....))).....)))))))
+-14.6	-14.6	0
+
+>PDB_00420 RNA SSTRAND database. External source: RCSB Protein Data Bank 1G70, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUCUGGGCGCACUUCGGUGACGGUACAGGCC
+((((((..(((((....))).))...))))))
+((((((..(((((....))).))...))))))
+-13.4	-13.4	0
+
+>PDB_00425 RNA SSTRAND database. External source: RCSB Protein Data Bank 1GTR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAUUCCGAGGUUCGAAUCCUCGUACCCCAGCCA
+((((((..(((.........))).(((((.......))))).....(((((.......))))))))))).....
+((((((..(((.........))).(((((.......))))).....(((((.......))))))))))).....
+-27.3	-27.3	0
+
+>PDB_00430 RNA SSTRAND database. External source: RCSB Protein Data Bank 1H3E, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCAGGUUCCCGAGGGCCAAAGGGGACGGUCUGNAAAACCGUUGGCGUAGCCUUCGCUGGUNCGAAUCCAGCCCUGCCCA
+(((((((.....((((((.......((((((.......))))))......))))))(((((.......)))))))))))).
+(((((((.....((((((.......((((((.......))))))......))))))(((((.......)))))))))))).
+-37	-37	0
+
+>PDB_00431 RNA SSTRAND database. External source: RCSB Protein Data Bank 1H4Q, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGUAGCGCAGCCCGGUAGCGCACCUCGUUCGGGACGAGGGGGGCGCUGGUNCAGAUCCAGUCUCC
+......((((.........)))).(((((((...)))))))((((.(((((.......)))))))))
+......((((.........)))).(((((((...)))))))((((.(((((.......)))))))))
+-25.4	-25.4	0
+
+>PDB_00434 RNA SSTRAND database. External source: RCSB Protein Data Bank 1HJI, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCCUGAAAAAGGGC
+(((((.....)))))
+(((((.....)))))
+-7.9	-7.9	0
+
+>PDB_00456 RNA SSTRAND database. External source: RCSB Protein Data Bank 1I94, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGUUGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGGCCGCGGGGUUUUACUCCGUGGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACCCGCCCCUUGGGGUGUGUCCAAAGGGCUUUGCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACCCGGGACGAAACCCCCGACGAGGGGACUGACGGUACCGGGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGGUCUCCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGUGCCCCGCGAGGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGAGCCUACGGGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGAUCACCUC
+.......(((..((((((..((((.((.((((((((((((((.(((....(((......)))..)))(((((((((((...)))))))))))((((((((..((((((.....(((((((...((((.(((((((.((((((...((((((....))))))....))))))...(((((.(((((....))))).)))))..((((...)))).))))))).)))))))))))....)).(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((..((((((((...((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((.....)))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((...))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).))).)))))..)))))).....))))))....)))))))).(((((((((....)))..((((......))))..))))))...)))))))))))).))))))))).))))).)))))).(((....))).((.(((((....)))))))......(((((((((((...(((..(..((((.....))))..)..)))..))))........(((((((.....(((((((..((((....))))..))..))))).....)))))))....(((((..(((((((........))))))).....)))))..........(((((((..((....))))))))).....)))))))..(((((((((((..(((((((((((((....).))(((((((((((...(.((((....(((....))).)))).)..))))))))))))))))..)))))..)).)).)))))))(((((((((....))))))))))))))).)))
+.......(((..((((((..((((.((.((((((((((((((.(((....(((......)))..)))(((((((((((...)))))))))))((((((((..((((((.....(((((((...((((.(((((((.((((((...((((((....))))))....))))))...(((((.(((((....))))).)))))..((((...)))).))))))).)))))))))))....)).(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((..((((((((...((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((.....)))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((...))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).))).)))))..)))))).....))))))....)))))))).(((((((((....)))..((((......))))..))))))...)))))))))))).))))))))).))))).)))))).(((....))).((.(((((....)))))))......(((((((((((...(((..(..((((.....))))..)..)))..))))........(((((((.....(((((((..((((....))))..))..))))).....)))))))....(((((..(((((((........))))))).....)))))..........(((((((..((....))))))))).....)))))))..(((((((((((..(((((((((((((....).))(((((((((((...(.((((....(((....))).)))).)..))))))))))))))))..)))))..)).)).)))))))(((((((((....))))))))))))))).)))
+-732.5	-732.5	0
+
+>PDB_00474 RNA SSTRAND database. External source: RCSB Protein Data Bank 1J1U, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CCGGCGGUAGUUCAGCCUGGUAGAACGGCGGACUGUAGAUCCGCAUGUCGCUGGUUCAAAUCCGGCCCGCCGGA
+(((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))).
+(((((((..((((.........)))).(((((.......))))).....(((((.......)))))))))))).
+-30.4	-30.4	0
+
+>PDB_00477 RNA SSTRAND database. External source: RCSB Protein Data Bank 1J5A, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAAGAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUAAGUAGGUCGUUGUUCGUGAAACGAUGACUGAAUCCGCGCGGACCACCGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAGCCAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCAUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGUGGGAGAAACUGGCCGGUCGGUGGCCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCA
+(((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.......((((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))))(((...((((....((((((((....(((((.((...(((((((((((((((((((.(((((......(((((((.........(((..(((((.((.......((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((.........)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).)).((((((((...((.....)).))))))))..(((((..((...(((...(((....)))...)))...))...(((((........))))).)))))...((((.((((((........)))))).))))(((((((((.(((((((.....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......)))))(((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).)))))))(((((.....)))))((((((((...(((((..........)))))(((((.....)))))(((((...)))))...(((((((....)))))))....))).)))))....((((..((...))..)))).))))))).)))))))))((((((((((((((.(....(((((.....((((......))))..)))))).)))))))))))))).....(((((((......))))))).)).)))))..))).........))))))).((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).))))).)))...))))))).)))))))))..)).)))))....))))))))...))))..)))........)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))).
+(((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.......((((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))))(((...((((....((((((((....(((((.((...(((((((((((((((((((.(((((......(((((((.........(((..(((((.((.......((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((.........)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).)).((((((((...((.....)).))))))))..(((((..((...(((...(((....)))...)))...))...(((((........))))).)))))...((((.((((((........)))))).))))(((((((((.(((((((.....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......)))))(((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).)))))))(((((.....)))))((((((((...(((((..........)))))(((((.....)))))(((((...)))))...(((((((....)))))))....))).)))))....((((..((...))..)))).))))))).)))))))))((((((((((((((.(....(((((.....((((......))))..)))))).)))))))))))))).....(((((((......))))))).)).)))))..))).........))))))).((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).))))).)))...))))))).)))))))))..)).)))))....))))))))...))))..)))........)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))).
+-1047.3	-1047.3	0
+
+>PDB_00478 RNA SSTRAND database. External source: RCSB Protein Data Bank 1J5E, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGGCCGCGGGGUUUUACUCCGUGGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACCCGCCCCUUGGGGUGUGUCCAAAGGGCUUUGCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACCCGGGACGAAACCCCCGACGAGGGGACUGACGGUACCGGGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGGUCUCCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGUGCCCCGCGAGGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGAGCCUACGGGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGAUCACUUUCU
+.(((((((..(((((..((((.((.((((((((((((((.(((....(((......)))..)))(((((((((((...)))))))))))((((((((..((((((.....(((((((...((((.(((((((.((((((...((((((....))))))....))))))...(((((.(((((....))))).)))))..((((...)))).))))))).)))))))))))....)).(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((..((((((((...((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((.....)))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((...))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).))).)))))..)))))).....))))))....)))))))).(((((((((....)))..((((......))))..))))))...)))))))))))).))))))))).))))).)))))).(((....))).((.(((((....)))))))......(((((((((((...(((..(..((((.....))))..)..)))..))))........(((((((.....(((((((..((((....))))..))..))))).....)))))))....(((((..(((((((........))))))).....)))))..........(((((((..((....))))))))).....)))))))..(((((((((((..(((((((((((((....).))(((((((((((...(.((((....(((....))).)))).)..))))))))))))))))..)))))..)).)).)))))))(((((((((....)))))))))))))))))))))
+.(((((((..(((((..((((.((.((((((((((((((.(((....(((......)))..)))(((((((((((...)))))))))))((((((((..((((((.....(((((((...((((.(((((((.((((((...((((((....))))))....))))))...(((((.(((((....))))).)))))..((((...)))).))))))).)))))))))))....)).(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((..((((((((...((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((.....)))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((...))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).))).)))))..)))))).....))))))....)))))))).(((((((((....)))..((((......))))..))))))...)))))))))))).))))))))).))))).)))))).(((....))).((.(((((....)))))))......(((((((((((...(((..(..((((.....))))..)..)))..))))........(((((((.....(((((((..((((....))))..))..))))).....)))))))....(((((..(((((((........))))))).....)))))..........(((((((..((....))))))))).....)))))))..(((((((((((..(((((((((((((....).))(((((((((((...(.((((....(((....))).)))).)..))))))))))))))))..)))))..)).)).)))))))(((((((((....)))))))))))))))))))))
+-735.8	-735.8	0
+
+>PDB_00487 RNA SSTRAND database. External source: RCSB Protein Data Bank 1JID, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGACCUCCCGGGAGCGGGGGACCACUA
+((((..((((((....))))))..)))).
+((((..((((((....))))))..)))).
+-14.9	-14.9	0
+
+>PDB_00495 RNA SSTRAND database. External source: RCSB Protein Data Bank 1JU7, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCCUUUUCAGGGCC
+((((((....))))))
+((((((....))))))
+-9.9	-9.9	0
+
+>PDB_00513 RNA SSTRAND database. External source: RCSB Protein Data Bank 1K8W, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCAACGGUUCGAUCCCGUUGC
+.(((((((.......)))))))
+.(((((((.......)))))))
+-9.3	-9.3	0
+
+>PDB_00522 RNA SSTRAND database. External source: RCSB Protein Data Bank 1KH6, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGGAACCGUACACCGGAAUCCGAAAGGAUUUGGGCGUGCCCCCGCC
+(((((....((((.((.((((((....)))))).)).))))..)))))
+(((((....((((.((.((((((....)))))).)).))))..)))))
+-25.7	-25.7	0
+
+>PDB_00537 RNA SSTRAND database. External source: RCSB Protein Data Bank 1L1C, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAUUGUUACUGCUACGGCAGGCAAAACC
+(..((((..((((....))))))))..).
+(..((((..((((....))))))))..).
+-7.7	-7.7	0
+
+>PDB_00542 RNA SSTRAND database. External source: RCSB Protein Data Bank 1L9A, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GACACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGUC
+(((((((...(((((((((((.(((((..((((((....))))))..))))).))))(((....)))....(((((....)))))....((((..........)))).)))))))....)))))))
+(((((((...(((((((.....(((((..((((((....))))))..)))))..((((((....)))))).(((((....)))))....((((..........)))).)))))))....)))))))
+-51.1	-51.1	-6
+
+>PDB_00547 RNA SSTRAND database. External source: RCSB Protein Data Bank 1LNG, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UCGGCGGUGGGGGAGCAUCUCCUGUAGGGGAGAUGUAACCCCCUUUACCUGCCGAACCCCGCCAGGCCCGGAAGGGAGCAACGGUAGGCAGGACGUC
+..((((..(((((.(((((((((....)))))))))..)))))....((((((.....(((.....(((....))).....)))..)))))).))))
+..((((..(((((.(((((((((....)))))))))..)))))....((((((.....(((.....(((....))).....)))..)))))).))))
+-46.8	-46.8	0
+
+>PDB_00553 RNA SSTRAND database. External source: RCSB Protein Data Bank 1LVJ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCAGAUCUGAGCCUGGGAGCUCUCUGGCC
+(((((((...((((......)))))))))))
+(((((((...((((......)))))))))))
+-16.4	-16.4	0
+
+>PDB_00565 RNA SSTRAND database. External source: RCSB Protein Data Bank 1MFQ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GACACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGUC
+(((((((...(((((((((((.(((((..((((((....))))))..))))).)))).....((((...(((.((.((((.(........))).)).)))))...)))).)))))))....)))))))
+(((((((...(((((((((((.(((((..((((((....))))))..))))).)))).....((((...(((.((.((((.(........))).)).)))))...)))).)))))))....)))))))
+-52.3	-52.3	0
+
+>PDB_00584 RNA SSTRAND database. External source: RCSB Protein Data Bank 1MZP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAUGCGUAGGAUAGGUGGGAGCCGCAAGGCGCCGGUGAAAUACCACCCUUCCC
+..........(((..(((((..(((((.....).))))......)))))..))).
+..........(((..(((((..(((((.....).))))......)))))..))).
+-17	-17	0
+
+>PDB_00599 RNA SSTRAND database. External source: RCSB Protein Data Bank 1NBK, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAGCUUGAUCCCGGAAACGGUCGAUCGCUCCC
+((((((..(((((((....)))..))))))))))
+((((((..(((((((....)))..))))))))))
+-17.4	-17.4	0
+
+>PDB_00603 RNA SSTRAND database. External source: RCSB Protein Data Bank 1NEM, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACUGGGCGAGAAGUUUAGUCC
+(((((((((.....)))))))))
+(((((((((.....)))))))))
+-11.1	-11.1	0
+
+>PDB_00606 RNA SSTRAND database. External source: RCSB Protein Data Bank 1NJN, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUAAGGUCGUUGUUCGUGAAACGAUGACUGAAUCCGCGCGGACCACCGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCAUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGUGGGAGAAACUGGCCGGUCGGUGGCCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCA
+(((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.....((((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))))...........((((((((....(((((.((...(((((((((((((((((((.(((((......(((((((.........(((..(((((.((.......((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).)).((((((((...((.....)).))))))))..(((((..((...(((...(((....)))...)))...))...(((((........))))).)))))...((((.((((((........)))))).))))(((((((((.(((((((.....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......)))))(((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).)))))))(((((.....)))))((((((((...(((((..........)))))(((((.....)))))(((((...)))))...(((((((....)))))))....))).)))))....((((..((...))..)))).))))))).)))))))))((((((((((((((.(....(((((.....((((......))))..)))))).)))))))))))))).....(((((((......))))))).)).)))))..))).........))))))).((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).))))).)))...))))))).)))))))))..)).)))))....))))))))..((((((....)).)))).)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))).
+(((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.......((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))((((....)))).((((((((....(((((.((...(((((((((((((((((((.(((((......(((((((.........(((..(((((.((.......((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).)).((((((((...((.....)).))))))))..(((((..((...(((...(((....)))...)))...))...(((((........))))).)))))...((((.((((((........)))))).))))(((((((((.(((((((.....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......)))))(((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).)))))))(((((.....)))))((((((((...(((((..........)))))(((((.....)))))(((((...)))))...(((((((....)))))))....))).)))))....((((..((...))..)))).))))))).)))))))))((((((((((((((.(....(((((.....((((......))))..)))))).)))))))))))))).....(((((((......))))))).)).)))))..))).........))))))).((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).))))).)))...))))))).)))))))))..)).)))))....))))))))..((((((....)).)))).)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))).
+-1048.2	-1048.2	-6
+
+>PDB_00617 RNA SSTRAND database. External source: RCSB Protein Data Bank 1NYB, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUUCACCUCUAACCGGGUGAGCC
+(((((((((......)))))))))
+(((((((((......)))))))))
+-13.2	-13.2	0
+
+>PDB_00627 RNA SSTRAND database. External source: RCSB Protein Data Bank 1OLN, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCUGGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAGUGCGUAACAGCUCACCAGC
+(((((((((.(((((.......))))).))))....((((........)))).)))))
+(((((((((.(((((.......))))).))))....((((........)))).)))))
+-18.7	-18.7	0
+
+>PDB_00628 RNA SSTRAND database. External source: RCSB Protein Data Bank 1OND, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUAAGGUCGUUGUUCGUGAAACGAUGACUGAAUCCGCGCGGACCACCGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCAUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGUGGGAGAAACUGGCCGGUCGGUGGCCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCA
+(((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.....((((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))))...........((((((((....(((((.((...(((((((((((((((((((.(((((......(((((((.........(((..(((((.((.......((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).)).((((((((...((.....)).))))))))..(((((..((...(((...(((....)))...)))...))...(((((........))))).)))))...((((.((((((........)))))).))))(((((((((.(((((((.....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((...(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......)))))(((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).)))))))(((((.....)))))((((((((...(((((..........)))))(((((.....)))))(((((...)))))...(((((((....)))))))....))).)))))....((((..((...))..)))).))))))).)))))))))((((((((((((((.(....(((((.....((((......))))..)))))).)))))))))))))).....(((((((......))))))).)).)))))..))).........))))))).((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).))))).)))...))))))).)))))))))..)).)))))....))))))))..((((((....)).)))).)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))).
+(((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.......((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))((((....)))).((((((((....(((((.((...(((((((((((((((((((.(((((......(((((((.........(((..(((((.((.......((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).)).((((((((...((.....)).))))))))..(((((..((...(((...(((....)))...)))...))...(((((........))))).)))))...((((.((((((........)))))).))))(((((((((.(((((((.....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((...(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......)))))(((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).)))))))(((((.....)))))((((((((...(((((..........)))))(((((.....)))))(((((...)))))...(((((((....)))))))....))).)))))....((((..((...))..)))).))))))).)))))))))((((((((((((((.(....(((((.....((((......))))..)))))).)))))))))))))).....(((((((......))))))).)).)))))..))).........))))))).((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).))))).)))...))))))).)))))))))..)).)))))....))))))))..((((((....)).)))).)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))).
+-1048.9	-1048.9	-6
+
+>PDB_00645 RNA SSTRAND database. External source: RCSB Protein Data Bank 1PNX, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGAUACGCGCGGCCCCUUGGGGCCGUGCGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACGCAAGUCCAAAGGGGGAAGCCUUCGGGUCCCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACCCGGGACGAAACCAGGGCCACUCAUACUGGCUCUGACUGACGGUACCGGGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGCGGCUCAACCGCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGUGCCUUCGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGUAACCUACGGGAAGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGAUCACUUUCU
+.(((((((..(((((..((((.((.((((((((((((((.(((....(((......)))..)))...(((((((((((....))))))))))).((((((((..((((((.....(((((((...((((.(((((((.((((((...(((((........(((((..((((((...(((((....)))))..)))))))))))))))))))))).))))))).)))))))))))....)).(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((...((((((....((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((((((.......)))))))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((((.....))))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).)))))).)))))).....))))))....)))))))).(((((((((....)))..((((......))))..))))))...)))))))))))).))))))))).))))).)))))).(((....))).((.(((((....)))))))......(((((((((((...(((..(..((((.....))))..)..)))..))))........(((((((.....(((((((..((((....))))..))..))))).....)))))))....(((((..(((((((........))))))).....)))))..........(((((((..((....))))))))).....)))))))..(((((((((((..(((((((((((((....).))(((((((((((...(.((((..((..((....))..)).)))).)..))))))))))))))))..)))))..)).)).)))))))(((((((((....)))))))))))))))))))))
+.(((((((..(((((..((((.((.((((((((((((((.(((....(((......)))..)))...(((((((((((....))))))))))).((((((((..((((((.....(((((((...((((.(((((((.((((((...(((((........(((((..((((((...(((((....)))))..)))))))))))))))))))))).))))))).)))))))))))....)).(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((...((((((....((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((((((.......)))))))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((((.....))))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).)))))).)))))).....))))))....)))))))).(((((((((....)))..((((......))))..))))))...)))))))))))).))))))))).))))).)))))).(((....))).((.(((((....)))))))......(((((((((((...(((..(..((((.....))))..)..)))..))))........(((((((.....(((((((..((((....))))..))..))))).....)))))))....(((((..(((((((........))))))).....)))))..........(((((((..((....))))))))).....)))))))..(((((((((((..(((((((((((((....).))(((((((((((...(.((((..((..((....))..)).)))).)..))))))))))))))))..)))))..)).)).)))))))(((((((((....)))))))))))))))))))))
+-747.6	-747.6	0
+
+>PDB_00664 RNA SSTRAND database. External source: RCSB Protein Data Bank 1QD3, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCAGAUUUGAGCCUGGGAGCUCUCUGGC
+((((((...((((......))))))))))
+((((((...((((......))))))))))
+-13.1	-13.1	0
+
+>PDB_00667 RNA SSTRAND database. External source: RCSB Protein Data Bank 1QF6, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCGAUAUAGCUCAGUUGGUAGAGCAGCGCAUUCGUAAUGCGAAGGUCGUAGGUNCGACUCCUAUUAUCGGCACCA
+(((((((..((((........))))..((((((...))))))..(((((......))))).....)))))))....
+(((((((..((((........))))..((((((...))))))..(((((......))))).....)))))))....
+-25.8	-25.8	0
+
+>PDB_00683 RNA SSTRAND database. External source: RCSB Protein Data Bank 1R4H, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCAAGCCC
+(((....)))
+(((....)))
+-2.1	-2.1	0
+
+>PDB_00685 RNA SSTRAND database. External source: RCSB Protein Data Bank 1R7Z, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGGACAUUCCUCACGGGUGACCGUGGUCCUCC
+(((((((......(((((....))))))))))))
+(((((((......(((((....))))))))))))
+-18.2	-18.2	0
+
+>PDB_00687 RNA SSTRAND database. External source: RCSB Protein Data Bank 1RAW, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAAGGGAAGAAACUGCGGCUUCGGCCGGCUUCCC
+.....((((((......((((....)))).))))))
+.....((((((......((((....)))).))))))
+-12.5	-12.5	0
+
+>PDB_00693 RNA SSTRAND database. External source: RCSB Protein Data Bank 1RMN, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGCUCUGAUGAGGCCGCAAGGCCGAAACUGCCGCAAGGCAGUCAGCGC
+(((((.......((((....))))...((((((....)))))).)))))
+(((((.......((((....))))...((((((....)))))).)))))
+-22.9	-22.9	0
+
+>PDB_00703 RNA SSTRAND database. External source: RCSB Protein Data Bank 1S1H, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGGCCGCGCCGUGGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACCCGCCCCUUGGGGUGUGUCCAAAGGGCUUUGCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACGAAACCCCCGACGAGGGGACUGACGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGGUCUCCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGAGCCUACGGGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGAUCA
+.........((((((((((((((.(....).)))(((((.(((....(((......)))..))).)))))(((((.....))))).((((((((.((...(((((((...((((.(((((((.((((((...((((((....))))))....))))))...(((((.(((((....))))).)))))..((((...)))).))))))).))))))))))).......(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((.....((((...(((((....))))).))))((..(((((((((...((((.....))))(((((....)))))..........((((.....))))...........(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((...))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..))....(((((..((((........))))))))).........)))))).((((((((..(((((((....))))))).))))))))....))))))....)))))))).(((((.(((((((((.((((((......)))((.((.(((((..(((((.(((((((.((((..((((...))))))))..)))))))..((.(((((....)))))))....).))))..).)).)).))..))..)))))))))))).))))).......(((.(((((.(((((((.....(((((((..((((....))))..))..))))).....)))))))((.....))..(((((((........)))))))....(((((((.((.((...(((((((..((....)))))))))...))))))))..))).)))))))))))))))))).((((..((..(((((((((((((...(.((((....(((....))).)))).)..)))))))))))))..))..)))).))))).........(((((((((....)))))))))))))))
+.........((((((((((((((.(....).)))(((((.(((....(((......)))..))).)))))(((((.....))))).((((((((.((...(((((((...((((.(((((((.((((((...((((((....))))))....))))))...(((((.(((((....))))).)))))..((((...)))).))))))).))))))))))).......(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((.....((((...(((((....))))).))))((..(((((((((...((((.....))))(((((....)))))..........((((.....))))...........(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((...))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..))....(((((..((((........))))))))).........)))))).((((((((..(((((((....))))))).))))))))....))))))....)))))))).(((((.(((((((((.((((((......)))((.((.(((((..(((((.(((((((.((((..((((...))))))))..)))))))..((.(((((....)))))))....).))))..).)).)).))..))..)))))))))))).))))).......(((.(((((.(((((((.....(((((((..((((....))))..))..))))).....)))))))((.....))..(((((((........)))))))....(((((((.((.((...(((((((..((....)))))))))...))))))))..))).)))))))))))))))))).((((..((..(((((((((((((...(.((((....(((....))).)))).)..)))))))))))))..))..)))).))))).........(((((((((....)))))))))))))))
+-704.2	-704.2	0
+
+>PDB_00705 RNA SSTRAND database. External source: RCSB Protein Data Bank 1S2F, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGAGUGGUUUGUAUCCUUCCC
+((((((.(((....)))))))))
+((((((.(((....)))))))))
+-9.2	-9.2	0
+
+>PDB_00713 RNA SSTRAND database. External source: RCSB Protein Data Bank 1SER, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGGUGCCCGAGUGGCUGAAGGGGGUAGGGGGGCCUCCCUCGCGGGUNCGAAUCCCGCCCUCUC
+((((.(((.....)))....(((((.(((....))))))))(((((.......)))))))))..
+((((.(((.....)))....(((((.(((....))))))))(((((.......)))))))))..
+-28.6	-28.6	0
+
+>PDB_00714 RNA SSTRAND database. External source: RCSB Protein Data Bank 1SJ3, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGUGAAUGGGAC
+((.(((((.((((.(((((......))))).))))))))).)).((((((((.....))))))))........
+((.(((((.((((.(((((......))))).))))))))).)).((((((((.....))))))))........
+-34.9	-34.9	0
+
+>PDB_00716 RNA SSTRAND database. External source: RCSB Protein Data Bank 1SJF, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGUGAAUGGGAC
+.((.(((((.((((.(((((......))))).))))))))).)).((((((((.....))))))))........
+.((.(((((.((((.(((((......))))).))))))))).)).((((((((.....))))))))........
+-34.9	-34.9	0
+
+>PDB_00727 RNA SSTRAND database. External source: RCSB Protein Data Bank 1T28, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUCAUCGUUGAGAAAACGAAACAGACGGUGGCC
+((((((((((..............))))))))))
+((((((((((..............))))))))))
+-12.2	-12.2	0
+
+>PDB_00728 RNA SSTRAND database. External source: RCSB Protein Data Bank 1T4L, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAUACCAUGUUCAGAAGAACGUGGUAUCUC
+((((((((((((((....))))))))))))))
+((((((((((((((....))))))))))))))
+-20.2	-20.2	0
+
+>PDB_00730 RNA SSTRAND database. External source: RCSB Protein Data Bank 1TBK, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGAGUUGACUACUCGC
+((((((.....))))))
+((((((.....))))))
+-7.7	-7.7	0
+
+>PDB_00734 RNA SSTRAND database. External source: RCSB Protein Data Bank 1TJZ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGACGCCGUAAGGCGCAGCC
+(((..((((....))))..)))
+(((..((((....))))..)))
+-11.1	-11.1	0
+
+>PDB_00737 RNA SSTRAND database. External source: RCSB Protein Data Bank 1TOB, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCACGAGGUUUAGCUACACUCGUGCC
+((((((((((......)).))))))))
+((((((((((......)).))))))))
+-15.1	-15.1	0
+
+>PDB_00741 RNA SSTRAND database. External source: RCSB Protein Data Bank 1TXS, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCUAGCACUCUGGUAUUACGGUACCUUUGUGCGCCC
+((((..((((...(((((....)))))...))))))))
+((((..((((...(((((....)))))...))))))))
+-16.9	-16.9	0
+
+>PDB_00742 RNA SSTRAND database. External source: RCSB Protein Data Bank 1U0B, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGCGUUAACAAAGCGGUUAUGUAGCGGAUUGCAAAUCCGUCUAGUCCGGUUCGACUCCGGAACGCGCCUCCA
+(((((((((((......))))..(((((((((...)))))).))).(((((.......))))))))))))....
+(((((((((((......))))..(((((((((...)))))).))).(((((.......))))))))))))....
+-28.3	-28.3	0
+
+>PDB_00749 RNA SSTRAND database. External source: RCSB Protein Data Bank 1U8D, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACAUAUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGACUAUGUCC
+(((((((.....(((((.......)))))..........((((((.......))))))..)))))))
+(((((((.....(((((.......)))))..........((((((.......))))))..)))))))
+-21.3	-21.3	0
+
+>PDB_00750 RNA SSTRAND database. External source: RCSB Protein Data Bank 1U9S, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGCCAGGUAACGCCUGGGCGGGGUAACCCGACGGAAAGUGCCACAGAGAAGAGACCGCCAGCGGCCGGGGCCCCGGUGCGGGCAAGGGUGAAACGGCGGGGUAAGAGCCCACCGCCUGGCCUGGCAACAGGCCGGGGCACGGCAAACCCCACC
+((((((((((...)))))).((((....))))..((....((((...........((((((.(((.((((....))))))).)))...)))....(((.(((.......))).)))(((((((((....)))))))))....))))...))))))
+((((((((((...)))))).((((....))))..((....((((...........((((((.(((.((((....))))))).)))...)))....(((.(((.......))).)))(((((((((....)))))))))....))))...))))))
+-71.9	-71.9	0
+
+>PDB_00751 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ULL, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUGGACUCGUACUUCGGUACUGGAGAAACAGCC
+(((((..(((((((....))))..)))...)))))
+(((((..(((((((....))))..)))...)))))
+-13.2	-13.2	0
+
+>PDB_00764 RNA SSTRAND database. External source: RCSB Protein Data Bank 1VC5, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCGGCAUGGUCCCAGCCUCCUCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGCGAAUGGGAC
+(.(((((.((((.((((......)))).))))))))).)....(((((((((....)).)).)))))...
+(.(((((.((((.((((......)))).))))))))).)....(((((((((....)).)).)))))...
+-29.6	-29.6	0
+
+>PDB_00765 RNA SSTRAND database. External source: RCSB Protein Data Bank 1VC6, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGUGAAUGGGAC
+(.(((((.((((.(((((......))))).))))))))).)..((((((((.....))))))))........
+(.(((((.((((.(((((......))))).))))))))).)..((((((((.....))))))))........
+-34.2	-34.2	0
+
+>PDB_00769 RNA SSTRAND database. External source: RCSB Protein Data Bank 1VOQ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGAUACGCGCGGCCCCUUGGGGCCGUGCGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACGCAAGUCCAAAGGGGGAAGCCUUCGGGUCCCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACCCGGGACGAAACCAGGGCCACUCAUACUGGCUCUGACUGACGGUACCGGGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGCGGCUCAACCGCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGUGCCUUCGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGUAACCUACGGGAAGAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGAUCA
+.........((((((..((((.((.((((((((((((((.(((....(((......)))..)))...(((((((((((....))))))))))).((((((((..((((((.....(((((((...((((.(((((((.((((((...(((((........(((((..((((((...(((((....)))))..)))))))))))))))))))))).))))))).)))))))))))....)).(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((...((((((....((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((((((.......)))))))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((((.....))))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).)))))).)))))).....))))))....)))))))).(((((((((....)))..((((......))))..))))))...)))))))))))).))))))))).))))).)))))).(((....))).((.(((((....)))))))......(((((((((((...(((..(..((((.....))))..)..)))..))))........(((((((.....(((((((..((((....))))..))..))))).....)))))))....(((((..(((((((........))))))).....)))))..........(((((((..((....))))))))).....)))))))..(((((((((((..(((((((((((((....).))(((((((((((...(.((((......((....))....)))).)..))))))))))))))))..)))))..)).)).)))))))(((((((((....)))))))))))))))
+.........((((((..((((.((.((((((((((((((.(((....(((......)))..)))...(((((((((((....))))))))))).((((((((..((((((.....(((((((...((((.(((((((.((((((...(((((........(((((..((((((...(((((....)))))..)))))))))))))))))))))).))))))).)))))))))))....)).(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((...((((((....((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((((((.......)))))))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((((.....))))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).)))))).)))))).....))))))....)))))))).(((((((((....)))..((((......))))..))))))...)))))))))))).))))))))).))))).)))))).(((....))).((.(((((....)))))))......(((((((((((...(((..(..((((.....))))..)..)))..))))........(((((((.....(((((((..((((....))))..))..))))).....)))))))....(((((..(((((((........))))))).....)))))..........(((((((..((....))))))))).....)))))))..(((((((((((..(((((((((((((....).))(((((((((((...(.((((......((....))....)))).)..))))))))))))))))..)))))..)).)).)))))))(((((((((....)))))))))))))))
+-740.1	-740.1	0
+
+>PDB_00791 RNA SSTRAND database. External source: RCSB Protein Data Bank 1VS5, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGAAGAGUUUGAUCAUGGCUCAGAUUGAACGCUGGCGGCAGGCCUAACACAUGCAAGUCGAACGGUAACAGGAAGAAGCUUGCUUCUUUGCUGACGAGUGGCGGACGGGUGAGUAAUGUCUGGGAAACUGCCUGAUGGAGGGGGAUAACUACUGGAAACGGUAGCUAAUACCGCAUAACGUCGCAAGACCAAAGAGGGGGACCUUCGGGCCUCUUGCCAUCGGAUGUGCCCAGAUGGGAUUAGCUAGUAGGUGGGGUAACGGCUCACCUAGGCGACGAUCCCUAGCUGGUCUGAGAGGAUGACCAGCCACACUGGAACUGAGACACGGUCCAGACUCCUACGGGAGGCAGCAGUGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCCAUGCCGCGUGUAUGAAGAAGGCCUUCGGGUUGUAAAGUACUUUCAGCGGGGAGGAAGGGAGUAAAGUUAAUACCUUUGCUCAUUGACGUUACCCGCAGAAGAAGCACCGGCUAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGUGCAAGCGUUAAUCGGAAUUACUGGGCGUAAAGCGCACGCAGGCGGUUUGUUAAGUCAGAUGUGAAAUCCCCGGGCUCAACCUGGGAACUGCAUCUGAUACUGGCAAGCUUGAGUCUCGUAGAGGGGGGUAGAAUUCCAGGUGUAGCGGUGAAAUGCGUAGAGAUCUGGAGGAAUACCGGUGGCGAAGGCGGCCCCCUGGACGAAGACUGACGCUCAGGUGCGAAAGCGUGGGGAGCAAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGAUGUCGACUUGGAGGUUGUGCCCUUGAGGCGUGGCUUCCGGAGCUAACGCGUUAAGUCGACCGCCUGGGGAGUACGGCCGCAAGGUUAAAACUCAAAUGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAUGCAACGCGAAGAACCUUACCUGGUCUUGACAUCCACGGAAGUUUUCAGAGAUGAGAAUGUGCCUUCGGGAACCGUGAGACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGUUGUGAAAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUAUCCUUUGUUGCCAGCGGUCCGGCCGGGAACUCAAAGGAGACUGCCAGUGAUAAACUGGAGGAAGGUGGGGAUGACGUCAAGUCAUCAUGGCCCUUACGACCAGGGCUACACACGUGCUACAAUGGCGCAUACAAAGAGAAGCGACCUCGCGAGAGCAAGCGGACCUCAUAAAGUGCGUCGUAGUCCGGAUUGGAGUCUGCAACUCGACUCCAUGAAGUCGGAAUCGCUAGUAAUCGUGGAUCAGAAUGCCACGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACACCAUGGGAGUGGGUUGCAAAAGAAGUAGGUAGCUUAACCUUCGGGAGGGCGCUUACCACUUUGUGAUUCAUGACUGGGGUGAAGUCGUAACAAGGUAACCGUAGGGGAACCUGCGGUUGGAUCA
+......((((((((........))))))))((((((((((((..........((.(.(((..((((((..(((((.......))))))))))).))).).))(((.((((..((...(((((((..((...(((((((.(.((..((.((((((....)))))).))...)).).....(((....))).....((((((.((....)))))))).)))))))..)).)))))))((((((.(((..((((((((.......)))))))))))...))))))..(((((((.........)))))))....(((((.(((.....)))))))).((((....))))...((((((.....)))))).....((((....))))(((((((((((((.((..........((((.(((((.((((((..((..((((.(((((..(..((.((((((((.......)))))))).))..)....))))).))))..)).((((.(((.(((((((..(((.((.((......))..)).)))..))).....)))).)))))))((((...)))).(.((((((((((((((.(((((((((....((((.((......)).))))...)))))))))..)))))(((.(.((((((((..((((.((((...((((((((.(.(((........)))..).))))))))...))))(((.((....)).)))))))..))).))))).).)))....((((...(((((((..((...((((.........))))))..))))))))))).(((((.((......)).)))))...(((((.(((((((((...))))).)))).)))))..))))))))).)((((..((((....))))...))))....((((((((.(.(((((((.(....))))).)).).).).)))))))..)))))).)))))..))))(((((.(((((...(((.((((.(((((((....)))))....)).)))))))....)))))))))))).))))))))).)))).((((((.........(((.(((......)))))))))))))).))))...)))))))))))))))(((((..((((((((..........((.(((((.....)))))))...(((((.((((((.....)))))).(((((((.......))))))).......(((((...(((((((.....(((..((...(((....)))...))....))).....))))))))))))((((..(((((((........))))))).....))))..))))).((((((((((.........)))))))...)))))))))))(((((((((((..(((((.........(((..((((((((((((.(..((((((.((((..((...))..))))))))))..)))))))))))))..))))))))..)).)).)))))))(((((((((....)))))))))))))).
+......((((((((........))))))))((((((((((((..........((.(.(((..((((((..(((((.......))))))))))).))).).))(((.((((..((...(((((((..((...(((((((.(.((..((.((((((....)))))).))...)).).....(((....))).....((((((.((....)))))))).)))))))..)).)))))))((((((.(((..((((((((.......)))))))))))...))))))..(((((((.........)))))))....(((((.(((.....)))))))).((((....))))...((((((.....)))))).....((((....))))(((((((((((((.((..........((((.(((((.((((((..((..((((.(((((..(..((.((((((((.......)))))))).))..)....))))).))))..)).((((.(((.(((((((..(((.((.((......))..)).)))..))).....)))).)))))))((((...)))).(.((((((((((((((.(((((((((....((((.((......)).))))...)))))))))..)))))(((.(.((((((((..((((.((((...((((((((.(.(((........)))..).))))))))...))))(((.((....)).)))))))..))).))))).).)))....((((...(((((((..((...((((.........))))))..))))))))))).(((((.((......)).)))))...(((((.(((((((((...))))).)))).)))))..))))))))).)((((..((((....))))...))))....((((((((.(.(((((((.......)))).)).).).).)))))))..)))))).)))))..))))(((((.(((((...(((.((((.(((((((....)))))....)).)))))))....)))))))))))).))))))))).)))).((((((.........(((.(((......)))))))))))))).))))...)))))))))))))))(((((..((((((((..........((.(((((.....)))))))...(((((.((((((.....)))))).(((((((.......))))))).......(((((...(((((((.....(((..((...(((....)))...))....))).....))))))))))))((((..(((((((........))))))).....))))..))))).((((((((((.........)))))))...)))))))))))(((((((((((..(((((.........(((..((((((((((((.(..((((((.((((..((...))..))))))))))..)))))))))))))..))))))))..)).)).)))))))(((((((((....)))))))))))))).
+-586.5	-586.5	-6
+
+>PDB_00798 RNA SSTRAND database. External source: RCSB Protein Data Bank 1WKS, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUUUGGAUAAAAGCC
+((((((.....))))))
+((((((.....))))))
+-6.4	-6.4	0
+
+>PDB_00809 RNA SSTRAND database. External source: RCSB Protein Data Bank 1XHP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGCAGUUCCCCUGCAUAAGGAUGAACCGUUC
+((((.((((.(((.....)))..)))).))))
+((((.((((.(((.....)))..)))).))))
+-9.4	-9.4	0
+
+>PDB_00810 RNA SSTRAND database. External source: RCSB Protein Data Bank 1XJR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGUUCACCGAGGCCACGCGGAGUACGAUCGAGGGUACAGUGAAUU
+..(((((((.(..(((.((((.....))..))..))).).)))))))
+..(((((((.(..(((.((((.....))..))..))).).)))))))
+-10.6	-10.6	0
+
+>PDB_00819 RNA SSTRAND database. External source: RCSB Protein Data Bank 1XSG, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAAGACCGGUCUUCGGACCGGCUUCC
+(((((.((((((....)))))))))))
+(((((.((((((....)))))))))))
+-18.2	-18.2	0
+
+>PDB_00820 RNA SSTRAND database. External source: RCSB Protein Data Bank 1XSH, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAAGCUCGGUCUUCGGACCGGCUUCC
+((((((.(((((....)))))))))))
+((((((.(((((....)))))))))))
+-18.2	-18.2	0
+
+>PDB_00824 RNA SSTRAND database. External source: RCSB Protein Data Bank 1XV6, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CGCGAAUUCGCG
+((((....))))
+((((....))))
+-4.1	-4.1	0
+
+>PDB_00825 RNA SSTRAND database. External source: RCSB Protein Data Bank 1XWP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGAUCGCACUCCA
+((((......)))).
+((((......)))).
+-5.2	-5.2	0
+
+>PDB_00826 RNA SSTRAND database. External source: RCSB Protein Data Bank 1XWU, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CGAAACAUAGAUUCGA
+((((.......)))).
+((((.......)))).
+-1.1	-1.1	0
+
+>PDB_00828 RNA SSTRAND database. External source: RCSB Protein Data Bank 1Y26, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CGCUUCAUAUAAUCCUAAUGAUAUGGUUUGGGAGUUUCUACCAAGAGCCUUAAACUCUUGAUUAUGAAGUG
+(((((((((...((((((.........))))))........((((((.......))))))..)))))))))
+(((((((((...((((((.........))))))........((((((.......))))))..)))))))))
+-18.5	-18.5	0
+
+>PDB_00829 RNA SSTRAND database. External source: RCSB Protein Data Bank 1Y27, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAUCAUAUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGACUAUGGUC
+.(((((((.....(((((.......)))))..........((((((.......))))))..)))))))
+.(((((((.....(((((.......)))))..........((((((.......))))))..)))))))
+-18.7	-18.7	0
+
+>PDB_00842 RNA SSTRAND database. External source: RCSB Protein Data Bank 1YG3, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+AGUGGCGCCGACCACUUAAAAACACCGG
+(((((......)))))............
+(((((......)))))............
+-5	-5	0
+
+>PDB_00855 RNA SSTRAND database. External source: RCSB Protein Data Bank 1YLG, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAUAUAUGAUACAAUUUGAUCAGUAUAUCC
+(((((((((((........)))).)))))))
+(((((((((((........)))).)))))))
+-8.4	-8.4	0
+
+>PDB_00857 RNA SSTRAND database. External source: RCSB Protein Data Bank 1YMO, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCUGUUUUUCUCGCUGACUUUCAGCCCCAAACAAAAAAGUCAGCA
+((((((....((.....))....))))))..................
+((((((....((.....))....))))))..................
+-11.4	-11.4	0
+
+>PDB_00861 RNA SSTRAND database. External source: RCSB Protein Data Bank 1YNE, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAUAUAUGAUAUAAUUUGAUCAGUAUAUCC
+(((((((((((........)))).)))))))
+(((((((((((........)))).)))))))
+-8.4	-8.4	0
+
+>PDB_00865 RNA SSTRAND database. External source: RCSB Protein Data Bank 1YSV, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUAACAAUAUGCUAAAUGUUGUUACC
+(((((((((((.....)))))))))))
+(((((((((((.....)))))))))))
+-12.2	-12.2	0
+
+>PDB_00876 RNA SSTRAND database. External source: RCSB Protein Data Bank 1Z2J, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAAGAUCUGGCCUUCCCACAAGGGAAGGCCAGGGAAUCUUCCC
+(((((((((((((((((((....)))))))))))...))))))))
+(((((((((((((((((((....)))))))))))...))))))))
+-33.9	-33.9	0
+
+>PDB_00877 RNA SSTRAND database. External source: RCSB Protein Data Bank 1Z30, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUUCGUUAGAACGUC
+(((((((....)))))))
+(((((((....)))))))
+-8.6	-8.6	0
+
+>PDB_00878 RNA SSTRAND database. External source: RCSB Protein Data Bank 1Z31, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGGUCGGCCCGACUUCGGUCACUGCCACCUC
+(((((.(((..(((....)))...))))))))
+(((((.(((..(((....)))...))))))))
+-13.3	-13.3	0
+
+>PDB_00879 RNA SSTRAND database. External source: RCSB Protein Data Bank 1Z43, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCUCGGCGGUGGGGGAGCAUCUCCUGUAGGGGAGAUGUAACCCCCUUUACCUGCCGAACCCCGCCAGGCCCGGAAGGGAGCAACGGUAGGCAGGACGUCGG
+...(((((..(((((.(((((((((....)))))))))..)))))....((((((.....(((.....(((....))).....)))..)))))).))))).
+...(((((..(((((.(((((((((....)))))))))..)))))....((((((.....(((.....(((....))).....)))..)))))).))))).
+-50.4	-50.4	0
+
+>PDB_00885 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ZC5, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGAUCUGGCCUUCCUACAAGGGAAGGCCAGGGAAUUGCC
+(((((((((((((((((....)))))))))))...))))))
+(((((((((((((((((....)))))))))))...))))))
+-26.7	-26.7	0
+
+>PDB_00903 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ZO1, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....
+-22.4	-22.4	0
+
+>PDB_00905 RNA SSTRAND database. External source: RCSB Protein Data Bank 1ZSE, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGUCUAAGACAG
+((((...)))).
+((((...)))).
+-1.6	-1.6	0
+
+>PDB_00917 RNA SSTRAND database. External source: RCSB Protein Data Bank 2A2E, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGAGGAGCAGGCGGUCCGGGGGCGCGCGCUCCCGAAGCCGGACUCUGAGCGGGUGCCGGGUAACGCCCGGGAGGGGUGACCCUCGGACAGGGCCAUAGAGAAGACCGCCGGCAAGGGUGGAACGGUGGGGUAAGAGCCCACCAGCGUCGGGGCAACCCGGCGGCUUGGCAACCCCCACCGGAGGGCCAAGGGGGUGGGCGCUCCUACCCCCUUGGCCGGUGUGCGGUAACGCACACCGACCGCCUCCGGCUUAUGCUCCUCUCC
+(((((((((((((((((((((((((....)))))))........(((((.(.(((((((((((...((((..(((((....))))).....))))...........(((((......)))))...((((((.......))))))..(((((((....)))))))))))))))...))).))))))(((((((((((((((....)))))))))))))))((((((((....))))))))))))))).........)))))))))))
+(((((((((((((((((((((((((....)))))))........(((((.(.(((((((((((...((((..(((((....))))).....))))...........(((((......)))))...((((((.......))))))..(((((((....)))))))))))))))...))).))))))(((((((((((((((....)))))))))))))))((((((((....))))))))))))))).........)))))))))))
+-171.4	-171.4	0
+
+>PDB_00918 RNA SSTRAND database. External source: RCSB Protein Data Bank 2A43, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGGCACCGUCCGCUCAAACAAACGG
+((((......))))............
+((((......))))............
+-5.4	-5.4	0
+
+>PDB_00919 RNA SSTRAND database. External source: RCSB Protein Data Bank 2A64, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GUUAAUCAUGCUCGGGUAAUCGCUGCGGCCGGUUUCGGCCGUAGAGGAAAGUCCAUGCUCGCACGGUGCUGAGAUGCCCGUAGUGUUCGUGCCUAGCGAAUCCAUAAGCUAGGGCAGCCGGCUGACGGCGGGCCCUGAAAGUGCCGGUAAACCCCACGAGCGAGAAACCCAAAUAGGGGCACCUUCCCGAAGGAAAUGAACGGAGGGAAGGACAGGCGGCGCAUGCAGCCUGUAGAUAGAUGAUUACCGCCGGAGUACGUACGAAGGUACAGAACAUGGCUUAUAGAGCAUGAUUAAC
+(((((((((((((.(((((((.(((((((((....))))))))).(((...)))...(((((((((.((......)))))).(.((((((.....)))))).)......((((((.((((.....))))..))))))...(((..((....)).)))..)))))...(((.....)))...(((((((...(........)...)))))))((((((.((....)).))))))........)))))))((((..((.(((((....)))).).)).)))).....)))))))))))))
+(((((((((((((.(((((((((((((((((....))))))))).(((...)))...(((((((((.((......)))))).(.((((((.....)))))).)......((((((.((((.....))))..))))))...(((..((....)).)))..)))))...(((.....)))...(((((((...(........)...)))))))((((((.((....)).)))))).......))))))))((((..((.(((((....)))).).)).)))).....)))))))))))))
+-128.2	-128.2	6
+
+>PDB_00923 RNA SSTRAND database. External source: RCSB Protein Data Bank 2AB4, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CCACGGUUCGAAUCCGUGGC
+((((((.......)))))).
+((((((.......)))))).
+-9.3	-9.3	0
+
+>PDB_00925 RNA SSTRAND database. External source: RCSB Protein Data Bank 2AHT, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGCGGGGGUGUAAACCUAUCGCUCC
+(((((((((((....)))).)))))))
+(((((((((((....)))).)))))))
+-15.3	-15.3	0
+
+>PDB_00926 RNA SSTRAND database. External source: RCSB Protein Data Bank 2AKE, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GACCUCGUGGCGCAAUGGUAGCGCGUCUGACUCCAGAUCAGAAGGUUGCGUGUUCGAAUCACGUCGGGGUCA
+(((((((..((((.......))))(((((....))))).........(((((.......)))))))))))).
+(((((((..((((.......))))(((((....))))).........(((((.......)))))))))))).
+-25.7	-25.7	0
+
+>PDB_00927 RNA SSTRAND database. External source: RCSB Protein Data Bank 2ANN, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CGCGGAUCAGUCACCCAAGCGCG
+((((...............))))
+((((...............))))
+-3.5	-3.5	0
+
+>PDB_00928 RNA SSTRAND database. External source: RCSB Protein Data Bank 2ANR, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CUCGCGGAUCAGUCACCCAAGCGAG
+(((((((........))...)))))
+(((((((........))...)))))
+-6	-6	0
+
+>PDB_00930 RNA SSTRAND database. External source: RCSB Protein Data Bank 2AP0, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+AGUGGCGCCGACCACUUAAAAACAACGG
+(((((......)))))............
+(((((......)))))............
+-5	-5	0
+
+>PDB_00932 RNA SSTRAND database. External source: RCSB Protein Data Bank 2AU4, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGACGAAGUGGUUGGGCGCUUCGGCGUGUGAAAACGUCCC
+((((((......(((.((((....)))).)))...))))))
+((((((......(((.((((....)))).)))...))))))
+-15.8	-15.8	0
+
+>PDB_00944 RNA SSTRAND database. External source: RCSB Protein Data Bank 2B57, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GACAUAUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGAUUAUGUC
+((((((.....(((((.......)))))..........((((((.......))))))..))))))
+((((((.....(((((.......)))))..........((((((.......))))))..))))))
+-18	-18	0
+
+>PDB_00945 RNA SSTRAND database. External source: RCSB Protein Data Bank 2B63, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CAGCACUGAUUGCGGUCGAGGUAGCUUGAUG
+..(((.....))).((((((....)))))).
+..(((.....))).((((((....)))))).
+-6.9	-6.9	0
+
+>PDB_00948 RNA SSTRAND database. External source: RCSB Protein Data Bank 2B6G, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGGCUCUGGCAGCUUUC
+(((((((.....)))))))
+(((((((.....)))))))
+-5.4	-5.4	0
+
+>PDB_00993 RNA SSTRAND database. External source: RCSB Protein Data Bank 2D3O, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUAAGGUCGUUGUUCGUGAAACGAUGACUGAAUCCGCGCGGACCACCGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCAUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGAUAGGUGGGAGCCUGCGAAACUGGCCUUUUGGGGUCGGUGGAGGCAACGGUGAAAUACCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUUAUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCA
+(((((((((......(((..((((((...(((((((((.(((((((((.......((((((...(((.....(((((.....((((.(.....((((((((.(((((....))))).((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.....((((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))))...........((((((((....(((((.((...(((((((((((((((((((.(((((......(((((((.........(((..(((((.((.......((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).)).((((((((...((.....)).))))))))..(((((..((...(((...(((....)))...)))...))...(((((........))))).)))))...((((.((((((........)))))).))))(((((((((.(((((((.....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......)))))(((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).)))))))(((((.....)))))((((((((...(((((..........)))))(((((.....)))))(((((...)))))...(((((((....)))))))....))).)))))....((((..((...))..)))).))))))).)))))))))((((((((((((((.....(((...((((...((((((...((((((((....))))))))....)))..)))....))))..))))))))))))))))).....(((((((......))))))).)).)))))..))).........))))))).((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).))))).)))...))))))).)))))))))..)).)))))....))))))))..((((((....)).)))).)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))))))))))).....).))))))))))))...)))))).......)))).)))))..))))).))))...((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))))))))..))).(((......(((((.......))))).......)))..((.((.((((((....)))))).)))).(((((((....)))))))...))))))))).
+(((((((((......(((..(((((((..(((((((((.(((((((((.......((((((...(((.....(((((.....((((.(.....((((((((.(((((....))))).((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.......((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))((((....)))).((((((((....(((((.((...(((((((((((((((((((.(((((......((((((((.(((...((..((((((((....))...((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).))((((((((((.....((((((((...(((.........(((...))).((((((......(((((((((.((((((..(((.(((((..(((.((..((.(((((.((((((........))))))..........((((.....))))....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......))))).((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).))))))((((((.....))))))))))).))..)).)))..))))).)))))))))(((.((((...)))).)))......))))))))).......)))))).)))...)).)))))).....))))).)))))..)))))).)).)))))))))))..((((((((.((.(..........((((.((((.((..((((((((....))))))))((((((...((((......))))...(((((......)))))..(((((((......)))))))((((((.((...(((.....)))...)).))))))))))))..........)).)))).)))).(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..))))).))))))))))))))).)))...))))))).)))))))))..)).)))))....))))))))..((((((....)).)))).)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))))))))))).....).))))))))))))...)))))).......)))).)))))..))))).))))....(((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))))))))..))).(((......(((((.......))))).......)))..((.((.((((((....)))))).)))).(((((((....)))))))...))))))))).
+-1061.2	-1061.2	6
+
+>PDB_00999 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DET, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GUCCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGG
+..(((((..((((.........))))((((((.......))))))...(((((.......))))))))))
+..(((((..((((.........))))((((((.......))))))...(((((.......))))))))))
+-26.6	-26.6	0
+
+>PDB_01001 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DLC, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CUCUCGGUAGCCAAGGGAAGGCGCAAGGNAAAUGAGUCGGGCGUNCGACUCGCCCCCGGGAGACCA
+.....(((..((..(((..(((...........((((((......)))))))))))).))..))).
+.....(((..((..(((..(((...........((((((......)))))))))))).))..))).
+-22.5	-22.5	0
+
+>PDB_01002 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DR2, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GACCUCGUGGCGCAAUGGUAGCGCGUCUGACUCCAGAUCAGAAGGUUGCGUGUUCGAAUCACGUCGGGGUCACCA
+(((((((..((((.......))))(((((....))))).........(((((.......))))))))))))....
+(((((((..((((.......))))(((((....))))).........(((((.......))))))))))))....
+-25.7	-25.7	0
+
+>PDB_01003 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DR5, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCA
+((((((((((((.......)))))))))))).
+((((((((((((.......)))))))))))).
+-29.8	-29.8	0
+
+>PDB_01004 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DR7, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCAC
+((((((((((((.......))))))))))))..
+((((((((((((.......))))))))))))..
+-29.8	-29.8	0
+
+>PDB_01006 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DR9, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCACC
+((((((((((((.......))))))))))))...
+((((((((((((.......))))))))))))...
+-29.8	-29.8	0
+
+>PDB_01008 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DRB, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCACCA
+((((((((((((.......))))))))))))....
+((((((((((((.......))))))))))))....
+-29.8	-29.8	0
+
+>PDB_01009 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DU3, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCAGGGUGGCAGAGGGGCUUUGCGGCGGACUGCAGAUCCGCUUUACCCCGGUUCGAAUCCGGGCCCUGGC
+((((((((((.((((.((.(((((((....))))))).)).)))).))((((.......))))))))))))
+((((((((((.((((.((.(((((((....))))))).)).)))).))((((.......))))))))))))
+-37.4	-37.4	0
+
+>PDB_01011 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DU5, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCAGGGUGGCAGAGGGGCUUUGCGGCGGACUUCAGAUCCGCUUUACCCCGGUUCGAAUCCGGGCCCUGGC
+(((((((..((((((...))))))((((((.......))))))....(((((.......))))))))))))
+(((((((..((((((...))))))((((((.......))))))....(((((.......))))))))))))
+-35	-35	0
+
+>PDB_01012 RNA SSTRAND database. External source: RCSB Protein Data Bank 2DU6, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCCAGGGUGGCAGAGGGGCUUUGCGGCGGACUCUAGAUCCGCUUUACCCCGGUUCGAAUCCGGGCCCUGGC
+(((((((..((((((...))))))((((((.......))))))....(((((.......))))))))))))
+(((((((..((((((...))))))((((((.......))))))....(((((.......))))))))))))
+-35	-35	0
+
+>PDB_01020 RNA SSTRAND database. External source: RCSB Protein Data Bank 2EES, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACAUUUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGACAAUGUCCA
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+-22.4	-22.4	0
+
+>PDB_01021 RNA SSTRAND database. External source: RCSB Protein Data Bank 2EET, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACAUGUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGACCAUGUCCA
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+-24.5	-24.5	0
+
+>PDB_01022 RNA SSTRAND database. External source: RCSB Protein Data Bank 2EEU, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACAUAAAAUCGCGUGGAUAUGGCACGCAAGUUUCUUCCGGGCACCGUAAAUGUCCGACUAUGUCCA
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+-23.2	-23.2	0
+
+>PDB_01023 RNA SSTRAND database. External source: RCSB Protein Data Bank 2EEV, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACAUACAAUCGCGUGGAUAUGGCACGCAAGUUUCUGCCGGGCACCGUAAAUGUCCGACUAUGUCCA
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+-22.9	-22.9	0
+
+>PDB_01024 RNA SSTRAND database. External source: RCSB Protein Data Bank 2EEW, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACAUAUAAUCGCGUGGAUAUGGCACGCAAGCUUCUACCGGGCACCGUAAAUGUCCGACUAUGUCCA
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+-23	-23	0
+
+>PDB_01025 RNA SSTRAND database. External source: RCSB Protein Data Bank 2ES5, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGAGGCUCUGGCAGCUUUUCC
+(((((((((.....)))))))))
+(((((((((.....)))))))))
+-10.2	-10.2	0
+
+>PDB_01033 RNA SSTRAND database. External source: RCSB Protein Data Bank 2EUY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCUUAGGAAACAGUUCGCUGUGCCGAAAGGUC
+((((((.((..((((....)))).))..))))))
+((((((.((..((((....)))).))..))))))
+-11.7	-11.7	0
+
+>PDB_01034 RNA SSTRAND database. External source: RCSB Protein Data Bank 2EVY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUAUGCUAGUACC
+(((((....)))))
+(((((....)))))
+-3.5	-3.5	0
+
+>PDB_01041 RNA SSTRAND database. External source: RCSB Protein Data Bank 2F87, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUGAAGGGCC
+((((....))))
+((((....))))
+-4.3	-4.3	0
+
+>PDB_01042 RNA SSTRAND database. External source: RCSB Protein Data Bank 2F88, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGCCGUGUGCGAUGAAAGUCGCAAGCACGGUUC
+((((((((((((((....)))))..)))))))))
+((((((((((((((....)))))..)))))))))
+-19.6	-19.6	0
+
+>PDB_01043 RNA SSTRAND database. External source: RCSB Protein Data Bank 2F8K, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UAAUCUUUGAAGAUU
+.(((((....)))))
+.(((((....)))))
+-0.8	-0.8	0
+
+>PDB_01050 RNA SSTRAND database. External source: RCSB Protein Data Bank 2FDT, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUUGUACGUCGCUUUGGAUAAAAGCGUCUGCGACC
+(((((((.(.((((((.....)))))).))))))))
+(((((((.(.((((((.....)))))).))))))))
+-16.1	-16.1	0
+
+>PDB_01051 RNA SSTRAND database. External source: RCSB Protein Data Bank 2FEY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGACUAUCGACAUUUGAUACACUAUUUAUCAAUGGAUGUCUC
+(((((.(((.(...((((((.......))))))).))))))))
+(((((.(((.(...((((((.......))))))).))))))))
+-10.1	-10.1	0
+
+>PDB_01053 RNA SSTRAND database. External source: RCSB Protein Data Bank 2FK6, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCUUCCAUAGCUCAGCAGGUAGAGCGUCAGCGGUUCGAGCCCGCUUGGAAGCU
+(((((((......(((.(((.((((.......))))..))).)))))))))).
+(((((((......(((.(((.((((.......))))..))).)))))))))).
+-20.8	-20.8	0
+
+>PDB_01056 RNA SSTRAND database. External source: RCSB Protein Data Bank 2FRL, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCAGAUCUGUAAUAGAACUGCC
+(((((.((((...)))).)))))
+(((((.((((...)))).)))))
+-9.3	-9.3	0
+
+>PDB_01057 RNA SSTRAND database. External source: RCSB Protein Data Bank 2FY1, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACUGUCCACAAGACAGUCC
+((((((((.....))))))))
+((((((((.....))))))))
+-12	-12	0
+
+>PDB_01058 RNA SSTRAND database. External source: RCSB Protein Data Bank 2G1G, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+ACGGGCUCAUAACCCGU
+(((((.......)))))
+(((((.......)))))
+-5.8	-5.8	0
+
+>PDB_01059 RNA SSTRAND database. External source: RCSB Protein Data Bank 2G1W, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGUGGCUCCCCUAACAGCCG
+((((.....)))).........
+((((.....)))).........
+-7	-7	0
+
+>PDB_01066 RNA SSTRAND database. External source: RCSB Protein Data Bank 2G9C, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACAUAUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGAUUAUGUCCU
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+(((((((.....(((((.......)))))..........((((((.......))))))..))))))).
+-22.5	-22.5	0
+
+>PDB_01067 RNA SSTRAND database. External source: RCSB Protein Data Bank 2GBH, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCUAAUAUUAGCCC
+((((((....))))))
+((((((....))))))
+-8.3	-8.3	0
+
+>PDB_01071 RNA SSTRAND database. External source: RCSB Protein Data Bank 2GIO, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCAUCUUGCUCUUCGGAGGAUUUGGCC
+(((((...(.(((....))).)..)))))
+(((((...(.(((....))).)..)))))
+-10.9	-10.9	0
+
+>PDB_01072 RNA SSTRAND database. External source: RCSB Protein Data Bank 2GIP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCAUCUUCUCUUCGGAGGAUUUGGCC
+(((((..(((((....)))))..)))))
+(((((..(((((....)))))..)))))
+-14.2	-14.2	0
+
+>PDB_01073 RNA SSTRAND database. External source: RCSB Protein Data Bank 2GIS, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCUUAUCAAGAGAGGUGGAGGGACUGGCCCGAUGAAACCCGGCAACCAGAAAUGGUGCCAAUUCCUGCAGCGGAAACGUUGAAAGAUGAGCCA
+((((((((......(((...(((.....)))......))).((((.(((....)))))))........(((((....)))))...)))))))).
+((((((((......(((...(((.....)))......))).((((.(((....)))))))........(((((....)))))...)))))))).
+-33.4	-33.4	0
+
+>PDB_01083 RNA SSTRAND database. External source: RCSB Protein Data Bank 2GRW, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACCUCUCGAAAGAGAUGUCC
+((((.((((....)))).))))
+((((.((((....)))).))))
+-10.3	-10.3	0
+
+>PDB_01084 RNA SSTRAND database. External source: RCSB Protein Data Bank 2GV3, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCAGACUCCCGAAUCUGGCC
+(((((((........)))))))
+(((((((........)))))))
+-11.2	-11.2	0
+
+>PDB_01085 RNA SSTRAND database. External source: RCSB Protein Data Bank 2GV4, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACCUCUCGAAAGAGUGGUCC
+(((((.(((....))).)))))
+(((((.(((....))).)))))
+-12.5	-12.5	0
+
+>PDB_01086 RNA SSTRAND database. External source: RCSB Protein Data Bank 2GVO, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAGGUCGGGAUGGAUCUC
+((((((......))))))
+((((((......))))))
+-6.8	-6.8	0
+
+>PDB_01097 RNA SSTRAND database. External source: RCSB Protein Data Bank 2H2X, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGAUACACUAUUUAUCGCC
+(((((((.......)))))))
+(((((((.......)))))))
+-8.1	-8.1	0
+
+>PDB_01099 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HEM, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGAAGGCGCUUCGGCGUCGGCCC
+(((..(((((....)))))..)))
+(((..(((((....)))))..)))
+-13.2	-13.2	0
+
+>PDB_01100 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HGH, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCCAUACCUCUUGGGCCUGGUUAGUACCUCUUCGGUGGGAAUACCAGGUGCCC
+((((....((....))(((((((...((((.....)))).....)))))))))))
+((((....((....))(((((((...((((.....)))).....)))))))))))
+-20.3	-20.3	0
+
+>PDB_01107 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HHH, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGGCCGCGGGGUUUUACUCCGUGGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACCCGCCCCUUGGGGUGUGUCCAAAGGGCUUUGCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACCCGGGACGAAACCCCCGACGAGGGGACUGACGGUACCGGGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGGUCUCCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGUGCCCCGCGAGGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGAGCCUACGGGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGAU
+...((.((((.((((((...)))))))))).)).(((((.(((((..(((......)))..((.(((((((((((...))))))))))).))((((((((((((.((...(((((((...((((.(((((((.((((((...((((((....))))))....))))))...(((((.(((((....))))).)))))..((((...)))).))))))).))))))))))).......(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((..((((((((...((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((.....)))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((...))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).))).)))))..)))))).....))))))....)))))))).(((((.(((((((((.((((((......)))((.((.(((((..(((((.(((((((.((((..((((...))))))))..)))))))..((.(((((....)))))))....).))))..).)).)).))..))..)))))))))))).))))).......(((.(((((.(((((((.....(((((((..((((....))))..))..))))).....)))))))((.....))..(((((((........)))))))....(((((((.((.((...(((((((..((....)))))))))...))))))))..))).)))))))))))))))))).))))..((..(((((((((((((...(.((((....(((....))).)))).)..)))))))))))))..)).)))))..))))).......((((((((((....))))))))))...
+...((.((((.((((((...)))))))))).)).(((((.(((((..(((......)))..((.(((((((((((...))))))))))).))((((((((((((.((...(((((((...((((.(((((((.((((((...((((((....))))))....))))))...(((((.(((((....))))).)))))..((((...)))).))))))).))))))))))).......(((..((((((((.......)))))))))))((((((((((.(((((((.........))))))).)).(((((.(((.....)))))))).((((....))))((((((((((((..((((((((...((((((..((((((((..((..(((((((((...((((.....))))(((((....)))))....(((((..((....((((.....)))).....))...)))))....(((((((((((..(((((((((.((....)))))...))))))))).)).))))))(((((.....)))))(((..((((((((..((((((((((((.(((((((((......((((((.....))))))....))))))))).).))))))))..((((..(((..(((((((.(..(((((((.((.(((........)))..)).)))))))...((((...))))....).)))))))..)))..))))...(((...((((....))))....)))...((((.........))))...)))))))))))..)))(((((.(((.((((((((((...))))))))))..)))...)))))...(((.(((.((((..((((.(((((....)))))..))))...........))))))).))).)))))))))..)).)))(((((..((((........)))))))))....)))))((((......))))...(((((((....))))))))))))).))).)))))..)))))).....))))))....)))))))).(((((.(((((((((.((((((......)))((.((.(((((..(((((.(((((((.((((..((((...))))))))..)))))))..((.(((((....)))))))....).))))..).)).)).))..))..)))))))))))).))))).......(((.(((((.(((((((.....(((((((..((((....))))..))..))))).....)))))))((.....))..(((((((........)))))))....(((((((.((.((...(((((((..((....)))))))))...))))))))..))).)))))))))))))))))).))))..((..(((((((((((((...(.((((....(((....))).)))).)..)))))))))))))..)).)))))..))))).......((((((((((....))))))))))...
+-730.6	-730.6	0
+
+>PDB_01108 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HNS, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCGUGAUCAAGUGAUCGCGCC
+(((((((((....)))))))))
+(((((((((....)))))))))
+-14.8	-14.8	0
+
+>PDB_01111 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HOJ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGACUCGGGGUGCCCUCGUGAAGGCUGAGAAAACCCGUAACCUGAUCUGGAUAAUGCCAGCGAGGGAAGUCGCA
+((((((..((((...(((((....)).)))...))))....(((...((((......))))...))).)))))).
+((((((..((((...(((((....)).)))...))))....(((...((((......))))...))).)))))).
+-25.8	-25.8	0
+
+>PDB_01112 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HOK, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGACUCGGGGUGCCCUGCGUGAAGGCUGAGAAAACCCGUAACCUGAUCUGGAUAAUCCAGCGAGGGAAGUCGCA
+((((((((((...(.(.((......)).).)....))))...(((...(((((...)))))...))).)))))).
+((((((((((...(.(.((......)).).)....))))...(((...(((((...)))))...))).)))))).
+-25.1	-25.1	0
+
+>PDB_01114 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HOM, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGACUCGGGGUGCCCUGCGUGAAGGCUGAGAAAACCCGUAACCUGAUCUGGAUAAUGCCAGCGAGGGAAGUCGCA
+((((((((((...(.(.((......)).).)....))))...(((...((((......))))...))).)))))).
+((((((((((...(.(.((......)).).)....))))...(((...((((......))))...))).)))))).
+-24.5	-24.5	0
+
+>PDB_01115 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HOO, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGACUCGGGGUGCCCUGCAAGGCUGAGAAAACCCGUAUACCUGACUGGAUAAUGCCAGCGUAGGGAAGUCGCA
+((((((((((..(((......)))........))))....((((.((((......))))..))))..)))))).
+((((((((((..(((......)))........))))....((((.((((......))))..))))..)))))).
+-24.3	-24.3	0
+
+>PDB_01116 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HOP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGACUCGGGGUGCCCGCGUAAGGCUGAGAAAACCCGUAACCUGAUGGAUAAUCCAGAGGGAAGUCGCA
+((((((((((...((.((.....)).).)....))))...(((..((((...))))..))).)))))).
+((((((((((...((.((.....)).).)....))))...(((..((((...))))..))).)))))).
+-23.9	-23.9	0
+
+>PDB_01117 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HUA, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCUCCAGCGACGGCCUUCGGGACUAGCAAACGGAGGCC
+(((((((.((.....((....))....))....)))))))
+(((((((.((.....((....))....))....)))))))
+-15.8	-15.8	0
+
+>PDB_01118 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HVY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGUCCGCCUUGAUGCCCGGGUGAAAGCAUGAUCCCGGGUAAUAUGGCGGACCCACA
+(((((((((.((.((((((((............)))))))).)).)))))))))...
+(((((((((.((.((((((((............)))))))).)).)))))))))...
+-37.6	-37.6	0
+
+>PDB_01119 RNA SSTRAND database. External source: RCSB Protein Data Bank 2HW8, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGUGAAGGAGGCUUCGGCCGCGAAACUUCACCCC
+(((((((((..(((....)))......)))))))))
+(((((((((..(((....)))......)))))))))
+-19.9	-19.9	0
+
+>PDB_01128 RNA SSTRAND database. External source: RCSB Protein Data Bank 2IHX, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CUGCCCUCAUCCGUCUCGCUUAUUCGGGGAGCGGACGAUGACCCUAGUAGAGGGGGCUGCGGCUUAGGAGGGCAG
+((((((((...((((.(((((.......)))))))))....((((.....))))(((....)))...))))))))
+((((((((...((((.(((((.......)))))))))....((((.....))))(((....)))...))))))))
+-34.2	-34.2	0
+
+>PDB_01133 RNA SSTRAND database. External source: RCSB Protein Data Bank 2IXY, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCCUCCAAGCUGUGCCUUGGGUGGCC
+((((((((((......)))))).))))
+((((((((((......)))))).))))
+-13.5	-13.5	0
+
+>PDB_01147 RNA SSTRAND database. External source: RCSB Protein Data Bank 2JR4, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CCUCCCUUACAAGGAGG
+(((((.......)))))
+(((((.......)))))
+-6.1	-6.1	0
+
+>PDB_01150 RNA SSTRAND database. External source: RCSB Protein Data Bank 2JSE, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGUGGCCGAAAGGCAUCUCC
+((((..(((....)))..))))
+((((..(((....)))..))))
+-10.3	-10.3	0
+
+>PDB_01152 RNA SSTRAND database. External source: RCSB Protein Data Bank 2JTP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAUGGGGAAAGAAGCCCCGCAAUUUCCCCAUCC
+(((((((((((...((...))..)))))))))))
+(((((((((((...((...))..)))))))))))
+-18.8	-18.8	0
+
+>PDB_01154 RNA SSTRAND database. External source: RCSB Protein Data Bank 2JWV, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GAUACUUGAAACUGUAAGGUUGGCGUAUC
+(((((....((((....))))...)))))
+(((((....((((....))))...)))))
+-5.1	-5.1	0
+
+>PDB_01160 RNA SSTRAND database. External source: RCSB Protein Data Bank 2NQP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAUGGUGGAAUCGGUAGACACAAGGGAAAUCCCUCGGCGUGCUGUGCGGGUUCAAGUCCCGUCC
+((((((..(((((.(((.((((.((((....))))....))).).))).))))).....))))))
+((((((..(((((.(((.((((.((((....))))....))).).))).))))).....))))))
+-23.3	-23.3	0
+
+>PDB_01162 RNA SSTRAND database. External source: RCSB Protein Data Bank 2NRE, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+AGGUGGUGGAAUUGGUAGACACGCUACCGGUAGUUACGGGUUCAAGUCCCGUCCUC
+.(((((((.............)))))))((.....(((((.......)))))))..
+.(((((((.............)))))))((.....(((((.......)))))))..
+-16.6	-16.6	0
+
+>PDB_01163 RNA SSTRAND database. External source: RCSB Protein Data Bank 2NUE, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGACAAGCGCAAGGUCAUUCGCAAGAGUGGCCUUGCGCUUGUCCC
+(((((((((((((((((((((....)))))))))))))))))))))
+(((((((((((((((((((((....)))))))))))))))))))))
+-41.1	-41.1	0
+
+>PDB_01167 RNA SSTRAND database. External source: RCSB Protein Data Bank 2O32, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+CUCGGCCNUUUGGCUAAGA
+((.((((....)))).)).
+((.((((....)))).)).
+-5.3	-5.3	0
+
+>PDB_01168 RNA SSTRAND database. External source: RCSB Protein Data Bank 2O33, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUUUGCCUUUUGGCUUACC
+(((..(((....)))..)))
+(((..(((....)))..)))
+-8.4	-8.4	0
+
+>PDB_01184 RNA SSTRAND database. External source: RCSB Protein Data Bank 2OGO, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUAAGGUCGUUGUUCGUGAAACGAUGACUGAAUCCGCGCGGACCACCGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCAUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGUGGGAGAAACUGGCCGGUCGGUGGCCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCA
+((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.....((((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))))...........((((((((....(((((.((...(((((((((((((((((((.(((((......(((((((.........(((..(((((.((.......((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).)).((((((((...((.....)).))))))))..(((((..((...(((...(((....)))...)))...))...(((((........))))).)))))...((((.((((((........)))))).))))(((((((((.(((((((.....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......)))))(((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).)))))))(((((.....)))))((((((((...(((((..........)))))(((((.....)))))(((((...)))))...(((((((....)))))))....))).)))))....((((..((...))..)))).))))))).)))))))))((((((((((((((.(....(((((.....((((......))))..)))))).)))))))))))))).....(((((((......))))))).)).)))))..))).........))))))).((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).))))).)))...))))))).)))))))))..)).)))))....))))))))..((((((....)).)))).)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))..
+((((((((....((((((((...)))..)))))..(((((((..((.((..(((((((......)))......((((((.((((.(......)))))....))))))..))))...((((....))))((((....))))(((((....))))).....(((((..(((((......))))).))))).((((..(((......)))..)))).......(((((((((..((..(((((((((.......((((.(((..(((...((((((....))))))((((((.....)))).))......)))....))).))))((((....)))).((((((((....(((((.((...(((((((((((((((((((.(((((......(((((((.........(((..(((((.((.......((((.......(((((.....))).))........))))....((.((..(((((..((((((((((((((....).)))))))))).))).(((((..((.((.((((((...((((.((((((((((..((((..(((....)))..))))...((....))..((((.....)))).......))))))))))))))((((((..((((.(((((((.((((((((.((((((..(((((......)))))((((((((((...)))).))).)))...((.((((((((....(((((...((((.....(((((.(((....)))...)))))....))))((((..(((((....)))))...))))(((.....)))(((((...(((...(((.((((......)))).)))..)))....))))))))))....)))))))).)).(((((((.(((....))).)))))))....(((......)))......))))))..))))(((...(((((((...)))))))))).((.((.(((.....))).))))(((((.(((((.......))))).))))).....))))....)))))))))))))))))...((.((.((((......)))).))))......((((((........(((..((((((((...)))))))))))))))))...((((((((((.((......(((((.((....)).)))))...)).))))))).)))....)))))).)).))..))))).((((((.......))))))....)))))..)).)).((((((((...((.....)).))))))))..(((((..((...(((...(((....)))...)))...))...(((((........))))).)))))...((((.((((((........)))))).))))(((((((((.(((((((.....(((((((((..((....((((((((((.............)))))).((((..((((.(((...((((((((..((....(((..((((......))))..)))...)).))))))))..)))))))..))))...)))).....))..)))))).)))(((((..(((((....)))))..)))))(((((......)))))(((((((.(((((.((((....((((..((((....))))(.(.((((((((...))))))))).).((((((((((....))..))))))))......((((.(.((.(((...(((.....)))...))).))).))))(((.(((((...((((((..(((...((...(((((....)))))...))...)))))))))...))))).))).......)))).....)))).))))).)))))))(((((.....)))))((((((((...(((((..........)))))(((((.....)))))(((((...)))))...(((((((....)))))))....))).)))))....((((..((...))..)))).))))))).)))))))))((((((((((((((.(....(((((.....((((......))))..)))))).)))))))))))))).....(((((((......))))))).)).)))))..))).........))))))).((.(((((((...........))))))).))..(((((((((..((((((((...)))))))).....((......))...)))))))))..((((..(((......)))..)))).(((....))).))))).)))...))))))).)))))))))..)).)))))....))))))))..((((((....)).)))).)))))))))(((((((.........)))).)))(((((.....)))))...))..)))))))))(((((((((((......)))))).)))))(((((.....))))).....(((((((((...((((.(((.(((((((....))).))))(((((.((.((...((((.....((((((((.(((((..(((((((..((.(....).)).))))))).(((((...((((..((((((((((((....))))))...))))))..)))).)))))....((....(((((...........)))))....))..))))....).))))))))..))))...)))))))))(((((.......)))))....))).)))))))))).)))....)).))..)))))))(((((((....)))))))...))))))))..
+-1044	-1044	-6
+
+>PDB_01191 RNA SSTRAND database. External source: RCSB Protein Data Bank 2OJ7, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCUGUUGU
+........
+........
+0	0	0
+
+>PDB_01202 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PCV, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGACCCGCCACUGCAGAGAUGCAAUCCAGUGGUCC
+((((((.....((((....)))).....).)))))
+((((((.....((((....)))).....).)))))
+-11.7	-11.7	0
+
+>PDB_01208 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXB, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGUGCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-16.6	-16.6	0
+
+>PDB_01209 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXD, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGUUCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-16.4	-16.4	0
+
+>PDB_01210 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXE, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGUCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGGUCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-13.6	-13.6	0
+
+>PDB_01211 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXF, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGGUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCACUUCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-16.1	-16.1	0
+
+>PDB_01212 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXK, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGUGUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCACGUCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-13.6	-13.6	0
+
+>PDB_01213 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXL, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCGGGUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCACUU
+..((((((((....(((....(((....)))....))).))))))))
+..((((((((....(((....(((....)))....))).))))))))
+-11.1	-11.1	0
+
+>PDB_01214 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXP, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGGCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGCUCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-18.9	-18.9	0
+
+>PDB_01215 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXQ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGGUCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-19.2	-19.2	0
+
+>PDB_01216 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXT, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GCUGCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGCGGC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-18.9	-18.9	0
+
+>PDB_01217 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXU, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGCGCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-19.2	-19.2	0
+
+>PDB_01218 RNA SSTRAND database. External source: RCSB Protein Data Bank 2PXV, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGGUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCACUGCC
+((((((((((....(((....(((....)))....))).))))))))))
+((((((((((....(((....(((....)))....))).))))))))))
+-16.3	-16.3	0
+
+>PDB_01236 RNA SSTRAND database. External source: RCSB Protein Data Bank 2QBZ, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGGCUUCGUUAGGUGAGGCUCCUGUAUGGAGAUACGCUGCUGCCCAAAAAUGUCCAAAGACGCCAAUGGGUCAACAGAAAUCAUCGACAUAAGGUGAUUUUUAAUGCAGCUGGCCUAUGCCAUACAGUGCUAAAGCUCUACGAUUGAAGCCCA
+((((((((....(((.(((((((((((((..(((.(((((((((((....((((....))))....)))......((((((((((.......))))))))))...))))).))).))).)))))))).)....)))).)))...)))))))).
+((((((((....(((.(((((((((((((..(((.(((((((((((....((((....))))....)))......((((((((((.......))))))))))...))))).))).))).)))))))).)....)))).)))...)))))))).
+-56.2	-56.2	0
+
+>PDB_01237 RNA SSTRAND database. External source: RCSB Protein Data Bank 2QH2, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGUGCCUGAGCUGUGGCACUCC
+((((((((........))))))))
+((((((((........))))))))
+-15.4	-15.4	0
+
+>PDB_01238 RNA SSTRAND database. External source: RCSB Protein Data Bank 2QH3, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAGUGCCUUACUGUGGCACUCC
+((((((((.......))))))))
+((((((((.......))))))))
+-14.9	-14.9	0
+
+>PDB_01239 RNA SSTRAND database. External source: RCSB Protein Data Bank 2QH4, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGCACAGAGUUAUGUGCC
+((((((......))))))
+((((((......))))))
+-8.9	-8.9	0
+
+>PDB_01255 RNA SSTRAND database. External source: RCSB Protein Data Bank 2R8S, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCA
+.(((((((......(((((((....((((.((((((((.(((((((((....))))))))).(((((....))))).)))).....))))))))...))))))).............((((...(((((((((...)))))))))..))))))))))).
+.(((((((......(((((((....((((.((((((((.(((((((((....))))))))).(((((....))))).)))).....))))))))...))))))).............((((...(((((((((...)))))))))..))))))))))).
+-53	-53	0
+
+>PDB_01257 RNA SSTRAND database. External source: RCSB Protein Data Bank 2R93, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+UGAUUCUCGGAAUC
+.(((((...)))))
+.(((((...)))))
+-1.4	-1.4	0
+
+>PDB_01262 RNA SSTRAND database. External source: RCSB Protein Data Bank 2TOB, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+ACUUGGUUUAGGUAAUGAGU
+(((((...))))).......
+(((((...))))).......
+-0.2	-0.2	0
+
+>PDB_01332 RNA SSTRAND database. External source: RCSB Protein Data Bank 484D, number of molecules: 1. The secondary structure annotation was obtained with RNAview.
+GGUGUCUUGGAGUGCUGAUCGGACACC
+(((((((..((.......)))))))))
+(((((((..((.......)))))))))
+-8.6	-8.6	0
+
+327 out of 327

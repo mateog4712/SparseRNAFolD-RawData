@@ -1,0 +1,3 @@
+>PDB_00859
+GCGAGUUGACUACUCGC
+((((((.....))))))

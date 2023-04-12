@@ -1,0 +1,3 @@
+>PDB_00733
+GCGGAUAUCCGCGGCGGAUAUCCGCACGCGGAUAUCCGCGGCGGAUAUCCGCACCGGAUCCGCACCGCGGAUCCCCC
+((((((((((((.(((((((((((....))))))))))).))))))))))))...((((((((...))))))))...

@@ -1,0 +1,3 @@
+>PDB_01004
+GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCAC
+((((((((((((.......))))))))))))..

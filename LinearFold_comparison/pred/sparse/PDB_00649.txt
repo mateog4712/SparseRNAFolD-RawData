@@ -1,0 +1,3 @@
+>PDB_00649
+AGCACGGCUGUAAACCGUGCAGCACGGCUUAAACCGUGC
+.((((((.......)))))).((((((......))))))

@@ -1,0 +1,3 @@
+>PDB_00358
+GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUPCGAGUCCCGPCCGUUCCGGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUPCGAGUCCCGPCCGUUCC
+(((((((..((((((((((((.((((..(((((((..(((..((((.(((......))).))))...)))..))).))))..)))))))))))).))))((((.(((((...)))))))))..((((.......)))).)))))))

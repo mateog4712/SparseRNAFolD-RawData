@@ -1,0 +1,3 @@
+>SRP_00100
+GACUGGCUGGGAUAACGCCCAGCUGUAACCAAGUGGAGUCGUUAAAGGUUUAGGAUGGGAUACUGUGUCACUACAUCCCGGAAGUAACAUUGCACGAUGGCUGCCCAUUACAAGGCUGCAGUCUCUAGAGUUGCCUUGGUGGAGACCGAGGUGACUUGUGAGAUAGUGAAACCCGUACCGCCGGAGGCUGGAAACAGAGCACGGAAAAGGGUUCGCUGUAGUACGGUGUAAGGAUAACAGUAGUUGUGUAACUUCCUGGCAUCUCAGUGAUUCGCGAGAUUCAUCUCGGACUAAAUUUUU
+(((((((((((......)))))))....((....))))))...((((((((((..((((((.((((((((((..((((.((((((.....((((((((.((((.((.(((((..(((((.(((((..(((((((((((((....)))))))))))))..)))))((((((.(((......(((....(((....)))....)))....))))))))))))))....)))))))....)))).)))))))))))))).)).))...)))))..))).))....))))))..))))))))))

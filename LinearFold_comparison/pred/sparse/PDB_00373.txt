@@ -1,0 +1,3 @@
+>PDB_00373
+GGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAGCGAGGUUCGAAUCCUCGUACCCCAGCCA
+((((((((((...)))))......(((((.......)))))..((((((.......))))))))))).....

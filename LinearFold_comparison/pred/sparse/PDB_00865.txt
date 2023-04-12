@@ -1,0 +1,3 @@
+>PDB_00865
+GGUAACAAUAUGCUAAAUGUUGUUACC
+(((((((((((.....)))))))))))

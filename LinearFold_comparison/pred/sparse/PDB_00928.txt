@@ -1,0 +1,3 @@
+>PDB_00928
+CUCGCGGAUCAGUCACCCAAGCGAG
+(((((((........))...)))))

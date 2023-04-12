@@ -1,0 +1,3 @@
+>PDB_00558
+GGCCACCUGACAGUCCUCUCCGGAGAGAGAAGUCAACCAGAGAAACACACCAACCCAUUGCACUCCGGGUUGGUGGUAUAUUACCUGGUACGGGGGAAACUUCGUGGUGGCCGGGCCACCUGACAGUCCUCUCCGGAGAGAGAAGUCAACCAGAGAAACACACCAACCCAUUGCACUCCGGGUUGGUGGUAUAUUACCUGGUACGGGGGAAACUUCGUGGUGGCCG
+(((((((((((..((((((((((((((.((.(((((((((..((((.(((((((((..........)))))))))))...))..)))))((((((....))))))((((((...))))))))))..)))))))))))))).)).))))(((((..((((.(((((((((..........)))))))))))...))..)))))((((((....))))))))))))).

@@ -1,0 +1,3 @@
+>PDB_00095
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGACUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+(((((((....((((((.((......)).)))))).((((...))))(((((.......))))))))))))....

@@ -1,0 +1,3 @@
+>PDB_00994
+AGUCCCGUGGGGUAGUGGUAAUCCUGCUGGGCUUUGGACCCGGCGACAGCGGUUCGACUCCGCUCGGGACUAAGUCCCGUGGGGUAGUGGUAAUCCUGCUGGGCUUUGGACCCGGCGACAGCGGUUCGACUCCGCUCGGGACUACC
+(((((((.(.((.(((.(.((((((((((((((..((.((((((...((.(((((.(((((.(.((((((...)))))).).)).))).).))))))))))))))..)).))))))...)).))))).))))).).)))))))...

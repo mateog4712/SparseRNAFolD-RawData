@@ -1,0 +1,3 @@
+>PDB_01076
+GACACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGUCGAGGUCCCGCGUACAAGACGCGGUCGAUAGACUCGGGGUGUGCGCGUCGAGGUAACGAGACGUUAAGCCCACGAGCACUAACAGACCAA
+(((((((...(((((((((((.(((((..((((((....))))))..))))).)))).....((((...((.(((.((((.(........))).)).)))))...)))).)))))))....)))))))..((((((((((.....))))))....(((.((((((((....(((((..(....)..)))))...)))).))))..)))...))))..

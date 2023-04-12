@@ -1,0 +1,3 @@
+>PDB_00681
+CUGUGUUCGAUCCACAGCUGUGUUCGAUCCACAGCUGUGUUCGAUCCACAG
+(((((.((((..((((((((((.......)))))))))).))))..)))))

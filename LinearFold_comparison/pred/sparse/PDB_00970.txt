@@ -1,0 +1,3 @@
+>PDB_00970
+CAUGAGGAUUACCCAUGCAUGAGGAUUACCCAUG
+((((.((....))))))((((.((....))))))
