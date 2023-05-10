@@ -1,3 +1,0 @@
->SRP_00379
-NCCGAGCUCUGUAGCGAGAGCUUGUAACCUAAGCGGGGGCAUUAAGGUGGUGUGGAUGUUUCCUGACGGAUUCUGGGCCUGGGCUUGUAUGUGCCACUGGCCGGCCUGCCCGUUCCAAGUUGGUUGUGGCUGGUGGGGCUCGGGCGAAGGCCUGGGCCUCUUUAGACCUGAAGCGGCAGGCAUGGCGUGAGGCUGGCUUCACAGAGCAGCGAUCACUCGCCCGCUUCCAACGGUGGGAGGAUAACAGGCCGCUGCAUUGCAAGCCCAACUCGGUCCAGAGCCUCAUUAAACAGACCACCAUCUUU
-..((((((((......))))))))...(((.....))).....(((((((((.(..(((((..(((.((.(((((((((((((((((((.((((....((.(((((((..(.(((((.(((((..(((.((((.(((((((((((....))))))))))).)))).((((......))))...(((((((.(((.((((....)))))))..))))..))))))..)))))..))))).)....)))))))))))))))))))))))....))))))))))))))..)))))..)))))))))).

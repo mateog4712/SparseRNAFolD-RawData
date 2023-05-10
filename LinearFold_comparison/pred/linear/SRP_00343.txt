@@ -1,3 +1,0 @@
->SRP_00343
-NCCGAGCUCAGUUGCGAGAGCUUGUAACCCGAGUGGGGGCAUUAAAGUGAUGUGAACGCUGUUGUAGCGCUGCGGGCCUGGUCUGGGUGUGCUACUGCUGGCCCGCCCGUUCCAAGUUGCGUAGUGGACCGCCUGGGGCUUAUGCGAAAGCUGGGUCUCACGGUCCAUAAUGUGGCAGGCACAGCGUGAGGCUGGCUUCACAGAGCAGCGACAACUGCCCGCUUCCAACGGUGGAAGGAUAAUGGGCCGCUGCACUCCUAGGCCAAUUGGGCCUCGCAGCCUACUCCAGCAGACCACC
-..(((((((........)))))))...(((.....)))((((((...))))))....((((..((((.(((((((((((((((((((.((((....((.((((((.....(((..(((((((.((((((((..(((((((((.((....))))))))))))))))))).)))))))((((.((((.....))))))))......((((......))))(((((......)))))..)))...)))))))).)))).)))))))))....)))).))))))))))..))))........
