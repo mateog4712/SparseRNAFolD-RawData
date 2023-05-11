@@ -1,2 +1,2 @@
-# spark-rawData
-This repository holds all of the data for the spark project
+# SparseRNAFolD-RawData
+This repository holds all of the data for the SparseRNAFolD project
